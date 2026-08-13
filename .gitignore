@@ -8,3 +8,5 @@ search-review-v2/
 selected-review-*.png
 working-csv-preview.png
 *.inspect.ndjson
+*-dark-check.jpg
+browser-google-*-contact.jpg
