@@ -6,3 +6,5 @@ page-search/
 search-review/
 search-review-v2/
 selected-review-*.png
+working-csv-preview.png
+*.inspect.ndjson
