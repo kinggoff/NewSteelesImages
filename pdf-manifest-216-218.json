@@ -1,0 +1,217 @@
+{
+  "batch": "216-218",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 763,
+      "sku": "VC-000000777",
+      "name": "Acoustical Tile Restorer",
+      "brand": "Value Chem",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS found; no qualifying standalone TDS PDF located",
+      "researchNotes": "Although the CSV brand field says Value Chem, the product image identifies Brodi Renew Acoustical Ceiling Tile Restorer. Brodi's current manufacturer product page supplies the exact Renew SDS. Its product page and manufacturer facility catalog provide application information but no standalone technical data sheet PDF, so the catalog was not mislabeled as a TDS.",
+      "sds": [
+        {
+          "csvRow": 763,
+          "sku": "VC-000000777",
+          "name": "Acoustical Tile Restorer",
+          "brand": "Value Chem",
+          "variant": "Brodi Renew Acoustical Ceiling Tile Restorer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": true,
+          "sourceUrl": "https://www.brodi.com/index.php?route=product/sds/download&sds_id=260",
+          "file": "PDFs/SDS/value-chem-Brodi-Renew-Acoustical-Ceiling-Tile-Restorer-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/value-chem-Brodi-Renew-Acoustical-Ceiling-Tile-Restorer-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/value-chem-Brodi-Renew-Acoustical-Ceiling-Tile-Restorer-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 768,
+      "sku": "REN-000000782",
+      "name": "Renner Exterior UV Water-Based Varnish - Matte",
+      "brand": "Renner",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer-issued TDS found from a specialist distributor; no qualifying exact downloadable SDS located",
+      "researchNotes": "The product image identifies Renner Aquaris Larice water-based exterior varnish YO30.1061.609A at 30 sheen. Renner's current manufacturer libraries do not expose this legacy North American code as a downloadable file. A specialist Renner distributor hosts the manufacturer-issued YOxx.1061 technical sheet, which explicitly includes YO30.1061.609AUS. An exact 30-sheen SDS is listed by distributors but is available only on request; the downloadable 10-sheen SDS was rejected as a non-exact substitute.",
+      "sds": [],
+      "tds": [
+        {
+          "csvRow": 768,
+          "sku": "REN-000000782",
+          "name": "Renner Exterior UV Water-Based Varnish - Matte",
+          "brand": "Renner",
+          "variant": "Renner Larice exterior varnish 30 sheen - YO30.1061.609AUS",
+          "documentType": "TDS",
+          "sourceType": "Other",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://cdn.woodworxsupply.com/media/YOxx.1061-Colors.pdf",
+          "file": "PDFs/TDS/renner-Renner-Larice-YO30-1061-609AUS-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/renner-Renner-Larice-YO30-1061-609AUS-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/renner-Renner-Larice-YO30-1061-609AUS-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 770,
+      "sku": "WAT-000000784",
+      "name": "Watco Danish Oil Dark Walnut",
+      "brand": "Watco",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and manufacturer family TDS found",
+      "researchNotes": "The row image identifies the Canadian 947 mL Watco Danish Oil Dark Walnut product. Rust-Oleum Canada's current product page lists Dark Walnut as Y65841H and links its exact SDS. Rust-Oleum's manufacturer Danish Oil technical sheet explicitly lists Dark Walnut and applies to the same Danish Oil finish family.",
+      "sds": [
+        {
+          "csvRow": 770,
+          "sku": "WAT-000000784",
+          "name": "Watco Danish Oil Dark Walnut",
+          "brand": "Watco",
+          "variant": "Watco Danish Oil Dark Walnut - Y65841H",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/Y65841H.pdf",
+          "file": "PDFs/SDS/watco-Watco-Danish-Oil-Dark-Walnut-Y65841H-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/watco-Watco-Danish-Oil-Dark-Walnut-Y65841H-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/watco-Watco-Danish-Oil-Dark-Walnut-Y65841H-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 770,
+          "sku": "WAT-000000784",
+          "name": "Watco Danish Oil Dark Walnut",
+          "brand": "Watco",
+          "variant": "Watco Danish Oil - includes Dark Walnut",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Watco/WAT-02_Danish_Oil_TDS.ashx",
+          "file": "PDFs/TDS/watco-Watco-Danish-Oil-Dark-Walnut-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/watco-Watco-Danish-Oil-Dark-Walnut-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/watco-Watco-Danish-Oil-Dark-Walnut-TDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 763,
+      "sku": "VC-000000777",
+      "name": "Acoustical Tile Restorer",
+      "brand": "Value Chem",
+      "variant": "Brodi Renew Acoustical Ceiling Tile Restorer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": true,
+      "sourceUrl": "https://www.brodi.com/index.php?route=product/sds/download&sds_id=260",
+      "file": "PDFs/SDS/value-chem-Brodi-Renew-Acoustical-Ceiling-Tile-Restorer-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/value-chem-Brodi-Renew-Acoustical-Ceiling-Tile-Restorer-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/value-chem-Brodi-Renew-Acoustical-Ceiling-Tile-Restorer-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/value-chem-Brodi-Renew-Acoustical-Ceiling-Tile-Restorer-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Value Chem",
+        "product": "Acoustical Tile Restorer",
+        "variant": "Brodi Renew Acoustical Ceiling Tile Restorer",
+        "visualTypeVerified": true,
+        "pages": 5,
+        "bytes": 2109214,
+        "sha256": "68648d78360245153f062abae5b4104bf3c65685dba4d4a249b461f5a823712b",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": ""
+      }
+    },
+    {
+      "csvRow": 768,
+      "sku": "REN-000000782",
+      "name": "Renner Exterior UV Water-Based Varnish - Matte",
+      "brand": "Renner",
+      "variant": "Renner Larice exterior varnish 30 sheen - YO30.1061.609AUS",
+      "documentType": "TDS",
+      "sourceType": "Other",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://cdn.woodworxsupply.com/media/YOxx.1061-Colors.pdf",
+      "file": "PDFs/TDS/renner-Renner-Larice-YO30-1061-609AUS-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/renner-Renner-Larice-YO30-1061-609AUS-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/renner-Renner-Larice-YO30-1061-609AUS-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/renner-Renner-Larice-YO30-1061-609AUS-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Renner",
+        "product": "Renner Exterior UV Water-Based Varnish - Matte",
+        "variant": "Renner Larice exterior varnish 30 sheen - YO30.1061.609AUS",
+        "visualTypeVerified": false,
+        "pages": 1,
+        "bytes": 67760,
+        "sha256": "40a195b4be47207b3352a852d791b275196815eab3ee181a9dc7f9e5670dc6da",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Technical Data Sheet Revised on June 2019 Page 1 of 1 Printed on 10/06/2019 DATA PROVIDED ON THIS TECHNICAL DATA SHEET CORRESPOND TO OUR BEST KNOWLEDGE AND EXPERIENCE. HOWEVER THE RESPONSIBILITY OF FINAL RESULTS OF COATING SYSTEM RESTS ENTI"
+      }
+    },
+    {
+      "csvRow": 770,
+      "sku": "WAT-000000784",
+      "name": "Watco Danish Oil Dark Walnut",
+      "brand": "Watco",
+      "variant": "Watco Danish Oil Dark Walnut - Y65841H",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/Y65841H.pdf",
+      "file": "PDFs/SDS/watco-Watco-Danish-Oil-Dark-Walnut-Y65841H-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/watco-Watco-Danish-Oil-Dark-Walnut-Y65841H-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/watco-Watco-Danish-Oil-Dark-Walnut-Y65841H-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/watco-Watco-Danish-Oil-Dark-Walnut-Y65841H-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Watco",
+        "product": "Watco Danish Oil Dark Walnut",
+        "variant": "Watco Danish Oil Dark Walnut - Y65841H",
+        "visualTypeVerified": false,
+        "pages": 6,
+        "bytes": 155593,
+        "sha256": "12d4105b90693de2c925095bcafd738371aacdb9b1885234cb822527173b79c9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 3/6/2024 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: WATCO 4X947ML DAN OIL INT DK NATURAL Revision Date: 3/6/2024 Product Identifier: Y65841H Supercedes Date: 3/6/2024 Rec"
+      }
+    },
+    {
+      "csvRow": 770,
+      "sku": "WAT-000000784",
+      "name": "Watco Danish Oil Dark Walnut",
+      "brand": "Watco",
+      "variant": "Watco Danish Oil - includes Dark Walnut",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Watco/WAT-02_Danish_Oil_TDS.ashx",
+      "file": "PDFs/TDS/watco-Watco-Danish-Oil-Dark-Walnut-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/watco-Watco-Danish-Oil-Dark-Walnut-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/watco-Watco-Danish-Oil-Dark-Walnut-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/watco-Watco-Danish-Oil-Dark-Walnut-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Watco",
+        "product": "Watco Danish Oil Dark Walnut",
+        "variant": "Watco Danish Oil - includes Dark Walnut",
+        "visualTypeVerified": false,
+        "pages": 2,
+        "bytes": 98161,
+        "sha256": "b922be298ac82ff14fd42fa70986bd219af36cc90694411dea0a38f8cc6a8c33",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA WAT-02 WATCO® DANISH OIL Form: GDH-636 Rev.: 020816 1 .DESCRIPTION AND USES . Watco® Danish Oil is a unique blend of penetrating oil & varnish, which hardens in the wood, not on the wood. Watco Danish Oil penetrates deep into"
+      }
+    }
+  ]
+}
