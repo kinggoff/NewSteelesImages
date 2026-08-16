@@ -1,0 +1,281 @@
+{
+  "batch": "028-030",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 32,
+      "sku": "I-000000032",
+      "name": "Stix Waterborne Bonding Primer",
+      "brand": "Insl-X",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 32,
+          "sku": "I-000000032",
+          "name": "Stix Waterborne Bonding Primer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_SXA1100/SXA-1100F_SDS_EN.pdf",
+          "file": "PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 32,
+          "sku": "I-000000032",
+          "name": "Stix Waterborne Bonding Primer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_SXA-110/SXA110_TDS_CE.pdf",
+          "file": "PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 33,
+      "sku": "I-000000033",
+      "name": "Max Block",
+      "brand": "Insl-X",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 33,
+          "sku": "I-000000033",
+          "name": "Max Block",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_SB-5000/SB-5000FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/insl-x-SB-5000FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SB-5000FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-SB-5000FR_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 33,
+          "sku": "I-000000033",
+          "name": "Max Block",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_SB-5000/SB-5000_TDS_CE.pdf",
+          "file": "PDFs/TDS/insl-x-SB-5000_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SB-5000_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-SB-5000_TDS_CE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 34,
+      "sku": "BM-000000034",
+      "name": "High Build Latex Primer",
+      "brand": "Insl-X",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 34,
+          "sku": "BM-000000034",
+          "name": "High Build Latex Primer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_HB-2100/HB2100FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/insl-x-HB2100FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-HB2100FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-HB2100FR_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 34,
+          "sku": "BM-000000034",
+          "name": "High Build Latex Primer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_HB-2100/HB-2100_TDS_CAE.pdf",
+          "file": "PDFs/TDS/insl-x-HB-2100_TDS_CAE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-HB-2100_TDS_CAE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-HB-2100_TDS_CAE.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 32,
+      "sku": "I-000000032",
+      "name": "Stix Waterborne Bonding Primer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_SXA1100/SXA-1100F_SDS_EN.pdf",
+      "file": "PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "Stix Waterborne Bonding Primer",
+        "variant": "Primer",
+        "pages": 10,
+        "bytes": 76188,
+        "sha256": "c2eecf2428fb25da685caf2dcedfe338f4d00e899da72118c1a533de61d1d814",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 25-Feb-2022 Revision Number: 7 1. PRODUCT AND COMPANY IDENTIFICATION Product Name STIX WATERBORNE BONDING PRIMER WHITE Product Code SXA-110F, 3001141 Alternate Product Code XF0501, XF0599 SAP Material Number"
+      }
+    },
+    {
+      "csvRow": 32,
+      "sku": "I-000000032",
+      "name": "Stix Waterborne Bonding Primer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_SXA-110/SXA110_TDS_CE.pdf",
+      "file": "PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "Stix Waterborne Bonding Primer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 148218,
+        "sha256": "18b573b7599c3b4fab870b202e05e4f6337b982907f3c5b796001f2b929a4289",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Manufactured by Benjamin Moore & Co. 101 Paragon Drive, Montvale, NJ 07645 Tel: 866-708-9180 www.Insl-x.ca M72 SXA-110 CE 092923 STIX® WATERBORNE BONDING PRIMER SXA-110 Features General Description • Strongly Bonds to Glossy Surfaces • Unpa"
+      }
+    },
+    {
+      "csvRow": 33,
+      "sku": "I-000000033",
+      "name": "Max Block",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_SB-5000/SB-5000FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/insl-x-SB-5000FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SB-5000FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-SB-5000FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SB-5000FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "Max Block",
+        "variant": "Primer",
+        "pages": 9,
+        "bytes": 75227,
+        "sha256": "a7b29e2d57864657dfbae609fb40efc34a5f1489a4b647e7859c6c558ff87185",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 23-Jun-2025 Revision Number: 2 1. PRODUCT AND COMPANY IDENTIFICATION Product Name INSL-X MAX BLOCK - WHITE Product Code SB-5000FR Alternate Product Code UF7301 Product Class Water thinned paint Color White R"
+      }
+    },
+    {
+      "csvRow": 33,
+      "sku": "I-000000033",
+      "name": "Max Block",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_SB-5000/SB-5000_TDS_CE.pdf",
+      "file": "PDFs/TDS/insl-x-SB-5000_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SB-5000_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-SB-5000_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SB-5000_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "Max Block",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 291118,
+        "sha256": "13e69131e30751cc69ed025dbc84309a7c4507b133380787059f09e52dca2d49",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Max Block™ Water-Based Stain Blocking Primer SB-5000 Manufactured by Benjamin Moore & Co., 101 Paragon Drive, Montvale, NJ 07645 Tel: 866 -708-9180 www.insl-x.ca SB-5000 CE 061126 General Description Max Block ™ is the next generation of wa"
+      }
+    },
+    {
+      "csvRow": 34,
+      "sku": "BM-000000034",
+      "name": "High Build Latex Primer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_HB-2100/HB2100FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/insl-x-HB2100FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-HB2100FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-HB2100FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-HB2100FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "High Build Latex Primer",
+        "variant": "Primer",
+        "pages": 10,
+        "bytes": 82897,
+        "sha256": "8b4ebe0d322d00e2cafee745c25ec75a6d1246652e3d1184b4b7a8d927059bf8",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 26-Feb-2025 Revision Number: 3 1. PRODUCT AND COMPANY IDENTIFICATION Product Name INSL-X HI-BUILD PRIMER - WHITE Product Code HB2100FR Alternate Product Code UF3800 Product Class Water thinned paint Color Wh"
+      }
+    },
+    {
+      "csvRow": 34,
+      "sku": "BM-000000034",
+      "name": "High Build Latex Primer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_HB-2100/HB-2100_TDS_CAE.pdf",
+      "file": "PDFs/TDS/insl-x-HB-2100_TDS_CAE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-HB-2100_TDS_CAE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-HB-2100_TDS_CAE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-HB-2100_TDS_CAE.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "High Build Latex Primer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 120239,
+        "sha256": "fea1bf32a5df743638eaa282c5171d0b86aee25e9ad11a51ee1fd592b1088ddd",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Manufactured by Benjamin Moore & Co. 101 Paragon Drive, Montvale, NJ 07645 Tel: 866-708-9180 www.insl-x.ca M72 HB-2100 CAE 081022 HIGH BUILD LATEX PRIMER HB-2100 Features General Description  Helps provide a smooth, uniform surface  Minim"
+      }
+    }
+  ]
+}
