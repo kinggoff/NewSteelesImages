@@ -1,0 +1,239 @@
+{
+  "batch": "090-092",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 189,
+      "sku": "TR-000000193",
+      "name": "Tremclad Rust Preventative Coating Flat Grey (946 mL)",
+      "brand": "Tremclad",
+      "category": "Paints > Specialty Paints",
+      "sds": [
+        {
+          "csvRow": 189,
+          "sku": "TR-000000193",
+          "name": "Tremclad Rust Preventative Coating Flat Grey (946 mL)",
+          "brand": "Tremclad",
+          "variant": "946 mL Flat Grey",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254895.pdf",
+          "file": "PDFs/SDS/tremclad-254895.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254895.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254895.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 190,
+      "sku": "TR-000000194",
+      "name": "Tremclad Rust Preventative Coating Flat Red Oxide (946 mL)",
+      "brand": "Tremclad",
+      "category": "Paints > Specialty Paints",
+      "sds": [
+        {
+          "csvRow": 190,
+          "sku": "TR-000000194",
+          "name": "Tremclad Rust Preventative Coating Flat Red Oxide (946 mL)",
+          "brand": "Tremclad",
+          "variant": "946 mL Flat Red Oxide",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254894.pdf",
+          "file": "PDFs/SDS/tremclad-254894.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254894.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254894.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 191,
+      "sku": "ZI-000000195",
+      "name": "Zinsser Odorless Oil-Based Stain Blocker",
+      "brand": "Zinsser",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 191,
+          "sku": "ZI-000000195",
+          "name": "Zinsser Odorless Oil-Based Stain Blocker",
+          "brand": "Zinsser",
+          "variant": "946 mL White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/248264.pdf",
+          "file": "PDFs/SDS/zinsser-248264.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-248264.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-248264.pdf?raw=true"
+        },
+        {
+          "csvRow": 191,
+          "sku": "ZI-000000195",
+          "name": "Zinsser Odorless Oil-Based Stain Blocker",
+          "brand": "Zinsser",
+          "variant": "3.7 L White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/248263.pdf",
+          "file": "PDFs/SDS/zinsser-248263.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-248263.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-248263.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 191,
+          "sku": "ZI-000000195",
+          "name": "Zinsser Odorless Oil-Based Stain Blocker",
+          "brand": "Zinsser",
+          "variant": "Odorless Oil-Base Stain Blocker Liquid",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Zinsser/OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx",
+          "file": "PDFs/TDS/zinsser-OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 189,
+      "sku": "TR-000000193",
+      "name": "Tremclad Rust Preventative Coating Flat Grey (946 mL)",
+      "brand": "Tremclad",
+      "variant": "946 mL Flat Grey",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254895.pdf",
+      "file": "PDFs/SDS/tremclad-254895.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254895.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254895.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254895.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Preventative Coating Flat Grey (946 mL)",
+        "variant": "946 mL Flat Grey",
+        "pages": 6,
+        "bytes": 192686,
+        "sha256": "1953299b8be90b40d7324955fc15bf7e594603a4d4940d1296c0952ed5b7aa5f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 1/28/2026 1-847-367-7700 www.rustoleum.ca 1. Identification Name on Label: Tremclad Rust Primer Product Name: TRMCLD 2X946ML QT RUST PRIMER GREY Revision Date: 1/28/2026 Product Identifier: 254895 Supercedes "
+      }
+    },
+    {
+      "csvRow": 190,
+      "sku": "TR-000000194",
+      "name": "Tremclad Rust Preventative Coating Flat Red Oxide (946 mL)",
+      "brand": "Tremclad",
+      "variant": "946 mL Flat Red Oxide",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254894.pdf",
+      "file": "PDFs/SDS/tremclad-254894.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254894.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254894.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254894.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Preventative Coating Flat Red Oxide (946 mL)",
+        "variant": "946 mL Flat Red Oxide",
+        "pages": 6,
+        "bytes": 193600,
+        "sha256": "1b03c712d1d45500120e6c25ec9d9771fbc2a28849b1a2357ad2a30bac6d3849",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 1/28/2026 1-847-367-7700 www.rustoleum.ca 1. Identification Name on Label: Tremclad Rust Primer Product Name: TRMCLD 2X946ML QT RUST PRIMER RED OXIDE Revision Date: 1/28/2026 Product Identifier: 254894 Superc"
+      }
+    },
+    {
+      "csvRow": 191,
+      "sku": "ZI-000000195",
+      "name": "Zinsser Odorless Oil-Based Stain Blocker",
+      "brand": "Zinsser",
+      "variant": "946 mL White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/248264.pdf",
+      "file": "PDFs/SDS/zinsser-248264.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-248264.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-248264.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-248264.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Odorless Oil-Based Stain Blocker",
+        "variant": "946 mL White",
+        "pages": 5,
+        "bytes": 150842,
+        "sha256": "acd42dfd99863ce6da650b08657925c07a02e58976398bb363122abbbf92b75a",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 10/18/2022 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: ZINSSR 6X946ML ODORLESS Revision Date: 10/18/2022 Product Identifier: 248264 Supercedes Date: 3/14/2018 Recommended "
+      }
+    },
+    {
+      "csvRow": 191,
+      "sku": "ZI-000000195",
+      "name": "Zinsser Odorless Oil-Based Stain Blocker",
+      "brand": "Zinsser",
+      "variant": "3.7 L White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/248263.pdf",
+      "file": "PDFs/SDS/zinsser-248263.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-248263.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-248263.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-248263.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Odorless Oil-Based Stain Blocker",
+        "variant": "3.7 L White",
+        "pages": 5,
+        "bytes": 152320,
+        "sha256": "a1169055541fa905ccab47b502ee8fae02cd58314ff5c96e4703b508439aa830",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 10/18/2022 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: ZINSSER 3.7-LITER 2PK ODORLESS CDN Revision Date: 10/18/2022 Product Identifier: 248263 Supercedes Date: 3/14/2018 R"
+      }
+    },
+    {
+      "csvRow": 191,
+      "sku": "ZI-000000195",
+      "name": "Zinsser Odorless Oil-Based Stain Blocker",
+      "brand": "Zinsser",
+      "variant": "Odorless Oil-Base Stain Blocker Liquid",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Zinsser/OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx",
+      "file": "PDFs/TDS/zinsser-OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-OLS-01_Odorless_Interior_Oil_Base_Stain_Blocker_TDS_2.ashx.pdf",
+        "documentType": "TDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Odorless Oil-Based Stain Blocker",
+        "variant": "Odorless Oil-Base Stain Blocker Liquid",
+        "pages": 3,
+        "bytes": 673578,
+        "sha256": "f12483c7b8ebff54083d60db49614d1da4b7ec13d29502221e847b5ef1d31c28",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA OLS-01 ZINSSER® ODORLESS INTERIOR OIL BASE STAIN BLOCKER 1 Form: GDH-559 Rev.: 120722 DESCRIPTION AND USES Zinsser ® Odorless is a high solids, low VOC specialty primer formulated for interior applications where oil-base perf"
+      }
+    }
+  ]
+}
