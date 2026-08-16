@@ -1,0 +1,629 @@
+{
+  "batch": "177-184",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 641,
+      "sku": "ROM-000000655",
+      "name": "Roman RX-35 Drywall Repair Primer",
+      "brand": "Roman",
+      "category": "Specialty & Decorative Products > Wallpaper Adhesives",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The row image identifies ROMAN PRO-999 Rx-35 Sealer/Primer for Porous Surfaces. ROMAN's current manufacturer product page supplies the exact SDS and technical data sheet for this primer.",
+      "sds": [
+        {
+          "csvRow": 641,
+          "sku": "ROM-000000655",
+          "name": "Roman RX-35 Drywall Repair Primer",
+          "brand": "Roman",
+          "variant": "ROMAN PRO-999 Rx-35 Sealer/Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0625/3677/7867/files/PRO-999-Rx-35_-Sealer-Primer-for-Porous-Surfaces-SDS7604-US-1.pdf?v=1720687201",
+          "file": "PDFs/SDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 641,
+          "sku": "ROM-000000655",
+          "name": "Roman RX-35 Drywall Repair Primer",
+          "brand": "Roman",
+          "variant": "ROMAN PRO-999 Rx-35 Sealer/Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0625/3677/7867/files/PRO-999_TDS_062922.pdf?v=1720687201",
+          "file": "PDFs/TDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 642,
+      "sku": "ROM-000000656",
+      "name": "Roman Pro 977 Ultra Prime Pigmented Wall",
+      "brand": "Roman",
+      "category": "Specialty & Decorative Products > Wallpaper Adhesives",
+      "researchStatus": "Exact manufacturer Canadian SDS and TDS found",
+      "researchNotes": "The row image identifies ROMAN PRO-977 Ultra Prime Pigmented Wallcovering Primer. ROMAN's manufacturer document library provides the exact Canadian English SDS and exact technical data sheet.",
+      "sds": [
+        {
+          "csvRow": 642,
+          "sku": "ROM-000000656",
+          "name": "Roman Pro 977 Ultra Prime Pigmented Wall",
+          "brand": "Roman",
+          "variant": "ROMAN PRO-977 Ultra Prime - Canada English",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0625/3677/7867/files/Pro-977-CA-EN.pdf?v=1724840729",
+          "file": "PDFs/SDS/roman-ROMAN-PRO-977-Ultra-Prime-CA-EN-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/roman-ROMAN-PRO-977-Ultra-Prime-CA-EN-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/roman-ROMAN-PRO-977-Ultra-Prime-CA-EN-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 642,
+          "sku": "ROM-000000656",
+          "name": "Roman Pro 977 Ultra Prime Pigmented Wall",
+          "brand": "Roman",
+          "variant": "ROMAN PRO-977 Ultra Prime",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0625/3677/7867/files/PRO-977_TDS_062922_fdb635d7-54dd-4c45-a1c8-f796da2c1b18.pdf?v=1724840785",
+          "file": "PDFs/TDS/roman-ROMAN-PRO-977-Ultra-Prime-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/roman-ROMAN-PRO-977-Ultra-Prime-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/roman-ROMAN-PRO-977-Ultra-Prime-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 645,
+      "sku": "ROS-000000659",
+      "name": "Video Projection Screen Paint White Qt",
+      "brand": "Rosco",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS found; no qualifying PDF TDS located",
+      "researchNotes": "Rosco's manufacturer resource library supplies the exact Video Screen Paint safety sheet for product code RF7900, matching the white quart projection-screen paint in the row. Current technical specifications are published on Rosco's website rather than as a downloadable PDF, so the TDS field remains blank.",
+      "sds": [
+        {
+          "csvRow": 645,
+          "sku": "ROS-000000659",
+          "name": "Video Projection Screen Paint White Qt",
+          "brand": "Rosco",
+          "variant": "Rosco Video Screen Paint RF7900",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2019-03/Rosco_VideoScreenPaint_SDS.pdf",
+          "file": "PDFs/SDS/rosco-Rosco-Video-Screen-Paint-RF7900-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Video-Screen-Paint-RF7900-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-Video-Screen-Paint-RF7900-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 646,
+      "sku": "ROS-000000660",
+      "name": "Rosco Video Paint Chroma Key Green",
+      "brand": "Rosco",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS and application guide found",
+      "researchNotes": "Rosco's current Chroma Key Paint product page supplies the exact Chroma Key Green SDS and its manufacturer application guide for painting a wall or cyc with Rosco digital compositing paints.",
+      "sds": [
+        {
+          "csvRow": 646,
+          "sku": "ROS-000000660",
+          "name": "Rosco Video Paint Chroma Key Green",
+          "brand": "Rosco",
+          "variant": "Rosco Chroma Key Green 5711",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2021-02/Chroma_Key_Green_SDS_rev5.pdf",
+          "file": "PDFs/SDS/rosco-Rosco-Chroma-Key-Green-5711-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Chroma-Key-Green-5711-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-Chroma-Key-Green-5711-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 646,
+          "sku": "ROS-000000660",
+          "name": "Rosco Video Paint Chroma Key Green",
+          "brand": "Rosco",
+          "variant": "Rosco Chroma Key Paint Application Guide",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2024-12/Rosco_How_To_Paint_Green_Screen_V5_web.pdf",
+          "file": "PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 647,
+      "sku": "ROS-000000661",
+      "name": "Rosco Video Paint Chroma Key Blue",
+      "brand": "Rosco",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS and shared application guide found",
+      "researchNotes": "Rosco's current Chroma Key Paint product page supplies the exact Chroma Key Blue SDS and the same manufacturer application guide used for the Chroma Key coating family.",
+      "sds": [
+        {
+          "csvRow": 647,
+          "sku": "ROS-000000661",
+          "name": "Rosco Video Paint Chroma Key Blue",
+          "brand": "Rosco",
+          "variant": "Rosco Chroma Key Blue 5710",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2018-08/VIDPAINT-CHROKEYBLUE-EN-5710.pdf",
+          "file": "PDFs/SDS/rosco-Rosco-Chroma-Key-Blue-5710-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Chroma-Key-Blue-5710-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-Chroma-Key-Blue-5710-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 647,
+          "sku": "ROS-000000661",
+          "name": "Rosco Video Paint Chroma Key Blue",
+          "brand": "Rosco",
+          "variant": "Rosco Chroma Key Paint Application Guide",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2024-12/Rosco_How_To_Paint_Green_Screen_V5_web.pdf",
+          "file": "PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 648,
+      "sku": "ROS-000000662",
+      "name": "Rosco Tv White",
+      "brand": "Rosco",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS found; no qualifying PDF TDS located",
+      "researchNotes": "Rosco's current TV Paint page identifies TV White as product 5735 and supplies its exact manufacturer safety sheet. The technical specifications are published on the product page rather than as a downloadable PDF, so the TDS field remains blank.",
+      "sds": [
+        {
+          "csvRow": 648,
+          "sku": "ROS-000000662",
+          "name": "Rosco Tv White",
+          "brand": "Rosco",
+          "variant": "Rosco TV Paint White 5735",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2018-08/TVP-WHITE-EN-5735.pdf",
+          "file": "PDFs/SDS/rosco-Rosco-TV-Paint-White-5735-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-TV-Paint-White-5735-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-TV-Paint-White-5735-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 649,
+      "sku": "ROS-000000663",
+      "name": "Rosco Tv Black",
+      "brand": "Rosco",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS found; no qualifying PDF TDS located",
+      "researchNotes": "Rosco's current TV Paint page identifies TV Black as product 5740 and supplies its exact manufacturer safety sheet. The technical specifications are published on the product page rather than as a downloadable PDF, so the TDS field remains blank.",
+      "sds": [
+        {
+          "csvRow": 649,
+          "sku": "ROS-000000663",
+          "name": "Rosco Tv Black",
+          "brand": "Rosco",
+          "variant": "Rosco TV Paint Black 5740",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2018-08/VIDPAINT-TVBLACK-EN-5740.pdf",
+          "file": "PDFs/SDS/rosco-Rosco-TV-Paint-Black-5740-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-TV-Paint-Black-5740-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-TV-Paint-Black-5740-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 650,
+      "sku": "ROS-000000664",
+      "name": "Fire Retardant Paint Additive",
+      "brand": "Rosco",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS and specification sheet found",
+      "researchNotes": "The row image is Roscoflamex PA Paint Additive. Rosco's current product page supplies the exact North American SDS and manufacturer specification sheet covering mixing, application, coverage, film thickness, certification, and storage.",
+      "sds": [
+        {
+          "csvRow": 650,
+          "sku": "ROS-000000664",
+          "name": "Fire Retardant Paint Additive",
+          "brand": "Rosco",
+          "variant": "Roscoflamex PA Paint Additive",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2023-01/Roscoflamex-PA-SDS-27oct2022.pdf",
+          "file": "PDFs/SDS/rosco-Roscoflamex-PA-Paint-Additive-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Roscoflamex-PA-Paint-Additive-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Roscoflamex-PA-Paint-Additive-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 650,
+          "sku": "ROS-000000664",
+          "name": "Fire Retardant Paint Additive",
+          "brand": "Rosco",
+          "variant": "Roscoflamex PA Paint Additive",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2016-08/flamexPA_spec.pdf",
+          "file": "PDFs/TDS/rosco-Roscoflamex-PA-Paint-Additive-Specification-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Roscoflamex-PA-Paint-Additive-Specification-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rosco-Roscoflamex-PA-Paint-Additive-Specification-TDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 641,
+      "sku": "ROM-000000655",
+      "name": "Roman RX-35 Drywall Repair Primer",
+      "brand": "Roman",
+      "variant": "ROMAN PRO-999 Rx-35 Sealer/Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0625/3677/7867/files/PRO-999-Rx-35_-Sealer-Primer-for-Porous-Surfaces-SDS7604-US-1.pdf?v=1720687201",
+      "file": "PDFs/SDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Roman",
+        "product": "Roman RX-35 Drywall Repair Primer",
+        "variant": "ROMAN PRO-999 Rx-35 Sealer/Primer",
+        "pages": 13,
+        "bytes": 146124,
+        "sha256": "efaf4c0a25a41bf62340bf8540317514a1acb1f0c1c078e067dc1f1ae42c8f1a",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Revision date: 8/9/2018 SAFETY DATA SHEET PRO-999 Rx-35® Sealer / Primer for Porous Surfaces According to Appendix D, OSHA Hazard Communication Standard 29 CFR §1910.1200 1. Identification Product identifier Product name PRO-999 Rx-35® Seal"
+      }
+    },
+    {
+      "csvRow": 641,
+      "sku": "ROM-000000655",
+      "name": "Roman RX-35 Drywall Repair Primer",
+      "brand": "Roman",
+      "variant": "ROMAN PRO-999 Rx-35 Sealer/Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0625/3677/7867/files/PRO-999_TDS_062922.pdf?v=1720687201",
+      "file": "PDFs/TDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/roman-ROMAN-PRO-999-Rx-35-Sealer-Primer-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Roman",
+        "product": "Roman RX-35 Drywall Repair Primer",
+        "variant": "ROMAN PRO-999 Rx-35 Sealer/Primer",
+        "pages": 2,
+        "bytes": 166838,
+        "sha256": "9c1314518074440c4ffc95a12c0acd27c171ff84ed2937536486d477dfa08253",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical Data: PRO-999, Rx-35™ Updated: 06/29/22 Roman Products, LLC – Calumet City, Illinois For Technical Help: Call 708-891-0770 or Email: technicalhelp@romandec.com www.romanproducts.com PRO-999 Rx-35™, Problem Solving Sealer/Primer Cl"
+      }
+    },
+    {
+      "csvRow": 642,
+      "sku": "ROM-000000656",
+      "name": "Roman Pro 977 Ultra Prime Pigmented Wall",
+      "brand": "Roman",
+      "variant": "ROMAN PRO-977 Ultra Prime - Canada English",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0625/3677/7867/files/Pro-977-CA-EN.pdf?v=1724840729",
+      "file": "PDFs/SDS/roman-ROMAN-PRO-977-Ultra-Prime-CA-EN-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/roman-ROMAN-PRO-977-Ultra-Prime-CA-EN-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/roman-ROMAN-PRO-977-Ultra-Prime-CA-EN-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/roman-ROMAN-PRO-977-Ultra-Prime-CA-EN-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Roman",
+        "product": "Roman Pro 977 Ultra Prime Pigmented Wall",
+        "variant": "ROMAN PRO-977 Ultra Prime - Canada English",
+        "pages": 7,
+        "bytes": 89484,
+        "sha256": "160f508e4641d66013b39c704c988b818fb0d62cfd9cf587970f70cc25b69d7c",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET This safety data sheet was created pursuant to the requirements of: Canada WHMIS 2015 which includes the amended Hazardous Products Act (HPA) and the Hazardous Products Regulation (HPR) Issuing Date 23-Sep-2021 Revision Da"
+      }
+    },
+    {
+      "csvRow": 642,
+      "sku": "ROM-000000656",
+      "name": "Roman Pro 977 Ultra Prime Pigmented Wall",
+      "brand": "Roman",
+      "variant": "ROMAN PRO-977 Ultra Prime",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0625/3677/7867/files/PRO-977_TDS_062922_fdb635d7-54dd-4c45-a1c8-f796da2c1b18.pdf?v=1724840785",
+      "file": "PDFs/TDS/roman-ROMAN-PRO-977-Ultra-Prime-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/roman-ROMAN-PRO-977-Ultra-Prime-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/roman-ROMAN-PRO-977-Ultra-Prime-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/roman-ROMAN-PRO-977-Ultra-Prime-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Roman",
+        "product": "Roman Pro 977 Ultra Prime Pigmented Wall",
+        "variant": "ROMAN PRO-977 Ultra Prime",
+        "pages": 2,
+        "bytes": 439276,
+        "sha256": "f31dcc0f438dbee96c1c447157726ba76af0d5ef1d18ecfe5f028d1719bada93",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical Data: PRO-977, ULTRA PRIME® Updated: 06/29/22 Roman Products, LLC – Calumet City, Illinois For Technical Help: Call 708-891-0770 or Email: technicalhelp@romandec.com www.romanproducts.com PRO-977 Ultra Prime® Primer Pigmented Wall"
+      }
+    },
+    {
+      "csvRow": 645,
+      "sku": "ROS-000000659",
+      "name": "Video Projection Screen Paint White Qt",
+      "brand": "Rosco",
+      "variant": "Rosco Video Screen Paint RF7900",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2019-03/Rosco_VideoScreenPaint_SDS.pdf",
+      "file": "PDFs/SDS/rosco-Rosco-Video-Screen-Paint-RF7900-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Video-Screen-Paint-RF7900-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-Video-Screen-Paint-RF7900-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Video-Screen-Paint-RF7900-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rosco",
+        "product": "Video Projection Screen Paint White Qt",
+        "variant": "Rosco Video Screen Paint RF7900",
+        "pages": 8,
+        "bytes": 155293,
+        "sha256": "bbf0dee20d0cfc841ffe327a51dd798fecb5f44600d47b0bb84996baa974f14c",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Page 1 / 8 SAFETY DATA SHEET Revision Date: 7-February-2019 Revision Number: 1 1. PRODUCT AND COMPANY IDENTIFICATION Product Name ROSCO VIDEO SCREEN PAINT Product Code RF7900 Alternate Product Code NA Product Class WATER THINNED PAINT Color"
+      }
+    },
+    {
+      "csvRow": 646,
+      "sku": "ROS-000000660",
+      "name": "Rosco Video Paint Chroma Key Green",
+      "brand": "Rosco",
+      "variant": "Rosco Chroma Key Green 5711",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2021-02/Chroma_Key_Green_SDS_rev5.pdf",
+      "file": "PDFs/SDS/rosco-Rosco-Chroma-Key-Green-5711-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Chroma-Key-Green-5711-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-Chroma-Key-Green-5711-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Chroma-Key-Green-5711-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rosco",
+        "product": "Rosco Video Paint Chroma Key Green",
+        "variant": "Rosco Chroma Key Green 5711",
+        "pages": 9,
+        "bytes": 66143,
+        "sha256": "5d0074a8c515d93adae0b39cc093270f1bb42a6e906bf08b9be2b978ef5fd4ca",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEETRevision Date: 31-Dec-2020Revision Number: 51. PRODUCT AND COMPANY IDENTIFICATIONProduct NameROSCO VIDEO PAINT CHROMA KEY GREENProduct CodeRF5711Alternate Product CodeXY5974Product ClassWater thinned paintColorGreenRecommen"
+      }
+    },
+    {
+      "csvRow": 646,
+      "sku": "ROS-000000660",
+      "name": "Rosco Video Paint Chroma Key Green",
+      "brand": "Rosco",
+      "variant": "Rosco Chroma Key Paint Application Guide",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2024-12/Rosco_How_To_Paint_Green_Screen_V5_web.pdf",
+      "file": "PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rosco",
+        "product": "Rosco Video Paint Chroma Key Green",
+        "variant": "Rosco Chroma Key Paint Application Guide",
+        "pages": 2,
+        "bytes": 89549,
+        "sha256": "182d35be80eaf41c140c6d545130779cb5f95e54d34dd03b4ec7144f0b93ace9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "How to Paint a Wall/Cyc with Rosco Digital Compositing Paints This guide will walk you through how to get the best coverage for any wall or cyc when using Rosco DigiComp® HD or Rosco Chroma Key Paint. These paints were designed for professi"
+      }
+    },
+    {
+      "csvRow": 647,
+      "sku": "ROS-000000661",
+      "name": "Rosco Video Paint Chroma Key Blue",
+      "brand": "Rosco",
+      "variant": "Rosco Chroma Key Blue 5710",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2018-08/VIDPAINT-CHROKEYBLUE-EN-5710.pdf",
+      "file": "PDFs/SDS/rosco-Rosco-Chroma-Key-Blue-5710-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Chroma-Key-Blue-5710-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-Chroma-Key-Blue-5710-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-Chroma-Key-Blue-5710-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rosco",
+        "product": "Rosco Video Paint Chroma Key Blue",
+        "variant": "Rosco Chroma Key Blue 5710",
+        "pages": 8,
+        "bytes": 70335,
+        "sha256": "5caa65125f77edf2ce95db83c3a7a38596de00494517fa2fcc8375860603e603",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEETRevision Date: 12-Jun-2018Revision Number: 61. PRODUCT AND COMPANY IDENTIFICATIONProduct NameVIDEO PAINT CHROMA KEY BLUEProduct CodeRF5710Alternate Product CodeXY5943Product ClassWater thinned paintColorBlueRecommended useP"
+      }
+    },
+    {
+      "csvRow": 647,
+      "sku": "ROS-000000661",
+      "name": "Rosco Video Paint Chroma Key Blue",
+      "brand": "Rosco",
+      "variant": "Rosco Chroma Key Paint Application Guide",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2024-12/Rosco_How_To_Paint_Green_Screen_V5_web.pdf",
+      "file": "PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Rosco-Chroma-Key-Paint-Application-Guide-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rosco",
+        "product": "Rosco Video Paint Chroma Key Green",
+        "variant": "Rosco Chroma Key Paint Application Guide",
+        "pages": 2,
+        "bytes": 89549,
+        "sha256": "182d35be80eaf41c140c6d545130779cb5f95e54d34dd03b4ec7144f0b93ace9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "How to Paint a Wall/Cyc with Rosco Digital Compositing Paints This guide will walk you through how to get the best coverage for any wall or cyc when using Rosco DigiComp® HD or Rosco Chroma Key Paint. These paints were designed for professi"
+      }
+    },
+    {
+      "csvRow": 648,
+      "sku": "ROS-000000662",
+      "name": "Rosco Tv White",
+      "brand": "Rosco",
+      "variant": "Rosco TV Paint White 5735",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2018-08/TVP-WHITE-EN-5735.pdf",
+      "file": "PDFs/SDS/rosco-Rosco-TV-Paint-White-5735-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-TV-Paint-White-5735-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-TV-Paint-White-5735-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-TV-Paint-White-5735-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rosco",
+        "product": "Rosco Tv White",
+        "variant": "Rosco TV Paint White 5735",
+        "pages": 8,
+        "bytes": 69235,
+        "sha256": "002ec3a0c9f864a7426db25ed8f454f934a27120710c1dd048fc4bfc5dfeb8b7",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEETRevision Date: 08-Jun-2018Revision Number: 41. PRODUCT AND COMPANY IDENTIFICATIONProduct NameROSCO TV PAINT WHITEProduct CodeRF5735Alternate Product CodeXY6201Product ClassWater thinned paintColorWhiteRecommended usePaintRe"
+      }
+    },
+    {
+      "csvRow": 649,
+      "sku": "ROS-000000663",
+      "name": "Rosco Tv Black",
+      "brand": "Rosco",
+      "variant": "Rosco TV Paint Black 5740",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2018-08/VIDPAINT-TVBLACK-EN-5740.pdf",
+      "file": "PDFs/SDS/rosco-Rosco-TV-Paint-Black-5740-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-TV-Paint-Black-5740-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Rosco-TV-Paint-Black-5740-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Rosco-TV-Paint-Black-5740-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rosco",
+        "product": "Rosco Tv Black",
+        "variant": "Rosco TV Paint Black 5740",
+        "pages": 9,
+        "bytes": 74044,
+        "sha256": "0b470ea474fdfad3b28374f62cb6ae8a63f4ecd148c3252b63bcb57df23fe955",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEETRevision Date: 08-Jun-2018Revision Number: 31. PRODUCT AND COMPANY IDENTIFICATIONProduct NameROSCO VIDEO PAINT - TV BLACKProduct CodeRF5740Alternate Product CodeXY6280Product ClassWater thinned paintColorBlackRecommended us"
+      }
+    },
+    {
+      "csvRow": 650,
+      "sku": "ROS-000000664",
+      "name": "Fire Retardant Paint Additive",
+      "brand": "Rosco",
+      "variant": "Roscoflamex PA Paint Additive",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2023-01/Roscoflamex-PA-SDS-27oct2022.pdf",
+      "file": "PDFs/SDS/rosco-Roscoflamex-PA-Paint-Additive-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Roscoflamex-PA-Paint-Additive-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rosco-Roscoflamex-PA-Paint-Additive-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rosco-Roscoflamex-PA-Paint-Additive-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rosco",
+        "product": "Fire Retardant Paint Additive",
+        "variant": "Roscoflamex PA Paint Additive",
+        "pages": 10,
+        "bytes": 1180687,
+        "sha256": "de4977842c0b6b51ed0f2f5720a20dfb3bd272134bd5768e29fb84e36d68b565",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Rosco Laboratories Inc. 52 Harbor View Avenue Stamford, CT, United States, 06902 Telephone: (203) 708 8900 Page 1 of 10 Roscoflamex PA SDS Revision Date (mm/dd/yyyy): 10/27/2022 SAFETY DATA SHEET SECTION 1. IDENTIFICATION Product identifier"
+      }
+    },
+    {
+      "csvRow": 650,
+      "sku": "ROS-000000664",
+      "name": "Fire Retardant Paint Additive",
+      "brand": "Rosco",
+      "variant": "Roscoflamex PA Paint Additive",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://us.rosco.com/sites/default/files/content/resource/2016-08/flamexPA_spec.pdf",
+      "file": "PDFs/TDS/rosco-Roscoflamex-PA-Paint-Additive-Specification-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Roscoflamex-PA-Paint-Additive-Specification-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rosco-Roscoflamex-PA-Paint-Additive-Specification-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rosco-Roscoflamex-PA-Paint-Additive-Specification-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rosco",
+        "product": "Fire Retardant Paint Additive",
+        "variant": "Roscoflamex PA Paint Additive",
+        "pages": 1,
+        "bytes": 90338,
+        "sha256": "c7e8b3c48f60e03e25c40063722af1cf2b049a8319dde716182fb8b648e4c4cd",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Roscoflamex fire retardants have been formulated to meet the extreme needs of the entertainment industry, designed to treat the wide range of diverse materials used in scenery, props and costume construction. Roscoflamex products meet fire "
+      }
+    }
+  ]
+}
