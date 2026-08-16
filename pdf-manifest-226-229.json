@@ -1,0 +1,360 @@
+{
+  "batch": "226-229",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 441,
+      "sku": "FC-000000455",
+      "name": "Flame Control Finish Coat Low,Semi,High",
+      "brand": "Flame Control",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The CSV row names Flame Control Finish Coat in low, semi and high gloss. The exact manufacturer technical sheet identifies this product as Flame Control No. 141 polyurethane varnish and explicitly covers Low-gloss, Semi-gloss and High-gloss finishes. The manufacturer's recoverable SDS is specifically for No. 141 High Gloss; no separate recoverable low- or semi-gloss SDS was located, so the spreadsheet links the exact available manufacturer safety sheet rather than substituting a different Flame Control coating.",
+      "sds": [
+        {
+          "csvRow": 441,
+          "sku": "FC-000000455",
+          "name": "Flame Control Finish Coat Low,Semi,High",
+          "brand": "Flame Control",
+          "variant": "Flame Control No. 141 High Gloss polyurethane varnish",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.flamecontrolcoatings.com/files/jo4_141HG.pdf",
+          "file": "PDFs/SDS/flame-control-Flame-Control-No-141-High-Gloss-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/flame-control-Flame-Control-No-141-High-Gloss-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/flame-control-Flame-Control-No-141-High-Gloss-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 441,
+          "sku": "FC-000000455",
+          "name": "Flame Control Finish Coat Low,Semi,High",
+          "brand": "Flame Control",
+          "variant": "Flame Control No. 141 polyurethane varnish - Low, Semi and High Gloss",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.flamecontrolcoatings.com/files/ddo_PD-141varn.pdf",
+          "file": "PDFs/TDS/flame-control-Flame-Control-No-141-Varnish-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/flame-control-Flame-Control-No-141-Varnish-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/flame-control-Flame-Control-No-141-Varnish-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 445,
+      "sku": "GI-000000459",
+      "name": "Drive Kote 10 Year Driveway Sealer",
+      "brand": "GH International",
+      "category": "Paints > Driveway Coatings",
+      "researchStatus": "Exact manufacturer SDS and TDS found; row title mismatch documented",
+      "researchNotes": "The saved product image and manufacturer item identify Black Jack Drive-Kote 500 Blacktop Driveway Sealer, code 6452-9-30. The CSV title says 10 Year, but the pictured and documented Drive-Kote 500 is the five-year coating. Black Jack's manufacturer data-sheet page links these exact SDS and TDS files for 6452-9-30; the image identity is used and the title mismatch is preserved here for review.",
+      "sds": [
+        {
+          "csvRow": 445,
+          "sku": "GI-000000459",
+          "name": "Drive Kote 10 Year Driveway Sealer",
+          "brand": "GH International",
+          "variant": "Black Jack Drive-Kote 500 Blacktop Driveway Sealer - 6452-9-30",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1426/5084/files/6452-9-30_sds3-2015.pdf?9960482514526319520",
+          "file": "PDFs/SDS/gh-international-Black-Jack-Drive-Kote-500-6452-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/gh-international-Black-Jack-Drive-Kote-500-6452-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/gh-international-Black-Jack-Drive-Kote-500-6452-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 445,
+          "sku": "GI-000000459",
+          "name": "Drive Kote 10 Year Driveway Sealer",
+          "brand": "GH International",
+          "variant": "Black Jack Drive-Kote 500 Blacktop Driveway Sealer - 6452",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/1426/5084/files/TDS_BlackJack_Drive_Maxx_6452.pdf?v=1715614627",
+          "file": "PDFs/TDS/gh-international-Black-Jack-Drive-Kote-500-6452-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/gh-international-Black-Jack-Drive-Kote-500-6452-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/gh-international-Black-Jack-Drive-Kote-500-6452-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 485,
+      "sku": "KRY-000000499",
+      "name": "Krylon Metallic Silver",
+      "brand": "Krylon",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS found; manufacturer lists no PDS for this variant",
+      "researchNotes": "The source image is Chadwell item 455026 and identifies Krylon Metallic Chrome Silver, manufacturer number K01404777. Krylon's manufacturer product table identifies K01404777 / UPC 724504071976 as Metallic Paint in Chrome Aluminum and provides the exact SDS. The same manufacturer table has no PDS for this product variant, so no unrelated technical sheet is substituted.",
+      "sds": [
+        {
+          "csvRow": 485,
+          "sku": "KRY-000000499",
+          "name": "Krylon Metallic Silver",
+          "brand": "Krylon",
+          "variant": "Krylon Metallic Paint Chrome Aluminum - K01404777 / UPC 724504071976",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504071976",
+          "file": "PDFs/SDS/krylon-Krylon-Metallic-Chrome-Aluminum-K01404777-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Krylon-Metallic-Chrome-Aluminum-K01404777-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Krylon-Metallic-Chrome-Aluminum-K01404777-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 531,
+      "sku": "MIN-000000545",
+      "name": "Antique Oil Finish",
+      "brand": "Minwax",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The image identifies the 946 mL / one-quart Minwax Antique Oil Finish. Minwax's manufacturer product page lists Antique Oil Finish data sheets, and Sherwin-Williams PaintDocs supplies the exact manufacturer SDS and technical data sheet for quart UPC 027426670006. The TDS covers the same Antique Oil Finish formulation and its quart packaging.",
+      "sds": [
+        {
+          "csvRow": 531,
+          "sku": "MIN-000000545",
+          "name": "Antique Oil Finish",
+          "brand": "Minwax",
+          "variant": "Minwax Antique Oil Finish Natural 1 Quart - UPC 027426670006",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MINWAX&cntry=US&doctype=SDS&lang=2&prodno=027426670006",
+          "file": "PDFs/SDS/minwax-Minwax-Antique-Oil-Finish-027426670006-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/minwax-Minwax-Antique-Oil-Finish-027426670006-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/minwax-Minwax-Antique-Oil-Finish-027426670006-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 531,
+          "sku": "MIN-000000545",
+          "name": "Antique Oil Finish",
+          "brand": "Minwax",
+          "variant": "Minwax Antique Oil Finish Natural 1 Quart - UPC 027426670006",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MINWAX&doctype=PDS&lang=2&prodno=027426670006",
+          "file": "PDFs/TDS/minwax-Minwax-Antique-Oil-Finish-027426670006-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/minwax-Minwax-Antique-Oil-Finish-027426670006-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/minwax-Minwax-Antique-Oil-Finish-027426670006-TDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 441,
+      "sku": "FC-000000455",
+      "name": "Flame Control Finish Coat Low,Semi,High",
+      "brand": "Flame Control",
+      "variant": "Flame Control No. 141 High Gloss polyurethane varnish",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.flamecontrolcoatings.com/files/jo4_141HG.pdf",
+      "file": "PDFs/SDS/flame-control-Flame-Control-No-141-High-Gloss-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/flame-control-Flame-Control-No-141-High-Gloss-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/flame-control-Flame-Control-No-141-High-Gloss-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/flame-control-Flame-Control-No-141-High-Gloss-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Flame Control",
+        "product": "Flame Control Finish Coat Low,Semi,High",
+        "variant": "Flame Control No. 141 High Gloss polyurethane varnish",
+        "visualTypeVerified": false,
+        "pages": 6,
+        "bytes": 226311,
+        "sha256": "1f548faa146f8ec4fdeab3eeefcc3b8e91595da01e0ea0261803c668aa5c52d7",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET FLAME CONTROL NO. 141 HIGH GLOSS Page 1 of 6 SECTION 1: IDENTIFICATION OF THE SUBSTANCE/PREPARATION AND OF THE COMPANY TRADE NAME: NO. 141 HIGH GLOSS CHEMICAL FAMILY: POLYURETHANETYPE, AROMATIC/STODDARD SOLVENT MAIN USE: C"
+      }
+    },
+    {
+      "csvRow": 441,
+      "sku": "FC-000000455",
+      "name": "Flame Control Finish Coat Low,Semi,High",
+      "brand": "Flame Control",
+      "variant": "Flame Control No. 141 polyurethane varnish - Low, Semi and High Gloss",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.flamecontrolcoatings.com/files/ddo_PD-141varn.pdf",
+      "file": "PDFs/TDS/flame-control-Flame-Control-No-141-Varnish-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/flame-control-Flame-Control-No-141-Varnish-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/flame-control-Flame-Control-No-141-Varnish-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/flame-control-Flame-Control-No-141-Varnish-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Flame Control",
+        "product": "Flame Control Finish Coat Low,Semi,High",
+        "variant": "Flame Control No. 141 polyurethane varnish - Low, Semi and High Gloss",
+        "visualTypeVerified": false,
+        "pages": 2,
+        "bytes": 88734,
+        "sha256": "bb3618d73accdfe2679557a6b21c1b42a8dda7191c274890def667250b28825d",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "FLAME CONTROL NO. 141 A Polyurethane Varnish Fire Retardant Polyurethane Varnish Fire Hazard Classification, Class “B” DESCRIPTION: Flame Control No. 141 is a clear, transparent finish, designed for interior use on gym floors a nd other woo"
+      }
+    },
+    {
+      "csvRow": 445,
+      "sku": "GI-000000459",
+      "name": "Drive Kote 10 Year Driveway Sealer",
+      "brand": "GH International",
+      "variant": "Black Jack Drive-Kote 500 Blacktop Driveway Sealer - 6452-9-30",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/1426/5084/files/6452-9-30_sds3-2015.pdf?9960482514526319520",
+      "file": "PDFs/SDS/gh-international-Black-Jack-Drive-Kote-500-6452-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/gh-international-Black-Jack-Drive-Kote-500-6452-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/gh-international-Black-Jack-Drive-Kote-500-6452-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/gh-international-Black-Jack-Drive-Kote-500-6452-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "GH International",
+        "product": "Drive Kote 10 Year Driveway Sealer",
+        "variant": "Black Jack Drive-Kote 500 Blacktop Driveway Sealer - 6452-9-30",
+        "visualTypeVerified": false,
+        "pages": 7,
+        "bytes": 263786,
+        "sha256": "0d7f0276139050cf88fa3c2395fedb7da9dffa0f9d6fa38d08d948f85de9aa42",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet 6452-9-30 03/06/15 Section 1 - Product and Company Identification Material Name ‐ Black Jack Drive-Kote 500 Driveway Sealer Chemical Category ‐ Mixture Product Code ‐ 6452-9-30 Product Description ‐ Asphalt emulsion drivew"
+      }
+    },
+    {
+      "csvRow": 445,
+      "sku": "GI-000000459",
+      "name": "Drive Kote 10 Year Driveway Sealer",
+      "brand": "GH International",
+      "variant": "Black Jack Drive-Kote 500 Blacktop Driveway Sealer - 6452",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/1426/5084/files/TDS_BlackJack_Drive_Maxx_6452.pdf?v=1715614627",
+      "file": "PDFs/TDS/gh-international-Black-Jack-Drive-Kote-500-6452-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/gh-international-Black-Jack-Drive-Kote-500-6452-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/gh-international-Black-Jack-Drive-Kote-500-6452-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/gh-international-Black-Jack-Drive-Kote-500-6452-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "GH International",
+        "product": "Drive Kote 10 Year Driveway Sealer",
+        "variant": "Black Jack Drive-Kote 500 Blacktop Driveway Sealer - 6452",
+        "visualTypeVerified": false,
+        "pages": 1,
+        "bytes": 102537,
+        "sha256": "a1698509b9ec8527bab1d5b14e44ebacb6b307c97d437f3b7efc23b5aa88262f",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "www.gardner-gibson.com • Gardner-Gibson • P .O. Box 5449 • Tampa, Florida 33675-5449 • Phone: (813) 248-2101 PRODUCT INFO & PERFORMANCE CHARACTERISTICS Product Code 6452-9-30 Unit Size 5 gal. Unit Dimensions 12” x 12” x 14.75” Fill Level 4."
+      }
+    },
+    {
+      "csvRow": 485,
+      "sku": "KRY-000000499",
+      "name": "Krylon Metallic Silver",
+      "brand": "Krylon",
+      "variant": "Krylon Metallic Paint Chrome Aluminum - K01404777 / UPC 724504071976",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504071976",
+      "file": "PDFs/SDS/krylon-Krylon-Metallic-Chrome-Aluminum-K01404777-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Krylon-Metallic-Chrome-Aluminum-K01404777-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Krylon-Metallic-Chrome-Aluminum-K01404777-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Krylon-Metallic-Chrome-Aluminum-K01404777-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Krylon",
+        "product": "Krylon Metallic Silver",
+        "variant": "Krylon Metallic Paint Chrome Aluminum - K01404777 / UPC 724504071976",
+        "visualTypeVerified": false,
+        "pages": 23,
+        "bytes": 189700,
+        "sha256": "46468fc4e2329229d55234e431fe2782e3ed8a6bfc5e8f792f507dabe2fc986b",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "KRYLON® MetallicsChrome AluminumNot available.Aerosol. US / Canada: (216) 566-2917Mexico: SETIQ 800-00-214-00 / 55-5559-1588 Available 24 hours and 365 days a year SAFETY DATA SHEET Product nameOther means of identificationProduct type Emer"
+      }
+    },
+    {
+      "csvRow": 531,
+      "sku": "MIN-000000545",
+      "name": "Antique Oil Finish",
+      "brand": "Minwax",
+      "variant": "Minwax Antique Oil Finish Natural 1 Quart - UPC 027426670006",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MINWAX&cntry=US&doctype=SDS&lang=2&prodno=027426670006",
+      "file": "PDFs/SDS/minwax-Minwax-Antique-Oil-Finish-027426670006-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/minwax-Minwax-Antique-Oil-Finish-027426670006-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/minwax-Minwax-Antique-Oil-Finish-027426670006-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/minwax-Minwax-Antique-Oil-Finish-027426670006-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Minwax",
+        "product": "Antique Oil Finish",
+        "variant": "Minwax Antique Oil Finish Natural 1 Quart - UPC 027426670006",
+        "visualTypeVerified": false,
+        "pages": 17,
+        "bytes": 176761,
+        "sha256": "beda23d2bd0a6051220c5c198d552e143de9f2fb6b22b4a6725df88245a99656",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "MINWAX® Antique Oil FinishNaturalNot available.Liquid. US/Canada: (800) 424-9300Mexico: CHEMTREC México 800-681-9531. Available 24 hours and 365 days per year SAFETY DATA SHEET Product nameOther means of identificationProduct type Emergency"
+      }
+    },
+    {
+      "csvRow": 531,
+      "sku": "MIN-000000545",
+      "name": "Antique Oil Finish",
+      "brand": "Minwax",
+      "variant": "Minwax Antique Oil Finish Natural 1 Quart - UPC 027426670006",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MINWAX&doctype=PDS&lang=2&prodno=027426670006",
+      "file": "PDFs/TDS/minwax-Minwax-Antique-Oil-Finish-027426670006-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/minwax-Minwax-Antique-Oil-Finish-027426670006-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/minwax-Minwax-Antique-Oil-Finish-027426670006-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/minwax-Minwax-Antique-Oil-Finish-027426670006-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Minwax",
+        "product": "Antique Oil Finish",
+        "variant": "Minwax Antique Oil Finish Natural 1 Quart - UPC 027426670006",
+        "visualTypeVerified": false,
+        "pages": 2,
+        "bytes": 156865,
+        "sha256": "6581ae1f823e415275e21af43ce4a705f8594225e3bc525faf0858d8a4f8a9f9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "MINWAX® Technical Data Sheet MINWAX® Antique Oil Finish DESCRIPTION: Antique Oil Finish is a clear, light amber, low viscosity liquid made from a balanced blend of linseed oil, varnish, and other premium oils. It is designed to be hand-rubb"
+      }
+    }
+  ]
+}
