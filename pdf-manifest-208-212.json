@@ -1,0 +1,473 @@
+{
+  "batch": "208-212",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 698,
+      "sku": "SIK-000000712",
+      "name": "Sikkens Srd 005 Natural Oak",
+      "brand": "Sikkens",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact current manufacturer SDS and TDS found",
+      "researchNotes": "The row identifies Sikkens/PPG ProLuxe SRD RE in Natural Oak 005. PPG's current manufacturer product page lists SIK250-005/01 and supplies direct Canadian-English SDS and TDS PDFs for that exact colour variant.",
+      "sds": [
+        {
+          "csvRow": 698,
+          "sku": "SIK-000000712",
+          "name": "Sikkens Srd 005 Natural Oak",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe SRD RE Natural Oak 005 - SIK250-005/01",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366007_EN_CA.pdf",
+          "file": "PDFs/SDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 698,
+          "sku": "SIK-000000712",
+          "name": "Sikkens Srd 005 Natural Oak",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe SRD RE Natural Oak 005 - SIK250-005/01",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366007_EN_CA.pdf",
+          "file": "PDFs/TDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 699,
+      "sku": "SIK-000000713",
+      "name": "Sikkens Cetol Dek Finish Cedar 077",
+      "brand": "Sikkens",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact current manufacturer SDS and TDS found for the CSV product",
+      "researchNotes": "The CSV product name specifies Sikkens Cetol DEK Finish Cedar 077, so the documents are matched to the current PPG ProLuxe Premium Deck SIK44077/01 Cedar 077 variant. The existing review image visibly shows Natural 078 rather than Cedar 077; that image mismatch does not change the document match to the CSV product.",
+      "sds": [
+        {
+          "csvRow": 699,
+          "sku": "SIK-000000713",
+          "name": "Sikkens Cetol Dek Finish Cedar 077",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe Premium Deck Cedar 077 - SIK44077/01",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366070_EN_CA.pdf",
+          "file": "PDFs/SDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 699,
+          "sku": "SIK-000000713",
+          "name": "Sikkens Cetol Dek Finish Cedar 077",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe Premium Deck Cedar 077 - SIK44077/01",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366070_EN_CA.pdf",
+          "file": "PDFs/TDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 700,
+      "sku": "SIK-000000714",
+      "name": "Cetol Door+Window Satin Colorless",
+      "brand": "Sikkens",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact current manufacturer SDS and TDS found",
+      "researchNotes": "The row identifies Cetol Door & Window Satin Colorless. PPG's current manufacturer page lists the exact clear-finish satin SIK48003/01 gallon variant and supplies direct Canadian-English SDS and TDS PDFs.",
+      "sds": [
+        {
+          "csvRow": 700,
+          "sku": "SIK-000000714",
+          "name": "Cetol Door+Window Satin Colorless",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe Door & Window Satin Colorless - SIK48003/01",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366068_EN_CA.pdf",
+          "file": "PDFs/SDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 700,
+          "sku": "SIK-000000714",
+          "name": "Cetol Door+Window Satin Colorless",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe Door & Window Satin Colorless - SIK48003/01",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366068_EN_CA.pdf",
+          "file": "PDFs/TDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 701,
+      "sku": "SIK-000000715",
+      "name": "Cetol 23 005 Natural Oak",
+      "brand": "Sikkens",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact current manufacturer SDS and TDS found",
+      "researchNotes": "The row identifies Sikkens/PPG ProLuxe Cetol 23 Plus RE in Natural Oak 005. PPG's current manufacturer page lists SIK43005/01 and supplies direct Canadian-English SDS and TDS PDFs for that exact colour variant.",
+      "sds": [
+        {
+          "csvRow": 701,
+          "sku": "SIK-000000715",
+          "name": "Cetol 23 005 Natural Oak",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe 23 Top Coat RE Natural Oak 005 - SIK43005/01",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366048_EN_CA.pdf",
+          "file": "PDFs/SDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 701,
+          "sku": "SIK-000000715",
+          "name": "Cetol 23 005 Natural Oak",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe 23 Top Coat RE Natural Oak 005 - SIK43005/01",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366048_EN_US.pdf",
+          "file": "PDFs/TDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 702,
+      "sku": "SIK-000000716",
+      "name": "Cetol 1 005 Natural Oak",
+      "brand": "Sikkens",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact current manufacturer SDS and TDS found",
+      "researchNotes": "The row identifies Sikkens/PPG ProLuxe Cetol 1 RE in Natural Oak 005. PPG's current manufacturer page lists SIK41005/01 and supplies direct Canadian-English SDS and TDS PDFs for that exact colour variant.",
+      "sds": [
+        {
+          "csvRow": 702,
+          "sku": "SIK-000000716",
+          "name": "Cetol 1 005 Natural Oak",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe 1 Primary Coat RE Natural Oak 005 - SIK41005/01",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366034_EN_CA.pdf",
+          "file": "PDFs/SDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 702,
+          "sku": "SIK-000000716",
+          "name": "Cetol 1 005 Natural Oak",
+          "brand": "Sikkens",
+          "variant": "PPG ProLuxe 1 Primary Coat RE Natural Oak 005 - SIK41005/01",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366034_EN_US.pdf",
+          "file": "PDFs/TDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-TDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 698,
+      "sku": "SIK-000000712",
+      "name": "Sikkens Srd 005 Natural Oak",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe SRD RE Natural Oak 005 - SIK250-005/01",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366007_EN_CA.pdf",
+      "file": "PDFs/SDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Sikkens",
+        "product": "Sikkens Srd 005 Natural Oak",
+        "variant": "PPG ProLuxe SRD RE Natural Oak 005 - SIK250-005/01",
+        "pages": 19,
+        "bytes": 159525,
+        "sha256": "cd27918ae02a96890ef5c09adcb244ad94580c6b4056bb074ccf57e3d8512393",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "SIK250-005 PPG PROLUXE SRD RE WOOD FINISH TRANSPARENT MATTE EXTERIOR NATURAL OAK 005Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:00366007 Date of iss"
+      }
+    },
+    {
+      "csvRow": 698,
+      "sku": "SIK-000000712",
+      "name": "Sikkens Srd 005 Natural Oak",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe SRD RE Natural Oak 005 - SIK250-005/01",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366007_EN_CA.pdf",
+      "file": "PDFs/TDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-SRD-RE-Natural-Oak-005-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Sikkens",
+        "product": "Sikkens Srd 005 Natural Oak",
+        "variant": "PPG ProLuxe SRD RE Natural Oak 005 - SIK250-005/01",
+        "pages": 3,
+        "bytes": 157665,
+        "sha256": "973723a94cdf500e80e8a37da58fbcaf1d25dc1023e75700e4d7fb125f2b505b",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "SRD RE Wood Finish Transparent Matte GENERAL DESCRIPTION PRODUCT DATA PRODUCT TYPE: Alkyd SHEEN: Matte VOLUME SOLIDS*: 66% +/- 2% WEIGHT SOLIDS*: 71% +/- 2% WEIGHT/GALLON*: 7.8 lbs. (3.5 kg) +/- 0.2 lbs. (91 g) VOC: < 275 g/L (2.3 lbs./gal."
+      }
+    },
+    {
+      "csvRow": 699,
+      "sku": "SIK-000000713",
+      "name": "Sikkens Cetol Dek Finish Cedar 077",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe Premium Deck Cedar 077 - SIK44077/01",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366070_EN_CA.pdf",
+      "file": "PDFs/SDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Sikkens",
+        "product": "Sikkens Cetol Dek Finish Cedar 077",
+        "variant": "PPG ProLuxe Premium Deck Cedar 077 - SIK44077/01",
+        "pages": 21,
+        "bytes": 166451,
+        "sha256": "51c3d2ef9118cee1e61217655d2ea4e9a38882f291246786a9495b79417bb887",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "SIK44077 PPG PROLUXE PREMIUM DECK WOOD FINISH TRANSPARENT SATIN EXTERIOR CEDAR 077Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:00366070 Date of issue"
+      }
+    },
+    {
+      "csvRow": 699,
+      "sku": "SIK-000000713",
+      "name": "Sikkens Cetol Dek Finish Cedar 077",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe Premium Deck Cedar 077 - SIK44077/01",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366070_EN_CA.pdf",
+      "file": "PDFs/TDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-Premium-Deck-Cedar-077-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Sikkens",
+        "product": "Sikkens Cetol Dek Finish Cedar 077",
+        "variant": "PPG ProLuxe Premium Deck Cedar 077 - SIK44077/01",
+        "pages": 3,
+        "bytes": 155914,
+        "sha256": "5645c0afe8225a1bf088ba7b7e0f429f789be40e341398bc9d0463017fffed2f",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "Premium Deck Wood Finish Transparent Satin GENERAL DESCRIPTION PRODUCT DATA PRODUCT TYPE: Alkyd SHEEN: Satin VOLUME SOLIDS*: 58% +/- 2% WEIGHT SOLIDS*: 65% +/- 2% WEIGHT/GALLON*: 8.0 lbs. (3.6 kg) +/- 0.2 lbs. (91 g) VOC: < 350 g/L (2.9 lbs"
+      }
+    },
+    {
+      "csvRow": 700,
+      "sku": "SIK-000000714",
+      "name": "Cetol Door+Window Satin Colorless",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe Door & Window Satin Colorless - SIK48003/01",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366068_EN_CA.pdf",
+      "file": "PDFs/SDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Sikkens",
+        "product": "Cetol Door+Window Satin Colorless",
+        "variant": "PPG ProLuxe Door & Window Satin Colorless - SIK48003/01",
+        "pages": 21,
+        "bytes": 166246,
+        "sha256": "e5d80cc9d9e7655ae0051cc3d3a0c48f0694b060e3e8004b5e890e22325da903",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "SIK48003 PPG PROLUXE DOOR & WINDOW WOOD FINISH CLEAR SATIN EXTERIOR COLORLESS 003Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:00366068 Date of issue/"
+      }
+    },
+    {
+      "csvRow": 700,
+      "sku": "SIK-000000714",
+      "name": "Cetol Door+Window Satin Colorless",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe Door & Window Satin Colorless - SIK48003/01",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366068_EN_CA.pdf",
+      "file": "PDFs/TDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-Door-Window-Satin-Colorless-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Sikkens",
+        "product": "Cetol Door+Window Satin Colorless",
+        "variant": "PPG ProLuxe Door & Window Satin Colorless - SIK48003/01",
+        "pages": 3,
+        "bytes": 152078,
+        "sha256": "645a97e6305545054023171a0c578552db7841826ec94161a7b4925b24691870",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "Door & Window Wood Finish Clear Satin GENERAL DESCRIPTION PRODUCT DATA PRODUCT TYPE: Alkyd SHEEN: Satin VOLUME SOLIDS*: 53% +/- 2% WEIGHT SOLIDS*: 59% +/- 2% WEIGHT/GALLON*: 8.2 lbs. (3.7 kg) +/- 0.2 lbs. (91 g) VOC: < 350 g/L (2.9 lbs./gal"
+      }
+    },
+    {
+      "csvRow": 701,
+      "sku": "SIK-000000715",
+      "name": "Cetol 23 005 Natural Oak",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe 23 Top Coat RE Natural Oak 005 - SIK43005/01",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366048_EN_CA.pdf",
+      "file": "PDFs/SDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Sikkens",
+        "product": "Cetol 23 005 Natural Oak",
+        "variant": "PPG ProLuxe 23 Top Coat RE Natural Oak 005 - SIK43005/01",
+        "pages": 22,
+        "bytes": 168273,
+        "sha256": "3070056183e74f3ea3b19798332674ce48691adc29b20957489d4dbcfee10ac9",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "SIK43005 PPG PROLUXE 23 TOP COAT RE WOOD FINISH TRANSPARENT SATIN EXTERIOR NATURAL OAK 005Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:00366048 Date "
+      }
+    },
+    {
+      "csvRow": 701,
+      "sku": "SIK-000000715",
+      "name": "Cetol 23 005 Natural Oak",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe 23 Top Coat RE Natural Oak 005 - SIK43005/01",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366048_EN_US.pdf",
+      "file": "PDFs/TDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-23-Top-Coat-RE-Natural-Oak-005-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Sikkens",
+        "product": "Cetol 23 005 Natural Oak",
+        "variant": "PPG ProLuxe 23 Top Coat RE Natural Oak 005 - SIK43005/01",
+        "pages": 3,
+        "bytes": 156103,
+        "sha256": "4399c7c02a5c1092f003771354aacc30b182ad0c30983c501fa056b33955354e",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "23 Top Coat RE Wood Finish Transparent Satin GENERAL DESCRIPTION PRODUCT DATA PRODUCT TYPE: Alkyd SHEEN: Satin VOLUME SOLIDS*: 53% +/- 2% WEIGHT SOLIDS*: 57% +/- 2% WEIGHT/GALLON*: 8.3 lbs. (3.8 kg) +/- 0.2 lbs. (91 g) VOC: < 350 g/L (2.9 l"
+      }
+    },
+    {
+      "csvRow": 702,
+      "sku": "SIK-000000716",
+      "name": "Cetol 1 005 Natural Oak",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe 1 Primary Coat RE Natural Oak 005 - SIK41005/01",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00366034_EN_CA.pdf",
+      "file": "PDFs/SDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Sikkens",
+        "product": "Cetol 1 005 Natural Oak",
+        "variant": "PPG ProLuxe 1 Primary Coat RE Natural Oak 005 - SIK41005/01",
+        "pages": 19,
+        "bytes": 159583,
+        "sha256": "d4633b3e60fabbccb954cf60739bc722b4f2d8427173c93fe156a9d5ca470e14",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "SIK41005 PPG PROLUXE 1 PRIMARY COAT RE WOOD FINISH TRANSPARENT SATIN EXTERIOR NATURAL OAK 005Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:00366034 Da"
+      }
+    },
+    {
+      "csvRow": 702,
+      "sku": "SIK-000000716",
+      "name": "Cetol 1 005 Natural Oak",
+      "brand": "Sikkens",
+      "variant": "PPG ProLuxe 1 Primary Coat RE Natural Oak 005 - SIK41005/01",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00366034_EN_US.pdf",
+      "file": "PDFs/TDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/sikkens-PPG-ProLuxe-1-Primary-Coat-RE-Natural-Oak-005-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Sikkens",
+        "product": "Cetol 1 005 Natural Oak",
+        "variant": "PPG ProLuxe 1 Primary Coat RE Natural Oak 005 - SIK41005/01",
+        "pages": 3,
+        "bytes": 154527,
+        "sha256": "145fe19ca5f336909ffe53f236fd122a0955b0d649084e3b57fba508f04d16ec",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "1 Primary Coat RE Wood Finish Transparent Satin GENERAL DESCRIPTION PRODUCT DATA PRODUCT TYPE: Alkyd SHEEN: Matte VOLUME SOLIDS*: 66% +/- 2% WEIGHT SOLIDS*: 71% +/- 2% WEIGHT/GALLON*: 7.8 lbs. (3.5 kg) +/- 0.2 lbs. (91 g) VOC: < 275 g/L (2."
+      }
+    }
+  ]
+}
