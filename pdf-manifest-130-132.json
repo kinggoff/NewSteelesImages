@@ -1,0 +1,205 @@
+{
+  "batch": "130-132",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 490,
+      "sku": "LNL-000000504",
+      "name": "Last N Last Satin Spar Varnish",
+      "brand": "Last n Last",
+      "category": "Paints > Exterior",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The product image shows Last N Last Marine & Door oil-base Spar Varnish in Satin. Canlak's current manufacturer page identifies Satin as item 50801 (gallon) and 50804 (quart), and provides both the matching SDS and TDS.",
+      "sds": [
+        {
+          "csvRow": 490,
+          "sku": "LNL-000000504",
+          "name": "Last N Last Satin Spar Varnish",
+          "brand": "Last n Last",
+          "variant": "Marine & Door Oil Spar Varnish Satin 50801/50804",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://canlakcoatings.com/wp-content/uploads/2025/03/Last-N-Last-Marine-Door-Oil-Base-Spar-Varnish-Satin50801-50804-GHS-US-5_13_2020.pdf",
+          "file": "PDFs/SDS/last-n-last-Marine-Door-Oil-Spar-Varnish-Satin-50801-50804-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Marine-Door-Oil-Spar-Varnish-Satin-50801-50804-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/last-n-last-Marine-Door-Oil-Spar-Varnish-Satin-50801-50804-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 490,
+          "sku": "LNL-000000504",
+          "name": "Last N Last Satin Spar Varnish",
+          "brand": "Last n Last",
+          "variant": "Marine & Door Oil Spar Varnish 50701-50804",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://canlakcoatings.com/wp-content/uploads/2026/07/LastNLast_TDS_Oil-Marine-and-Door-Spar-Varnish_07.22.26.pdf",
+          "file": "PDFs/TDS/last-n-last-Marine-Door-Oil-Spar-Varnish-50701-50804-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/last-n-last-Marine-Door-Oil-Spar-Varnish-50701-50804-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/last-n-last-Marine-Door-Oil-Spar-Varnish-50701-50804-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 491,
+      "sku": "LNL-000000505",
+      "name": "Last N Last Oil Gloss Urethane 350 Voc",
+      "brand": "Last n Last",
+      "category": "Paints > Exterior",
+      "researchStatus": "Exact manufacturer SDS found; no separate TDS published",
+      "researchNotes": "The product image and row name match Last N Last Clear Polyurethane Wood Finish Gloss, 350 VOC. Canlak's current manufacturer page identifies the gallon as item 53501 and provides the exact SDS. The page's TDS section is empty, so the TDS columns remain blank rather than substituting another polyurethane family.",
+      "sds": [
+        {
+          "csvRow": 491,
+          "sku": "LNL-000000505",
+          "name": "Last N Last Oil Gloss Urethane 350 Voc",
+          "brand": "Last n Last",
+          "variant": "Clear Polyurethane Wood Finish Gloss 350 VOC 53501",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://canlakcoatings.com/wp-content/uploads/2025/03/Last-N-Last-Clear-Polyurethane-Wood-Finish-Gloss-350VOC53501-GHS-US-5_13_2020.pdf",
+          "file": "PDFs/SDS/last-n-last-Clear-Polyurethane-Wood-Finish-Gloss-350-VOC-53501-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Clear-Polyurethane-Wood-Finish-Gloss-350-VOC-53501-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/last-n-last-Clear-Polyurethane-Wood-Finish-Gloss-350-VOC-53501-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 492,
+      "sku": "LNL-000000506",
+      "name": "Absco Polyurethane Wood Floor Finish Sat",
+      "brand": "Last n Last",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS found; TDS endpoint pending retrieval",
+      "researchNotes": "The product image shows Absco Professional Polyurethane Wood Floor Finish, Satin, 350 VOC. Canlak's manufacturer page identifies the one-gallon item as 89511 and provides a Satin SDS covering 89511/89512/89515. The page also lists a family TDS, but its current PDF endpoint could not be retrieved during this batch, so the TDS columns remain blank until the manufacturer file is reachable.",
+      "sds": [
+        {
+          "csvRow": 492,
+          "sku": "LNL-000000506",
+          "name": "Absco Polyurethane Wood Floor Finish Sat",
+          "brand": "Last n Last",
+          "variant": "Professional Polyurethane Satin 350 VOC 89511/89512/89515",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://canlakcoatings.com/wp-content/uploads/2025/01/Absco-Oil-Base-Polyurethane-Floor-Finish-SDS-Satin-350-VOC89511-89512-89515-1.6.22.pdf",
+          "file": "PDFs/SDS/last-n-last-Professional-Polyurethane-Satin-350-VOC-89511-89512-89515-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Professional-Polyurethane-Satin-350-VOC-89511-89512-89515-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/last-n-last-Professional-Polyurethane-Satin-350-VOC-89511-89512-89515-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 490,
+      "sku": "LNL-000000504",
+      "name": "Last N Last Satin Spar Varnish",
+      "brand": "Last n Last",
+      "variant": "Marine & Door Oil Spar Varnish Satin 50801/50804",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://canlakcoatings.com/wp-content/uploads/2025/03/Last-N-Last-Marine-Door-Oil-Base-Spar-Varnish-Satin50801-50804-GHS-US-5_13_2020.pdf",
+      "file": "PDFs/SDS/last-n-last-Marine-Door-Oil-Spar-Varnish-Satin-50801-50804-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Marine-Door-Oil-Spar-Varnish-Satin-50801-50804-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/last-n-last-Marine-Door-Oil-Spar-Varnish-Satin-50801-50804-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Marine-Door-Oil-Spar-Varnish-Satin-50801-50804-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Last n Last",
+        "product": "Last N Last Satin Spar Varnish",
+        "variant": "Marine & Door Oil Spar Varnish Satin 50801/50804",
+        "pages": 16,
+        "bytes": 131302,
+        "sha256": "b8e89ede01158b8cb1e5ece2acaad17031eefa8e486c86545df922de86fb4df9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet According to OSHA Hazard Communication Standard, 29 CFR 1910.1200 Initial preparation date: 04.21.2020 Revision date: 05.13.2020 Page 1 of 16 Last-N-Last Marine & Door Oil Base Spar Varnish Satin Generated using Total SDS™"
+      }
+    },
+    {
+      "csvRow": 490,
+      "sku": "LNL-000000504",
+      "name": "Last N Last Satin Spar Varnish",
+      "brand": "Last n Last",
+      "variant": "Marine & Door Oil Spar Varnish 50701-50804",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://canlakcoatings.com/wp-content/uploads/2026/07/LastNLast_TDS_Oil-Marine-and-Door-Spar-Varnish_07.22.26.pdf",
+      "file": "PDFs/TDS/last-n-last-Marine-Door-Oil-Spar-Varnish-50701-50804-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/last-n-last-Marine-Door-Oil-Spar-Varnish-50701-50804-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/last-n-last-Marine-Door-Oil-Spar-Varnish-50701-50804-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/last-n-last-Marine-Door-Oil-Spar-Varnish-50701-50804-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Last n Last",
+        "product": "Last N Last Satin Spar Varnish",
+        "variant": "Marine & Door Oil Spar Varnish 50701-50804",
+        "pages": 1,
+        "bytes": 533539,
+        "sha256": "1d6a6be844262303951be9e728e53625260edfe5706c9738bcb9ba8342ef7aa8",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SPECIFICATIONS VOC ..............................................................................450 g/l Solids ................................................................................ 50% Flash Point ..............................."
+      }
+    },
+    {
+      "csvRow": 491,
+      "sku": "LNL-000000505",
+      "name": "Last N Last Oil Gloss Urethane 350 Voc",
+      "brand": "Last n Last",
+      "variant": "Clear Polyurethane Wood Finish Gloss 350 VOC 53501",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://canlakcoatings.com/wp-content/uploads/2025/03/Last-N-Last-Clear-Polyurethane-Wood-Finish-Gloss-350VOC53501-GHS-US-5_13_2020.pdf",
+      "file": "PDFs/SDS/last-n-last-Clear-Polyurethane-Wood-Finish-Gloss-350-VOC-53501-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Clear-Polyurethane-Wood-Finish-Gloss-350-VOC-53501-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/last-n-last-Clear-Polyurethane-Wood-Finish-Gloss-350-VOC-53501-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Clear-Polyurethane-Wood-Finish-Gloss-350-VOC-53501-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Last n Last",
+        "product": "Last N Last Oil Gloss Urethane 350 Voc",
+        "variant": "Clear Polyurethane Wood Finish Gloss 350 VOC 53501",
+        "pages": 15,
+        "bytes": 128013,
+        "sha256": "ccae685f5dc6212d5e814f0c3dbbc0ac730090bb6a7bfcaed00ef1b236d025cb",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet According to OSHA Hazard Communication Standard, 29 CFR 1910.1200 Initial preparation date: 04.20.2020 Revision date: 05.13.2020 Page 1 of 15 Last-N-Last Clear Polyurethane Wood Finish Gloss 350VOC Generated using Total SD"
+      }
+    },
+    {
+      "csvRow": 492,
+      "sku": "LNL-000000506",
+      "name": "Absco Polyurethane Wood Floor Finish Sat",
+      "brand": "Last n Last",
+      "variant": "Professional Polyurethane Satin 350 VOC 89511/89512/89515",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://canlakcoatings.com/wp-content/uploads/2025/01/Absco-Oil-Base-Polyurethane-Floor-Finish-SDS-Satin-350-VOC89511-89512-89515-1.6.22.pdf",
+      "file": "PDFs/SDS/last-n-last-Professional-Polyurethane-Satin-350-VOC-89511-89512-89515-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Professional-Polyurethane-Satin-350-VOC-89511-89512-89515-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/last-n-last-Professional-Polyurethane-Satin-350-VOC-89511-89512-89515-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/last-n-last-Professional-Polyurethane-Satin-350-VOC-89511-89512-89515-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Last n Last",
+        "product": "Absco Polyurethane Wood Floor Finish Sat",
+        "variant": "Professional Polyurethane Satin 350 VOC 89511/89512/89515",
+        "pages": 14,
+        "bytes": 134126,
+        "sha256": "145ef31424327f124e80b3d4adfc2c8b5e79c4f6949bcad7a4a6648fc44d3109",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet According to OSHA Hazard Communication Standard, 29 CFR 1910.1200 Initial Preparation Date: 04.21.2020 Revision date: 01.05.2022 Page 1 of 14 Absco Oil Base Polyurethane Floor Finish Satin 350 VOC SECTION 1: Identiﬁcation "
+      }
+    }
+  ]
+}
