@@ -1,0 +1,278 @@
+{
+  "batch": "075-077",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 174,
+      "sku": "TR-000000178",
+      "name": "Tremclad Rust Paint Gloss Real Orange",
+      "brand": "Tremclad",
+      "category": "Paints > Specialty Paints",
+      "sds": [
+        {
+          "csvRow": 174,
+          "sku": "TR-000000178",
+          "name": "Tremclad Rust Paint Gloss Real Orange",
+          "brand": "Tremclad",
+          "variant": "946 mL Gloss Real Orange",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/369814.pdf",
+          "file": "PDFs/SDS/tremclad-369814.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-369814.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-369814.pdf?raw=true"
+        },
+        {
+          "csvRow": 174,
+          "sku": "TR-000000178",
+          "name": "Tremclad Rust Paint Gloss Real Orange",
+          "brand": "Tremclad",
+          "variant": "3.78 L Gloss Real Orange",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27007X155.pdf",
+          "file": "PDFs/SDS/tremclad-27007X155.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27007X155.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27007X155.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 175,
+      "sku": "TR-000000179",
+      "name": "Tremclad Rust Paint Gloss Medium Blue",
+      "brand": "Tremclad",
+      "category": "Paints > Specialty Paints",
+      "sds": [
+        {
+          "csvRow": 175,
+          "sku": "TR-000000179",
+          "name": "Tremclad Rust Paint Gloss Medium Blue",
+          "brand": "Tremclad",
+          "variant": "946 mL Gloss Medium Blue",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254905.pdf",
+          "file": "PDFs/SDS/tremclad-254905.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254905.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254905.pdf?raw=true"
+        },
+        {
+          "csvRow": 175,
+          "sku": "TR-000000179",
+          "name": "Tremclad Rust Paint Gloss Medium Blue",
+          "brand": "Tremclad",
+          "variant": "3.78 L Gloss Medium Blue",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27009X155.pdf",
+          "file": "PDFs/SDS/tremclad-27009X155.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27009X155.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27009X155.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 176,
+      "sku": "TR-000000180",
+      "name": "Tremclad Rust Paint Gloss John Deere Green",
+      "brand": "Tremclad",
+      "category": "Paints > Specialty Paints",
+      "sds": [
+        {
+          "csvRow": 176,
+          "sku": "TR-000000180",
+          "name": "Tremclad Rust Paint Gloss John Deere Green",
+          "brand": "Tremclad",
+          "variant": "946 mL Gloss John Deere Green",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254913.pdf",
+          "file": "PDFs/SDS/tremclad-254913.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254913.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254913.pdf?raw=true"
+        },
+        {
+          "csvRow": 176,
+          "sku": "TR-000000180",
+          "name": "Tremclad Rust Paint Gloss John Deere Green",
+          "brand": "Tremclad",
+          "variant": "3.78 L Gloss John Deere Green",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27039X155.pdf",
+          "file": "PDFs/SDS/tremclad-27039X155.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27039X155.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27039X155.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 174,
+      "sku": "TR-000000178",
+      "name": "Tremclad Rust Paint Gloss Real Orange",
+      "brand": "Tremclad",
+      "variant": "946 mL Gloss Real Orange",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/369814.pdf",
+      "file": "PDFs/SDS/tremclad-369814.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-369814.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-369814.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-369814.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss Real Orange",
+        "variant": "946 mL Gloss Real Orange",
+        "pages": 6,
+        "bytes": 165375,
+        "sha256": "82004941afcc3860e6fac5d0cb35e33e0b9447e5801ab92a9a005b559e8609a3",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/21/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Tremclad Rust Paint Product Name: TRMCLD 2X946ML QT GLOSS RL ORNG Revision Date: 5/21/2025 Product Identifier: 36981"
+      }
+    },
+    {
+      "csvRow": 174,
+      "sku": "TR-000000178",
+      "name": "Tremclad Rust Paint Gloss Real Orange",
+      "brand": "Tremclad",
+      "variant": "3.78 L Gloss Real Orange",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27007X155.pdf",
+      "file": "PDFs/SDS/tremclad-27007X155.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27007X155.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27007X155.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27007X155.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss Real Orange",
+        "variant": "3.78 L Gloss Real Orange",
+        "pages": 6,
+        "bytes": 164728,
+        "sha256": "41ed0a42f103e4120717c53acaf871fb227f20f0f2e4656d6ba4570a822d9220",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 4/8/2024 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: TRMCLD 2X3.78L 1-GL RUST PAINTREALORANGE Revision Date: 4/8/2024 Product Identifier: 27007X155 Supercedes Date: 4/3/20"
+      }
+    },
+    {
+      "csvRow": 175,
+      "sku": "TR-000000179",
+      "name": "Tremclad Rust Paint Gloss Medium Blue",
+      "brand": "Tremclad",
+      "variant": "946 mL Gloss Medium Blue",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254905.pdf",
+      "file": "PDFs/SDS/tremclad-254905.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254905.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254905.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254905.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss Medium Blue",
+        "variant": "946 mL Gloss Medium Blue",
+        "pages": 6,
+        "bytes": 166552,
+        "sha256": "f20e84f18f5a86870da1515012dbb4e5c66a8cfc680e08c81fa6fcab1f5cdc25",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/21/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Tremclad Rust Paint Product Name: TRMCLD 2X946ML QT RUST PAINT MEDIUM BLUE Revision Date: 5/21/2025 Product Identifi"
+      }
+    },
+    {
+      "csvRow": 175,
+      "sku": "TR-000000179",
+      "name": "Tremclad Rust Paint Gloss Medium Blue",
+      "brand": "Tremclad",
+      "variant": "3.78 L Gloss Medium Blue",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27009X155.pdf",
+      "file": "PDFs/SDS/tremclad-27009X155.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27009X155.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27009X155.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27009X155.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss Medium Blue",
+        "variant": "3.78 L Gloss Medium Blue",
+        "pages": 6,
+        "bytes": 161750,
+        "sha256": "58ddb0d0fa5b6be74117a0499592775bdb522ebd92171c100193165c1c5e6e90",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 7/17/2025 * Trusted Quality Since 1921 * www.rustoleum.com This document is compliant with the U.S. 29 CFR 1910.1200 Hazard Communication Standard and the Canada Gazette, Part II, Volume 157, Number 1 SOR/202"
+      }
+    },
+    {
+      "csvRow": 176,
+      "sku": "TR-000000180",
+      "name": "Tremclad Rust Paint Gloss John Deere Green",
+      "brand": "Tremclad",
+      "variant": "946 mL Gloss John Deere Green",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254913.pdf",
+      "file": "PDFs/SDS/tremclad-254913.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254913.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254913.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254913.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss John Deere Green",
+        "variant": "946 mL Gloss John Deere Green",
+        "pages": 7,
+        "bytes": 169481,
+        "sha256": "8339a52d1e14149d78f4785239105d9a9032f93a4d5aeda71f305b8df268107d",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/21/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Tremclad Rust Paint Product Name: TRMCLD 2X946ML QT RUST PNT JHN DEER GRN Revision Date: 5/21/2025 Product Identifie"
+      }
+    },
+    {
+      "csvRow": 176,
+      "sku": "TR-000000180",
+      "name": "Tremclad Rust Paint Gloss John Deere Green",
+      "brand": "Tremclad",
+      "variant": "3.78 L Gloss John Deere Green",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27039X155.pdf",
+      "file": "PDFs/SDS/tremclad-27039X155.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27039X155.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27039X155.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27039X155.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss John Deere Green",
+        "variant": "3.78 L Gloss John Deere Green",
+        "pages": 6,
+        "bytes": 161192,
+        "sha256": "3c06fd935b0d6edc189c9a41bacdf7271fab220d282505711419fd5f01d70e9b",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 5/29/2023 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: TRMCLD 2X3.78L 1-GL RP JOHN DEERE GREEN Revision Date: 5/29/2023 Product Identifier: 27039X155 Supercedes Date: 3/14/"
+      }
+    }
+  ]
+}
