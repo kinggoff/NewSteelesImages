@@ -1,0 +1,535 @@
+{
+  "batch": "196-202",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 669,
+      "sku": "RS-000000683",
+      "name": "Ready Seal Exterior Stain Natural",
+      "brand": "Ready Seal",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact Canadian manufacturer SDS and manufacturer TDS found",
+      "researchNotes": "The row image identifies Ready Seal Exterior Penetrating Wood Stain & Sealer, Natural No. 105, 3.79 L. Ready Seal's current Canadian English SDS explicitly identifies CA105 / STN 105 Natural 1-Gallon, and the manufacturer technical data sheet covers Ready Seal Exterior Wood Stain and all pigmented colours.",
+      "sds": [
+        {
+          "csvRow": 669,
+          "sku": "RS-000000683",
+          "name": "Ready Seal Exterior Stain Natural",
+          "brand": "Ready Seal",
+          "variant": "Ready Seal Exterior Wood Stain Natural No. 105 - Canada",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0729/8698/4602/files/CANADA-English-SDS-READY-SEAL-All-Combined_Optimized.pdf?v=1772030197",
+          "file": "PDFs/SDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Natural-105-Canada-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Natural-105-Canada-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Natural-105-Canada-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 669,
+          "sku": "RS-000000683",
+          "name": "Ready Seal Exterior Stain Natural",
+          "brand": "Ready Seal",
+          "variant": "Ready Seal Exterior Wood Stain and Sealer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://cdn.shopify.com/s/files/1/0729/8698/4602/files/RSL-01_READY_SEAL_Exterior_Wood_Stain_TDS.pdf?v=1781207877",
+          "file": "PDFs/TDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Sealer-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Sealer-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Sealer-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 670,
+      "sku": "SA-000000684",
+      "name": "SamaN Water-Based Clear Finish",
+      "brand": "SamaN",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS found; no exact PDF TDS located",
+      "researchNotes": "The row image identifies SamaN Waterbased Exterior Clear Coat in Flat sheen, 946 mL, product code SAM-805. SamaN's manufacturer SDS explicitly covers SAM-805, SAM-830, and SAM-870. The current manufacturer TDS is limited to the satin and semi-gloss SAM-830/870 variants, so it is not substituted for the Flat SAM-805 row.",
+      "sds": [
+        {
+          "csvRow": 670,
+          "sku": "SA-000000684",
+          "name": "SamaN Water-Based Clear Finish",
+          "brand": "SamaN",
+          "variant": "SamaN Waterbased Exterior Clear Coat Flat - SAM-805",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+          "file": "PDFs/SDS/saman-SamaN-Waterbased-Exterior-Clear-Coat-SAM-805-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Waterbased-Exterior-Clear-Coat-SAM-805-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Waterbased-Exterior-Clear-Coat-SAM-805-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 671,
+      "sku": "SA-000000685",
+      "name": "SamaN Water-Based Wood Floor Stain",
+      "brand": "SamaN",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer family SDS and TDS found",
+      "researchNotes": "The row image identifies SamaN Water-Based Wood Stain, Whole Wheat 010, 946 mL. SamaN's current product page lists Whole Wheat 010 and supplies the manufacturer Water Based Wood Stain SDS and TEW technical data sheet for the colour family.",
+      "sds": [
+        {
+          "csvRow": 671,
+          "sku": "SA-000000685",
+          "name": "SamaN Water-Based Wood Floor Stain",
+          "brand": "SamaN",
+          "variant": "SamaN Water-Based Wood Stain Whole Wheat 010",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_Water-based-wood-stain.pdf",
+          "file": "PDFs/SDS/saman-SamaN-Water-Based-Wood-Stain-TEW-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Water-Based-Wood-Stain-TEW-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Water-Based-Wood-Stain-TEW-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 671,
+          "sku": "SA-000000685",
+          "name": "SamaN Water-Based Wood Floor Stain",
+          "brand": "SamaN",
+          "variant": "SamaN Water-Based Wood Stain TEW",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_TEW.pdf",
+          "file": "PDFs/TDS/saman-SamaN-Water-Based-Wood-Stain-TEW-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/saman-SamaN-Water-Based-Wood-Stain-TEW-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-SamaN-Water-Based-Wood-Stain-TEW-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 672,
+      "sku": "SA-000000686",
+      "name": "SamaN Water-Based Clear Glaze",
+      "brand": "SamaN",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS found; no PDF TDS published",
+      "researchNotes": "The row image identifies SamaN High-Quality Waterbased Glaze with long open time, 3.78 L, the regular CG-100 glaze. SamaN supplies the exact CG-100 SDS. Its current product page publishes only the product label/instructions and no technical data sheet, so the TDS fields remain blank.",
+      "sds": [
+        {
+          "csvRow": 672,
+          "sku": "SA-000000686",
+          "name": "SamaN Water-Based Clear Glaze",
+          "brand": "SamaN",
+          "variant": "SamaN Waterbased Glaze Regular - CG-100",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/CG-100_SDS_Eng.pdf",
+          "file": "PDFs/SDS/saman-SamaN-Waterbased-Glaze-CG-100-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Waterbased-Glaze-CG-100-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Waterbased-Glaze-CG-100-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 673,
+      "sku": "SA-000000687",
+      "name": "SamaN Tung Oil Natural",
+      "brand": "SamaN",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The row image identifies SamaN Legend Tung Oil, Natural, 946 mL, product code TOH-000. SamaN supplies the exact Natural TOH-000 SDS and its manufacturer technical data sheet covering TOH-000 and the coloured Legend Tung Oil family.",
+      "sds": [
+        {
+          "csvRow": 673,
+          "sku": "SA-000000687",
+          "name": "SamaN Tung Oil Natural",
+          "brand": "SamaN",
+          "variant": "SamaN Legend Tung Oil Natural - TOH-000",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_TOH-000.pdf",
+          "file": "PDFs/SDS/saman-SamaN-Legend-Tung-Oil-Natural-TOH-000-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Legend-Tung-Oil-Natural-TOH-000-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Legend-Tung-Oil-Natural-TOH-000-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 673,
+          "sku": "SA-000000687",
+          "name": "SamaN Tung Oil Natural",
+          "brand": "SamaN",
+          "variant": "SamaN Legend Tung Oil TOH-000 and TOH-401 to TOH-409",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_TOH.pdf",
+          "file": "PDFs/TDS/saman-SamaN-Legend-Tung-Oil-TOH-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/saman-SamaN-Legend-Tung-Oil-TOH-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-SamaN-Legend-Tung-Oil-TOH-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 674,
+      "sku": "SA-000000688",
+      "name": "SamaN Tabletop Epoxy",
+      "brand": "SamaN",
+      "category": "Paints > Epoxy",
+      "researchStatus": "Exact two-component manufacturer SDS set found; no PDF TDS published",
+      "researchNotes": "The row image identifies SamaN EPOX-Y Counter, Bar and Table clear epoxy kit, 946 mL. SamaN's manufacturer product page supplies the exact SDS files for the EPO-100A-500 resin and EPO-100B-500 hardener components. The manufacturer publishes instructions rather than a technical data sheet, so the TDS fields remain blank.",
+      "sds": [
+        {
+          "csvRow": 674,
+          "sku": "SA-000000688",
+          "name": "SamaN Tabletop Epoxy",
+          "brand": "SamaN",
+          "variant": "SamaN EPOX-Y Counter Bar Table Epoxy Part A Resin - EPO-100A-500",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_EPO-100A-500.pdf",
+          "file": "PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100A-500-EN-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100A-500-EN-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100A-500-EN-SDS.pdf?raw=true"
+        },
+        {
+          "csvRow": 674,
+          "sku": "SA-000000688",
+          "name": "SamaN Tabletop Epoxy",
+          "brand": "SamaN",
+          "variant": "SamaN EPOX-Y Counter Bar Table Epoxy Part B Hardener - EPO-100B-500",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_EPO-100B-500.pdf",
+          "file": "PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100B-500-EN-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100B-500-EN-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100B-500-EN-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 677,
+      "sku": "SA-000000691",
+      "name": "SamaN Beeswax Wood Finish",
+      "brand": "SamaN",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS found; no PDF TDS published",
+      "researchNotes": "The row image identifies SamaN Natural Beeswax Wood Finish and Conditioner, 200 g, product code BWA-000. SamaN supplies the exact BWA-000 SDS. The current manufacturer page publishes label instructions but no technical data sheet, so the TDS fields remain blank.",
+      "sds": [
+        {
+          "csvRow": 677,
+          "sku": "SA-000000691",
+          "name": "SamaN Beeswax Wood Finish",
+          "brand": "SamaN",
+          "variant": "SamaN Natural Beeswax Wood Finish and Conditioner - BWA-000",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2019/12/SDS_BWA-000.pdf",
+          "file": "PDFs/SDS/saman-SamaN-Natural-Beeswax-BWA-000-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Natural-Beeswax-BWA-000-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Natural-Beeswax-BWA-000-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 669,
+      "sku": "RS-000000683",
+      "name": "Ready Seal Exterior Stain Natural",
+      "brand": "Ready Seal",
+      "variant": "Ready Seal Exterior Wood Stain Natural No. 105 - Canada",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0729/8698/4602/files/CANADA-English-SDS-READY-SEAL-All-Combined_Optimized.pdf?v=1772030197",
+      "file": "PDFs/SDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Natural-105-Canada-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Natural-105-Canada-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Natural-105-Canada-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Natural-105-Canada-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Ready Seal",
+        "product": "Ready Seal Exterior Stain Natural",
+        "variant": "Ready Seal Exterior Wood Stain Natural No. 105 - Canada",
+        "pages": 60,
+        "bytes": 351176,
+        "sha256": "50b7bb7d84244a0f4ef93113064269837d1d9d24c83dcaa7fbafff7ca304caa5",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Date Printed: 10/7/2025 www.readyseal.com 1. Identification Name on Label: Ready Seal Exterior Wood Stain Product Name: RDYSL 4X3.78L 1GL CEDAR EXT WD STN 112 Revision Date: 10/7/2025 Product Identifier: CA112 Supercedes D"
+      }
+    },
+    {
+      "csvRow": 669,
+      "sku": "RS-000000683",
+      "name": "Ready Seal Exterior Stain Natural",
+      "brand": "Ready Seal",
+      "variant": "Ready Seal Exterior Wood Stain and Sealer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0729/8698/4602/files/RSL-01_READY_SEAL_Exterior_Wood_Stain_TDS.pdf?v=1781207877",
+      "file": "PDFs/TDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Sealer-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Sealer-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Sealer-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/ready-seal-Ready-Seal-Exterior-Wood-Stain-Sealer-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Ready Seal",
+        "product": "Ready Seal Exterior Stain Natural",
+        "variant": "Ready Seal Exterior Wood Stain and Sealer",
+        "pages": 4,
+        "bytes": 235310,
+        "sha256": "37415a081cfcff296538d7045d4a804f8865b5407bb2477a2c28e96176f517d9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA RSL-01 READY SEAL® EXTERIOR WOOD STAIN 1 Form: EJ-336 Rev.: 051226 DESCRIPTION AND USES READY SEAL® Exterior Wood Stain is an oil-based, semi- transparent stain-and-sealer-in-one. It is a unique blend of oil, quality resins, "
+      }
+    },
+    {
+      "csvRow": 670,
+      "sku": "SA-000000684",
+      "name": "SamaN Water-Based Clear Finish",
+      "brand": "SamaN",
+      "variant": "SamaN Waterbased Exterior Clear Coat Flat - SAM-805",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+      "file": "PDFs/SDS/saman-SamaN-Waterbased-Exterior-Clear-Coat-SAM-805-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Waterbased-Exterior-Clear-Coat-SAM-805-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Waterbased-Exterior-Clear-Coat-SAM-805-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Waterbased-Exterior-Clear-Coat-SAM-805-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "SamaN",
+        "product": "SamaN Water-Based Clear Finish",
+        "variant": "SamaN Waterbased Exterior Clear Coat Flat - SAM-805",
+        "pages": 10,
+        "bytes": 57785,
+        "sha256": "f8905e5f0e6b07885f848e2e169aa47472b352011d3cbaad0fe0566560ca0c38",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Vernis extérieur clair acrylique 1. Identification Product identifier: Vernis extérieur clair acrylique Product code: SAM-805, SAM-830, and SAM-870 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telep"
+      }
+    },
+    {
+      "csvRow": 671,
+      "sku": "SA-000000685",
+      "name": "SamaN Water-Based Wood Floor Stain",
+      "brand": "SamaN",
+      "variant": "SamaN Water-Based Wood Stain Whole Wheat 010",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_Water-based-wood-stain.pdf",
+      "file": "PDFs/SDS/saman-SamaN-Water-Based-Wood-Stain-TEW-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Water-Based-Wood-Stain-TEW-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Water-Based-Wood-Stain-TEW-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Water-Based-Wood-Stain-TEW-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "SamaN",
+        "product": "SamaN Water-Based Wood Floor Stain",
+        "variant": "SamaN Water-Based Wood Stain Whole Wheat 010",
+        "pages": 9,
+        "bytes": 134601,
+        "sha256": "a9afaccaaac678a5b0ff5c49bc218153e3767e0ed74bf75acb61dcbf564f1445",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Water based wood stain 1. Identification Product identifier: Water based wood stain Product code: TEW-206 Supplier Name: SamaN 660, rue du Filtre Victoriaville, (Québec) Canada, G6T 0T6 Telephone: 819 751-2350 Emergency te"
+      }
+    },
+    {
+      "csvRow": 671,
+      "sku": "SA-000000685",
+      "name": "SamaN Water-Based Wood Floor Stain",
+      "brand": "SamaN",
+      "variant": "SamaN Water-Based Wood Stain TEW",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_TEW.pdf",
+      "file": "PDFs/TDS/saman-SamaN-Water-Based-Wood-Stain-TEW-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/saman-SamaN-Water-Based-Wood-Stain-TEW-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-SamaN-Water-Based-Wood-Stain-TEW-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/saman-SamaN-Water-Based-Wood-Stain-TEW-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "SamaN",
+        "product": "SamaN Water-Based Wood Floor Stain",
+        "variant": "SamaN Water-Based Wood Stain TEW",
+        "pages": 1,
+        "bytes": 23345,
+        "sha256": "41b17c48156c8d173d5ad192f66f8c895c202053c505bc09460235e6a27a3b5f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical Data Sheet SAMAN WATER-BASED STAINS / TEW SERIES DESCRIPTION Saman water-based stain is a wiping stain recommended for interior wood furniture and woodworks. It can be applied on all wood species. -ready to use and easy to apply -"
+      }
+    },
+    {
+      "csvRow": 672,
+      "sku": "SA-000000686",
+      "name": "SamaN Water-Based Clear Glaze",
+      "brand": "SamaN",
+      "variant": "SamaN Waterbased Glaze Regular - CG-100",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/CG-100_SDS_Eng.pdf",
+      "file": "PDFs/SDS/saman-SamaN-Waterbased-Glaze-CG-100-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Waterbased-Glaze-CG-100-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Waterbased-Glaze-CG-100-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Waterbased-Glaze-CG-100-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "SamaN",
+        "product": "SamaN Water-Based Clear Glaze",
+        "variant": "SamaN Waterbased Glaze Regular - CG-100",
+        "pages": 9,
+        "bytes": 72022,
+        "sha256": "aa9c1a058bb9ffa50c3ef3d2a111bae5ccd3fe15a5a97ef90b4b0d27064d6de0",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Glaze 1. Identification Product identifier: Glaze Product code: CG-100 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telephone: 819 751-2350 Emergency telephone number: 819-751-2350 Available hours: "
+      }
+    },
+    {
+      "csvRow": 673,
+      "sku": "SA-000000687",
+      "name": "SamaN Tung Oil Natural",
+      "brand": "SamaN",
+      "variant": "SamaN Legend Tung Oil Natural - TOH-000",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_TOH-000.pdf",
+      "file": "PDFs/SDS/saman-SamaN-Legend-Tung-Oil-Natural-TOH-000-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Legend-Tung-Oil-Natural-TOH-000-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Legend-Tung-Oil-Natural-TOH-000-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Legend-Tung-Oil-Natural-TOH-000-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "SamaN",
+        "product": "SamaN Tung Oil Natural",
+        "variant": "SamaN Legend Tung Oil Natural - TOH-000",
+        "pages": 10,
+        "bytes": 65628,
+        "sha256": "ffbdf18099f7444004d7a0a6430999a3650653053b0ca1d967c994cc6a3398a6",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet PROTECTIVE TUNG OIL - Natural 1. Identification Product identifier: PROTECTIVE TUNG OIL - Natural Product code: TOH-000 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telephone: 819 751-2350 Emergency"
+      }
+    },
+    {
+      "csvRow": 673,
+      "sku": "SA-000000687",
+      "name": "SamaN Tung Oil Natural",
+      "brand": "SamaN",
+      "variant": "SamaN Legend Tung Oil TOH-000 and TOH-401 to TOH-409",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_TOH.pdf",
+      "file": "PDFs/TDS/saman-SamaN-Legend-Tung-Oil-TOH-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/saman-SamaN-Legend-Tung-Oil-TOH-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-SamaN-Legend-Tung-Oil-TOH-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/saman-SamaN-Legend-Tung-Oil-TOH-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "SamaN",
+        "product": "SamaN Tung Oil Natural",
+        "variant": "SamaN Legend Tung Oil TOH-000 and TOH-401 to TOH-409",
+        "pages": 1,
+        "bytes": 35429,
+        "sha256": "2dab231dcc631675498c34de4f58be8151946ac9aa7fb89fda43aa0fdb533b40",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical data sheet LEGEND TUNG OIL / TOH-000, TOH-401 to TOH- 409 DESCRIPTION Saman Legend tung oil is a natural oil recommended for interior wood surfaces: floors, furniture, doors and windows, woodworks, etc. The oil enhances wood grain"
+      }
+    },
+    {
+      "csvRow": 674,
+      "sku": "SA-000000688",
+      "name": "SamaN Tabletop Epoxy",
+      "brand": "SamaN",
+      "variant": "SamaN EPOX-Y Counter Bar Table Epoxy Part A Resin - EPO-100A-500",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_EPO-100A-500.pdf",
+      "file": "PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100A-500-EN-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100A-500-EN-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100A-500-EN-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100A-500-EN-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "SamaN",
+        "product": "SamaN Tabletop Epoxy",
+        "variant": "SamaN EPOX-Y Counter Bar Table Epoxy Part A Resin - EPO-100A-500",
+        "pages": 11,
+        "bytes": 119848,
+        "sha256": "6cbd52885b82f9ab653e57947790d500fd50b1a7c4bee9bd85230c70f8b1ae33",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet EPOXY RESIN - PART A 472 ml 1. Identification Product identifier: EPOXY RESIN - PART A 472 ml Product code: EPO-100A-500 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telephone: 819 751-2350 Emergenc"
+      }
+    },
+    {
+      "csvRow": 674,
+      "sku": "SA-000000688",
+      "name": "SamaN Tabletop Epoxy",
+      "brand": "SamaN",
+      "variant": "SamaN EPOX-Y Counter Bar Table Epoxy Part B Hardener - EPO-100B-500",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_EPO-100B-500.pdf",
+      "file": "PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100B-500-EN-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100B-500-EN-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100B-500-EN-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-EPOX-Y-Tabletop-Epoxy-EPO-100B-500-EN-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "SamaN",
+        "product": "SamaN Tabletop Epoxy",
+        "variant": "SamaN EPOX-Y Counter Bar Table Epoxy Part B Hardener - EPO-100B-500",
+        "pages": 12,
+        "bytes": 240957,
+        "sha256": "2aa5b9faa3a63d64d6d14fb8d8bdc75653a032e22ae1cf7199ca6b21a9a595ad",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet EPOXY HARDENER - PART B 1. Identification Product identifier: EPOXY HARDENER - PART B Product code: EPO-100B-500 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telephone: 819 751-2350 Emergency teleph"
+      }
+    },
+    {
+      "csvRow": 677,
+      "sku": "SA-000000691",
+      "name": "SamaN Beeswax Wood Finish",
+      "brand": "SamaN",
+      "variant": "SamaN Natural Beeswax Wood Finish and Conditioner - BWA-000",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2019/12/SDS_BWA-000.pdf",
+      "file": "PDFs/SDS/saman-SamaN-Natural-Beeswax-BWA-000-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Natural-Beeswax-BWA-000-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SamaN-Natural-Beeswax-BWA-000-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SamaN-Natural-Beeswax-BWA-000-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "SamaN",
+        "product": "SamaN Beeswax Wood Finish",
+        "variant": "SamaN Natural Beeswax Wood Finish and Conditioner - BWA-000",
+        "pages": 9,
+        "bytes": 50817,
+        "sha256": "9f96a4f520a3b70c20779ca6d040673564ec3e7820a95df540361350de62828b",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Wood Polish Bees Wax & Conditioner 1. Identification Product identifier: Wood Polish Bees Wax & Conditioner Product code: BWA-000 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telephone: 819 751-2350"
+      }
+    }
+  ]
+}
