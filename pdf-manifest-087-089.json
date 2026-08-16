@@ -1,0 +1,280 @@
+{
+  "batch": "087-089",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 186,
+      "sku": "TR-000000190",
+      "name": "Tremclad Rust Preventative Coating Flat Red Oxide (Gallon)",
+      "brand": "Tremclad",
+      "category": "Paints > Specialty Paints",
+      "sds": [
+        {
+          "csvRow": 186,
+          "sku": "TR-000000190",
+          "name": "Tremclad Rust Preventative Coating Flat Red Oxide (Gallon)",
+          "brand": "Tremclad",
+          "variant": "3.78 L Flat Red Oxide",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/274102155.pdf",
+          "file": "PDFs/SDS/tremclad-274102155.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-274102155.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-274102155.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 187,
+      "sku": "ZI-000000191",
+      "name": "Zinsser Mould Stop Primer",
+      "brand": "Zinsser",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 187,
+          "sku": "ZI-000000191",
+          "name": "Zinsser Mould Stop Primer",
+          "brand": "Zinsser",
+          "variant": "3.78 L White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/336961.pdf",
+          "file": "PDFs/SDS/zinsser-336961.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-336961.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-336961.pdf?raw=true"
+        },
+        {
+          "csvRow": 187,
+          "sku": "ZI-000000191",
+          "name": "Zinsser Mould Stop Primer",
+          "brand": "Zinsser",
+          "variant": "946 mL White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/336964.pdf",
+          "file": "PDFs/SDS/zinsser-336964.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-336964.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-336964.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 187,
+          "sku": "ZI-000000191",
+          "name": "Zinsser Mould Stop Primer",
+          "brand": "Zinsser",
+          "variant": "Mould Stop Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.ca/~/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/English/336964_Mould-Stop-Primer-TDS-EN.ashx",
+          "file": "PDFs/TDS/zinsser-336964_Mould-Stop-Primer-TDS-EN.ashx.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-336964_Mould-Stop-Primer-TDS-EN.ashx.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-336964_Mould-Stop-Primer-TDS-EN.ashx.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 188,
+      "sku": "ZI-000000192",
+      "name": "Zinsser Bulls Eye 1-2-3 Spray Primer",
+      "brand": "Zinsser",
+      "category": "Paints > Aerosols",
+      "sds": [
+        {
+          "csvRow": 188,
+          "sku": "ZI-000000192",
+          "name": "Zinsser Bulls Eye 1-2-3 Spray Primer",
+          "brand": "Zinsser",
+          "variant": "369 g Aerosol White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/267189.pdf",
+          "file": "PDFs/SDS/zinsser-267189.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-267189.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-267189.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 188,
+          "sku": "ZI-000000192",
+          "name": "Zinsser Bulls Eye 1-2-3 Spray Primer",
+          "brand": "Zinsser",
+          "variant": "Bulls Eye 1-2-3 Aerosol",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/2023-tds-update/zinsser/BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf",
+          "file": "PDFs/TDS/zinsser-BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 186,
+      "sku": "TR-000000190",
+      "name": "Tremclad Rust Preventative Coating Flat Red Oxide (Gallon)",
+      "brand": "Tremclad",
+      "variant": "3.78 L Flat Red Oxide",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/274102155.pdf",
+      "file": "PDFs/SDS/tremclad-274102155.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-274102155.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-274102155.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-274102155.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Preventative Coating Flat Red Oxide (Gallon)",
+        "variant": "3.78 L Flat Red Oxide",
+        "pages": 6,
+        "bytes": 192087,
+        "sha256": "f20b71a67b67dcaf52e759c52e6a2cd07a4b33007461e49eb0c0947bfbb0217b",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 1/28/2026 1-847-367-7700 www.rustoleum.ca 1. Identification Name on Label: Tremclad Rust Primer Product Name: TRMCLD 2X3.78L 1-GL RED OXIDE PRIMER Revision Date: 1/28/2026 Product Identifier: 274102155 Superc"
+      }
+    },
+    {
+      "csvRow": 187,
+      "sku": "ZI-000000191",
+      "name": "Zinsser Mould Stop Primer",
+      "brand": "Zinsser",
+      "variant": "3.78 L White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/336961.pdf",
+      "file": "PDFs/SDS/zinsser-336961.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-336961.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-336961.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-336961.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Mould Stop Primer",
+        "variant": "3.78 L White",
+        "pages": 6,
+        "bytes": 186724,
+        "sha256": "786fd387fc6a4bdcea5c9a475e367da0934b07f080e88cbfe2bf37daa9a3e957",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 1/5/2026 1-847-367-7700 www.rustoleum.ca 1. Identification Name on Label: Zinsser Mould Stop Primer Product Name: ZINSSR 2X3.78L 1-GL MOULD STOP PRIMER Revision Date: 1/5/2026 Product Identifier: 336961 Super"
+      }
+    },
+    {
+      "csvRow": 187,
+      "sku": "ZI-000000191",
+      "name": "Zinsser Mould Stop Primer",
+      "brand": "Zinsser",
+      "variant": "946 mL White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/336964.pdf",
+      "file": "PDFs/SDS/zinsser-336964.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-336964.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-336964.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-336964.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Mould Stop Primer",
+        "variant": "946 mL White",
+        "pages": 7,
+        "bytes": 155561,
+        "sha256": "a1ba0b812c8408948b5997b2d06a83b0c5db5ead2beac7559a984d3afa934aa7",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 10/18/2022 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: ZN 4X946ML MOULD STOP PRIMER Revision Date: 10/18/2022 Product Identifier: 336964 Supercedes Date: 2/9/2018 Recommen"
+      }
+    },
+    {
+      "csvRow": 187,
+      "sku": "ZI-000000191",
+      "name": "Zinsser Mould Stop Primer",
+      "brand": "Zinsser",
+      "variant": "Mould Stop Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.ca/~/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/English/336964_Mould-Stop-Primer-TDS-EN.ashx",
+      "file": "PDFs/TDS/zinsser-336964_Mould-Stop-Primer-TDS-EN.ashx.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-336964_Mould-Stop-Primer-TDS-EN.ashx.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-336964_Mould-Stop-Primer-TDS-EN.ashx.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-336964_Mould-Stop-Primer-TDS-EN.ashx.pdf",
+        "documentType": "TDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Mould Stop Primer",
+        "variant": "Mould Stop Primer",
+        "pages": 2,
+        "bytes": 243779,
+        "sha256": "8777089ab1569655b030ee27a507705509960af4f57b7b2933b8d2710e17b837",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "TECHNICAL DATA ZINSSER® MOULD STOP PRIMER 2 Rev.: 04/04/18 1 .DESCRIPTION AND USES . Zinsser® Mould Stop Primer is a water-based coating that can be used to paint over existing stains left by mould, mildew, moss, fungi and any other fungal "
+      }
+    },
+    {
+      "csvRow": 188,
+      "sku": "ZI-000000192",
+      "name": "Zinsser Bulls Eye 1-2-3 Spray Primer",
+      "brand": "Zinsser",
+      "variant": "369 g Aerosol White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/267189.pdf",
+      "file": "PDFs/SDS/zinsser-267189.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-267189.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-267189.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-267189.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Bulls Eye 1-2-3 Spray Primer",
+        "variant": "369 g Aerosol White",
+        "pages": 6,
+        "bytes": 163467,
+        "sha256": "80eae40409376230dc746a49232d7e9482006772bb5ba15dcae1b055758e1846",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 3/21/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Zinsser Bulls Eye 123 Primer Spray Product Name: ZINSSR +6X369G SSPR BE123 PRIMER Revision Date: 3/21/2025 Product I"
+      }
+    },
+    {
+      "csvRow": 188,
+      "sku": "ZI-000000192",
+      "name": "Zinsser Bulls Eye 1-2-3 Spray Primer",
+      "brand": "Zinsser",
+      "variant": "Bulls Eye 1-2-3 Aerosol",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/2023-tds-update/zinsser/BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf",
+      "file": "PDFs/TDS/zinsser-BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-BEY123-01-Zinsser-Bulls-Eye-1-2-3-Water-based-Primer-TDS-EN-21.pdf",
+        "documentType": "TDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Bulls Eye 1-2-3 Spray Primer",
+        "variant": "Bulls Eye 1-2-3 Aerosol",
+        "pages": 3,
+        "bytes": 421219,
+        "sha256": "73e25d7ccec96df11c218b57b73820ae718f970039d98c6cd713a6c084ee1906",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "TECHNICAL DATA BEY123-01 BULLS-EYE® 1-2-3 WATER-BASED PRIMER Rev.: 11/05/21 1 .DESCRIPTION AND USES . Zinsser® Bulls-Eye 1-2-3® is a high hide water-based styrenated acrylic water-based primer-sealer stain blocker and bond coat designed for"
+      }
+    }
+  ]
+}
