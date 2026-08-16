@@ -1,0 +1,401 @@
+{
+  "batch": "043-045",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 44,
+      "sku": "BM-000000044",
+      "name": "High Performance Acrylic Sealer/Finish",
+      "brand": "Benjamin Moore",
+      "category": "Commercial & Industrial > Epoxy",
+      "sds": [
+        {
+          "csvRow": 44,
+          "sku": "BM-000000044",
+          "name": "High Performance Acrylic Sealer/Finish",
+          "brand": "Benjamin Moore",
+          "variant": "Sealer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1270/HP1270-00FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-HP1270-00FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1270-00FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1270-00FR_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 44,
+          "sku": "BM-000000044",
+          "name": "High Performance Acrylic Sealer/Finish",
+          "brand": "Benjamin Moore",
+          "variant": "Sealer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_HP1270/HP1270_TDS_CE.pdf?raw=true",
+          "file": "PDFs/TDS/benjamin-moore-HP1270_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1270_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-HP1270_TDS_CE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 45,
+      "sku": "BM-000000045",
+      "name": "High Performance Universal Metal Primer",
+      "brand": "Benjamin Moore",
+      "category": "Commercial & Industrial > Primers",
+      "sds": [
+        {
+          "csvRow": 45,
+          "sku": "BM-000000045",
+          "name": "High Performance Universal Metal Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1320/HP1320-70FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-HP1320-70FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-70FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1320-70FR_SDS_EN.pdf?raw=true"
+        },
+        {
+          "csvRow": 45,
+          "sku": "BM-000000045",
+          "name": "High Performance Universal Metal Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1320/HP1320-20FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-HP1320-20FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-20FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1320-20FR_SDS_EN.pdf?raw=true"
+        },
+        {
+          "csvRow": 45,
+          "sku": "BM-000000045",
+          "name": "High Performance Universal Metal Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1320/HP1320-01FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-HP1320-01FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-01FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1320-01FR_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 45,
+          "sku": "BM-000000045",
+          "name": "High Performance Universal Metal Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_HP1320/HP1320_TDS_CE.pdf?raw=true",
+          "file": "PDFs/TDS/benjamin-moore-HP1320_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1320_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-HP1320_TDS_CE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 46,
+      "sku": "BM-000000046",
+      "name": "High Performance Shop Primer",
+      "brand": "Benjamin Moore",
+      "category": "Commercial & Industrial > Primers",
+      "sds": [
+        {
+          "csvRow": 46,
+          "sku": "BM-000000046",
+          "name": "High Performance Shop Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1420/HP1420-70FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-HP1420-70FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1420-70FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1420-70FR_SDS_EN.pdf?raw=true"
+        },
+        {
+          "csvRow": 46,
+          "sku": "BM-000000046",
+          "name": "High Performance Shop Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1420/HP1420-20FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-HP1420-20FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1420-20FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1420-20FR_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 46,
+          "sku": "BM-000000046",
+          "name": "High Performance Shop Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_HP1420/HP1420_TDS_CE.pdf",
+          "file": "PDFs/TDS/benjamin-moore-HP1420_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1420_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-HP1420_TDS_CE.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 44,
+      "sku": "BM-000000044",
+      "name": "High Performance Acrylic Sealer/Finish",
+      "brand": "Benjamin Moore",
+      "variant": "Sealer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1270/HP1270-00FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-HP1270-00FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1270-00FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1270-00FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1270-00FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Acrylic Sealer/Finish",
+        "variant": "Sealer",
+        "pages": 9,
+        "bytes": 66133,
+        "sha256": "420a45f0593936610847fd3f6e97bb4016f31fd0c7681db90a365dea318983c6",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 07-Apr-2025 Revision Number: 3 1. PRODUCT AND COMPANY IDENTIFICATION Product Name HP ACRYLIC SEALER/FINISH - CLEAR Product Code HP1270-00FR Alternate Product Code UF6400 Product Class Water thinned paint Col"
+      }
+    },
+    {
+      "csvRow": 44,
+      "sku": "BM-000000044",
+      "name": "High Performance Acrylic Sealer/Finish",
+      "brand": "Benjamin Moore",
+      "variant": "Sealer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_HP1270/HP1270_TDS_CE.pdf?raw=true",
+      "file": "PDFs/TDS/benjamin-moore-HP1270_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1270_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-HP1270_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1270_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Acrylic Sealer/Finish",
+        "variant": "Sealer",
+        "pages": 2,
+        "bytes": 215507,
+        "sha256": "52bb6af14f4bc9ee4def695e7407692fdcd4ec9845e56e3ad8d474eccf3a3068",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "HP1270 Acrylic Sealer / Finish Benjamin Moore & Co., Ltd. 1651 Stellar Drive, Unit 1, Whitby, ON L1N 6A7 Tel: 866- 708-9180 www.benjaminmoore.ca HP1270 CE 070125 General Description HP1270 Acrylic Sealer/Finish is an interior/exterior fast "
+      }
+    },
+    {
+      "csvRow": 45,
+      "sku": "BM-000000045",
+      "name": "High Performance Universal Metal Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1320/HP1320-70FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-HP1320-70FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-70FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1320-70FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-70FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Universal Metal Primer",
+        "variant": "Primer",
+        "pages": 14,
+        "bytes": 113345,
+        "sha256": "6627b5241bec72d0e1799dae6ad008a9ab8be9022aa57568bd6200c8a391b781",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 07-Apr-2025 Revision Number: 2 1. PRODUCT AND COMPANY IDENTIFICATION Product Name HP UNIVERSAL METAL PRIMER - GRAY Product Code HP1320-70FR Alternate Product Code UF5470 Product Class SOLVENT THINNED PAINT C"
+      }
+    },
+    {
+      "csvRow": 45,
+      "sku": "BM-000000045",
+      "name": "High Performance Universal Metal Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1320/HP1320-20FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-HP1320-20FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-20FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1320-20FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-20FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Universal Metal Primer",
+        "variant": "Primer",
+        "pages": 14,
+        "bytes": 110321,
+        "sha256": "6e5b32bfb87f8c49a717f97daf38b04f8303647a58110c7ce4946f998acd1582",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 07-Apr-2025 Revision Number: 2 1. PRODUCT AND COMPANY IDENTIFICATION Product Name HP UNIVERSAL METAL PRIMER - RED Product Code HP1320-20FR Alternate Product Code UF5420 Product Class SOLVENT THINNED PAINT Co"
+      }
+    },
+    {
+      "csvRow": 45,
+      "sku": "BM-000000045",
+      "name": "High Performance Universal Metal Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1320/HP1320-01FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-HP1320-01FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-01FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1320-01FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1320-01FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Universal Metal Primer",
+        "variant": "Primer",
+        "pages": 14,
+        "bytes": 112562,
+        "sha256": "1c2bd2eaaa7a279e7c8104e5f11c513424d5d315bbe1979ae01b68124172d1e7",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 03-Apr-2025 Revision Number: 2 1. PRODUCT AND COMPANY IDENTIFICATION Product Name HP UNIVERSAL METAL PRIMER - WHITE Product Code HP1320-01FR Alternate Product Code UF5401 Product Class SOLVENT THINNED PAINT "
+      }
+    },
+    {
+      "csvRow": 45,
+      "sku": "BM-000000045",
+      "name": "High Performance Universal Metal Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_HP1320/HP1320_TDS_CE.pdf?raw=true",
+      "file": "PDFs/TDS/benjamin-moore-HP1320_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1320_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-HP1320_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1320_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Universal Metal Primer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 191451,
+        "sha256": "e7542eb0a71974e37237eaee1979bce5e4e058bcc826bfd31e4eed75e075c643",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "HP1320 Universal Metal Primer Benjamin Moore & Co., Ltd. 1651 Stellar Drive, Unit 1, Whitby, ON L1N 6A7 Tel: 866-708-9180 www.benjaminmoore.ca HP1320 CE 123024 General Description HP1320 Universal Metal Primer is a high -performance, one-co"
+      }
+    },
+    {
+      "csvRow": 46,
+      "sku": "BM-000000046",
+      "name": "High Performance Shop Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1420/HP1420-70FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-HP1420-70FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1420-70FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1420-70FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1420-70FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Shop Primer",
+        "variant": "Primer",
+        "pages": 13,
+        "bytes": 112151,
+        "sha256": "f5b91a0f2a26f2f235f1fd4a8c37e2fb7bf952c06e13524fe8ad4f578d80d44e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 01-Sep-2023 Revision Number: 1 1. PRODUCT AND COMPANY IDENTIFICATION Product Name HP SHOP PRIMER - GRAY Product Code HP1420-70FR Alternate Product Code UF6770 Product Class SOLVENT THINNED PAINT Color Gray R"
+      }
+    },
+    {
+      "csvRow": 46,
+      "sku": "BM-000000046",
+      "name": "High Performance Shop Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_HP1420/HP1420-20FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-HP1420-20FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1420-20FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-HP1420-20FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-HP1420-20FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Shop Primer",
+        "variant": "Primer",
+        "pages": 13,
+        "bytes": 105614,
+        "sha256": "6c82e667aafb29c29be383e36d76be1587324e6e2c2b8068e6a8c5456b1e4c99",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 14-Apr-2025 Revision Number: 2 1. PRODUCT AND COMPANY IDENTIFICATION Product Name HP SHOP PRIMER - RED Product Code HP1420-20FR Alternate Product Code UF6720 Product Class SOLVENT THINNED PAINT Color Red Rec"
+      }
+    },
+    {
+      "csvRow": 46,
+      "sku": "BM-000000046",
+      "name": "High Performance Shop Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_HP1420/HP1420_TDS_CE.pdf",
+      "file": "PDFs/TDS/benjamin-moore-HP1420_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1420_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-HP1420_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-HP1420_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Benjamin Moore",
+        "product": "High Performance Shop Primer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 208928,
+        "sha256": "9f9f3bdaa39c3d98c2c2bb043f33f92f7c62afc3767d1d6a962cf818a9a0797f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "HP1420 Shop Primer Benjamin Moore & Co., Ltd. 1651 Stellar Drive, Unit 1, Whitby, ON L1N 6A7 Tel: 866-708-9180 www.benjaminmoore.ca HP1420 CE 022525 General Description HP1420 Shop Primer is formulated for use on interior or exterior ferrou"
+      }
+    }
+  ]
+}
