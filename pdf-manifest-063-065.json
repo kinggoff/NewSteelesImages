@@ -1,0 +1,361 @@
+{
+  "batch": "063-065",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 162,
+      "sku": "ZI-000000166",
+      "name": "Zinsser Odorless Oil-Based Stain Blocker Spray",
+      "brand": "Zinsser",
+      "category": "Paints > Aerosols",
+      "sds": [
+        {
+          "csvRow": 162,
+          "sku": "ZI-000000166",
+          "name": "Zinsser Odorless Oil-Based Stain Blocker Spray",
+          "brand": "Zinsser",
+          "variant": "369 g Aerosol",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254168.pdf",
+          "file": "PDFs/SDS/zinsser-254168.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-254168.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-254168.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 162,
+          "sku": "ZI-000000166",
+          "name": "Zinsser Odorless Oil-Based Stain Blocker Spray",
+          "brand": "Zinsser",
+          "variant": "13 oz Aerosol",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Zinsser/OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx",
+          "file": "PDFs/TDS/zinsser-OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 163,
+      "sku": "ZI-000000167",
+      "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+      "brand": "Zinsser",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 163,
+          "sku": "ZI-000000167",
+          "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+          "brand": "Zinsser",
+          "variant": "946 mL",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/256185.pdf",
+          "file": "PDFs/SDS/zinsser-256185.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256185.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-256185.pdf?raw=true"
+        },
+        {
+          "csvRow": 163,
+          "sku": "ZI-000000167",
+          "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+          "brand": "Zinsser",
+          "variant": "3.7 L",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/256184.pdf",
+          "file": "PDFs/SDS/zinsser-256184.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256184.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-256184.pdf?raw=true"
+        },
+        {
+          "csvRow": 163,
+          "sku": "ZI-000000167",
+          "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+          "brand": "Zinsser",
+          "variant": "18.9 L",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/256188.pdf",
+          "file": "PDFs/SDS/zinsser-256188.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256188.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-256188.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 163,
+          "sku": "ZI-000000167",
+          "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+          "brand": "Zinsser",
+          "variant": "Cover Stain",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/2024-tds-update/zinsser/CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf",
+          "file": "PDFs/TDS/zinsser-CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 164,
+      "sku": "ZI-000000168",
+      "name": "Zinsser Cover Stain Spray Primer",
+      "brand": "Zinsser",
+      "category": "Paints > Aerosols",
+      "sds": [
+        {
+          "csvRow": 164,
+          "sku": "ZI-000000168",
+          "name": "Zinsser Cover Stain Spray Primer",
+          "brand": "Zinsser",
+          "variant": "369 g Aerosol",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/Z03618.pdf",
+          "file": "PDFs/SDS/zinsser-Z03618.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-Z03618.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-Z03618.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 164,
+          "sku": "ZI-000000168",
+          "name": "Zinsser Cover Stain Spray Primer",
+          "brand": "Zinsser",
+          "variant": "Cover Stain Aerosol",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Zinsser/CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx",
+          "file": "PDFs/TDS/zinsser-CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 162,
+      "sku": "ZI-000000166",
+      "name": "Zinsser Odorless Oil-Based Stain Blocker Spray",
+      "brand": "Zinsser",
+      "variant": "369 g Aerosol",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254168.pdf",
+      "file": "PDFs/SDS/zinsser-254168.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-254168.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-254168.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-254168.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Odorless Oil-Based Stain Blocker Spray",
+        "variant": "369 g Aerosol",
+        "pages": 6,
+        "bytes": 160932,
+        "sha256": "28d62a9a29eed0e6980801d3340d5b823b2058c80d9c8c9f50b2c34be983cdc9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/14/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Zinsser Odorless Oil based Spray Product Name: ZINSSR +6X369G SSPR ODORLESS Revision Date: 5/14/2025 Product Identif"
+      }
+    },
+    {
+      "csvRow": 162,
+      "sku": "ZI-000000166",
+      "name": "Zinsser Odorless Oil-Based Stain Blocker Spray",
+      "brand": "Zinsser",
+      "variant": "13 oz Aerosol",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/~/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Zinsser/OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx",
+      "file": "PDFs/TDS/zinsser-OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-OLS-02_Odorless_Primer_Sealer_Stain_Blocker_TDS.ashx.pdf",
+        "documentType": "TDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Odorless Oil-Based Stain Blocker Spray",
+        "variant": "13 oz Aerosol",
+        "pages": 2,
+        "bytes": 163413,
+        "sha256": "d924335e8280e640be6dd1110b2d9c03f15efec22ecbd6a0ec7222e4bb7da8d5",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA OLS-02 ODORLESS PRIMER–SEALER STAIN BLOCKER Form: GDH-370 Rev.: 060217 1 .DESCRIPTION AND USES . Zinsser® Odorless aerosol is an easy to use, all-purpose, low odor primer-sealer and stain blocker. It is designed for interior "
+      }
+    },
+    {
+      "csvRow": 163,
+      "sku": "ZI-000000167",
+      "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+      "brand": "Zinsser",
+      "variant": "946 mL",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/256185.pdf",
+      "file": "PDFs/SDS/zinsser-256185.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256185.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-256185.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256185.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+        "variant": "946 mL",
+        "pages": 6,
+        "bytes": 157497,
+        "sha256": "fb06e60baa12a8f5118b79d57f048c4e905a2986e13c38e903b0945cc73ce133",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 12/16/2022 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: COVERSTAIN 6X946ML LOW VOC Revision Date: 12/16/2022 Product Identifier: 256185 Supercedes Date: 10/25/2022 Recommen"
+      }
+    },
+    {
+      "csvRow": 163,
+      "sku": "ZI-000000167",
+      "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+      "brand": "Zinsser",
+      "variant": "3.7 L",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/256184.pdf",
+      "file": "PDFs/SDS/zinsser-256184.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256184.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-256184.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256184.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+        "variant": "3.7 L",
+        "pages": 6,
+        "bytes": 157499,
+        "sha256": "17a72859dfe1ed7d5974284fe155711ba59a352d2a8b9faf49ca40ad06cc9f47",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 12/16/2022 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: COVERSTAIN 3.78L 2PK LOW VOC Revision Date: 12/16/2022 Product Identifier: 256184 Supercedes Date: 10/25/2022 Recomm"
+      }
+    },
+    {
+      "csvRow": 163,
+      "sku": "ZI-000000167",
+      "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+      "brand": "Zinsser",
+      "variant": "18.9 L",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/256188.pdf",
+      "file": "PDFs/SDS/zinsser-256188.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256188.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-256188.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-256188.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+        "variant": "18.9 L",
+        "pages": 6,
+        "bytes": 157163,
+        "sha256": "ac07779e50ddcb69483fcf22f821cc5ff59d3e09b8c052ee34108d7aa5c67535",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 12/16/2022 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: COVERSTAIN 18.9L LOW VOC Revision Date: 12/16/2022 Product Identifier: 256188 Supercedes Date: 10/25/2022 Recommende"
+      }
+    },
+    {
+      "csvRow": 163,
+      "sku": "ZI-000000167",
+      "name": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+      "brand": "Zinsser",
+      "variant": "Cover Stain",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/2024-tds-update/zinsser/CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf",
+      "file": "PDFs/TDS/zinsser-CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-CVS-13-Zinsser-Cover-Stain-TDS-EN-24.pdf",
+        "documentType": "TDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Cover Stain Oil-Based Primer-Sealer",
+        "variant": "Cover Stain",
+        "pages": 3,
+        "bytes": 212522,
+        "sha256": "55b74410e6040525299199fa0b5fd9d78680a6b4224717882473e251d89e971a",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA CVS-13 COVER STAIN® OIL-BASED PRIMER 1 Rev.: 1/30/24 DESCRIPTION AND USES Zinsser® High Hide Cover Stain® is a high solids, low VOC, oil-based primer designed for interior or exterior applications where an oil-base primer is "
+      }
+    },
+    {
+      "csvRow": 164,
+      "sku": "ZI-000000168",
+      "name": "Zinsser Cover Stain Spray Primer",
+      "brand": "Zinsser",
+      "variant": "369 g Aerosol",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/Z03618.pdf",
+      "file": "PDFs/SDS/zinsser-Z03618.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-Z03618.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-Z03618.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-Z03618.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Cover Stain Spray Primer",
+        "variant": "369 g Aerosol",
+        "pages": 6,
+        "bytes": 164453,
+        "sha256": "57b10c241cdbb82a41ab841c15b8164ac73f7ff15cd122c0d53f99a2f08e8ad0",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/14/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Zinsser Cover Stain Oil based Spray Product Name: ZINSSR +6X369G SSPR COVERSTN OB PRMR-SLR Revision Date: 5/14/2025 "
+      }
+    },
+    {
+      "csvRow": 164,
+      "sku": "ZI-000000168",
+      "name": "Zinsser Cover Stain Spray Primer",
+      "brand": "Zinsser",
+      "variant": "Cover Stain Aerosol",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Zinsser/CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx",
+      "file": "PDFs/TDS/zinsser-CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-CVS-09_Cover_Stain_Oil-Base_Primer_Spray_TDS_1.ashx.pdf",
+        "documentType": "TDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Cover Stain Spray Primer",
+        "variant": "Cover Stain Aerosol",
+        "pages": 2,
+        "bytes": 673933,
+        "sha256": "59f8deb932cf5501994cc56b0ad2d43cf73e6fc9161d03b4f1badd637decf06e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA CVS-09 ZINSSER® COVER STAIN® OIL-BASED PRIMER SPRAY 1 Form: GDH-1015 Rev.: 101220 DESCRIPTION AND USES Zinsser® Cover Stain® Oil-Based Primer is an all-purpose oil- based primer designed to provide excellent hiding power indo"
+      }
+    }
+  ]
+}
