@@ -1,0 +1,305 @@
+{
+  "batch": "219-221",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 788,
+      "sku": "XIM-000000802",
+      "name": "XIM UMA Acrylic Primer",
+      "brand": "XIM",
+      "category": "Paints > Primers",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The product image identifies X-I-M Advanced Technology UMA Primer Sealer Bonder in White, 1 gallon. Rust-Oleum's current manufacturer SDS identifies product 11051 as XIM UMA One Gallon, a water-based acrylic primer. The manufacturer technical sheet XIM-03 explicitly lists White 1-Gallon SKU 11051.",
+      "sds": [
+        {
+          "csvRow": 788,
+          "sku": "XIM-000000802",
+          "name": "XIM UMA Acrylic Primer",
+          "brand": "XIM",
+          "variant": "X-I-M UMA Advanced Technology White 1-Gallon - 11051",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/11051.pdf",
+          "file": "PDFs/SDS/xim-XIM-UMA-Advanced-Technology-White-11051-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/xim-XIM-UMA-Advanced-Technology-White-11051-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/xim-XIM-UMA-Advanced-Technology-White-11051-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 788,
+          "sku": "XIM-000000802",
+          "name": "XIM UMA Acrylic Primer",
+          "brand": "XIM",
+          "variant": "X-I-M UMA Advanced Technology Primer Sealer Bonder White - includes 1-Gallon 11051",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.rustoleum.com/-/media/711E935D93E34BD9B92F3A4ED1FFE202.ashx",
+          "file": "PDFs/TDS/xim-XIM-UMA-Advanced-Technology-White-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/xim-XIM-UMA-Advanced-Technology-White-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/xim-XIM-UMA-Advanced-Technology-White-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 789,
+      "sku": "HOW-000000803",
+      "name": "Restor-A-Finish Walnut",
+      "brand": "Howard",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and manufacturer product data fact sheet found",
+      "researchNotes": "The image identifies Howard Restor-A-Finish Walnut in the 16 fl. oz. can. Howard's current manufacturer SDS covers Restor-A-Finish across its available color range, including Walnut. Howard publishes a dedicated Restor-A-Finish Fact Sheet from its manufacturer literature library; it is recorded as the available manufacturer product-data sheet because no separately titled TDS is published by Howard.",
+      "sds": [
+        {
+          "csvRow": 789,
+          "sku": "HOW-000000803",
+          "name": "Restor-A-Finish Walnut",
+          "brand": "Howard",
+          "variant": "Howard Restor-A-Finish - includes Walnut",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.howardproducts.com/files/US%20-%20Restor-A-Finish%20-%20English%20%282021%29.pdf",
+          "file": "PDFs/SDS/howard-Howard-Restor-A-Finish-Walnut-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/howard-Howard-Restor-A-Finish-Walnut-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/howard-Howard-Restor-A-Finish-Walnut-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 789,
+          "sku": "HOW-000000803",
+          "name": "Restor-A-Finish Walnut",
+          "brand": "Howard",
+          "variant": "Howard Restor-A-Finish Fact Sheet - includes Walnut",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": true,
+          "sourceUrl": "https://howardproducts.com/files/literature/RAF-Fact-Sheet-1.pdf",
+          "file": "PDFs/TDS/howard-Howard-Restor-A-Finish-Walnut-Fact-Sheet-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/howard-Howard-Restor-A-Finish-Walnut-Fact-Sheet-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/howard-Howard-Restor-A-Finish-Walnut-Fact-Sheet-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 791,
+      "sku": "ZI-000000805",
+      "name": "Zinsser Odor Killing Primer",
+      "brand": "Zinsser",
+      "category": "Paints > Primers",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The product image identifies the water-based clear Zinsser Odor Killing Primer in the 1-gallon can. Rust-Oleum's manufacturer SDS for product 305928 is the one-gallon Odor Killing Primer, and its manufacturer TDS ZNR-32 explicitly lists SKU 305928 and covers the brush-goods and aerosol formats.",
+      "sds": [
+        {
+          "csvRow": 791,
+          "sku": "ZI-000000805",
+          "name": "Zinsser Odor Killing Primer",
+          "brand": "Zinsser",
+          "variant": "Zinsser Odor Killing Primer Clear 1-Gallon - 305928",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/305928.pdf",
+          "file": "PDFs/SDS/zinsser-Zinsser-Odor-Killing-Primer-305928-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-Zinsser-Odor-Killing-Primer-305928-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-Zinsser-Odor-Killing-Primer-305928-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 791,
+          "sku": "ZI-000000805",
+          "name": "Zinsser Odor Killing Primer",
+          "brand": "Zinsser",
+          "variant": "Zinsser Odor Killing Primer - includes 1-Gallon 305928",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "visualTypeVerified": false,
+          "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Zinsser/ZNR-32_Odor_Killing_Primer_TDS_1.ashx",
+          "file": "PDFs/TDS/zinsser-Zinsser-Odor-Killing-Primer-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-Zinsser-Odor-Killing-Primer-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-Zinsser-Odor-Killing-Primer-TDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 788,
+      "sku": "XIM-000000802",
+      "name": "XIM UMA Acrylic Primer",
+      "brand": "XIM",
+      "variant": "X-I-M UMA Advanced Technology White 1-Gallon - 11051",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/11051.pdf",
+      "file": "PDFs/SDS/xim-XIM-UMA-Advanced-Technology-White-11051-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/xim-XIM-UMA-Advanced-Technology-White-11051-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/xim-XIM-UMA-Advanced-Technology-White-11051-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/xim-XIM-UMA-Advanced-Technology-White-11051-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "XIM",
+        "product": "XIM UMA Acrylic Primer",
+        "variant": "X-I-M UMA Advanced Technology White 1-Gallon - 11051",
+        "visualTypeVerified": false,
+        "pages": 5,
+        "bytes": 147336,
+        "sha256": "fdb57438afb091c3f0fc78b30360050a3e5c5b4869a8d062180e3dc7760ea41f",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 10/18/2022 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: XIM 1-GL 2PK UMA Revision Date: 10/18/2022 Product Identifier: 11051 Supercedes Date: 5/31/2022 Recommended Use: Pri"
+      }
+    },
+    {
+      "csvRow": 788,
+      "sku": "XIM-000000802",
+      "name": "XIM UMA Acrylic Primer",
+      "brand": "XIM",
+      "variant": "X-I-M UMA Advanced Technology Primer Sealer Bonder White - includes 1-Gallon 11051",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.rustoleum.com/-/media/711E935D93E34BD9B92F3A4ED1FFE202.ashx",
+      "file": "PDFs/TDS/xim-XIM-UMA-Advanced-Technology-White-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/xim-XIM-UMA-Advanced-Technology-White-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/xim-XIM-UMA-Advanced-Technology-White-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/xim-XIM-UMA-Advanced-Technology-White-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "XIM",
+        "product": "XIM UMA Acrylic Primer",
+        "variant": "X-I-M UMA Advanced Technology Primer Sealer Bonder White - includes 1-Gallon 11051",
+        "visualTypeVerified": false,
+        "pages": 2,
+        "bytes": 645185,
+        "sha256": "e80c715f87c84f8c6005152b7e55d71dae4cce53d5c2ab48a922f12ac726e7d1",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA XIM-03 X-I-M® ADVANCED TECHNOLOGY PRIMER SEALER BONDER (WHITE) 1 Form: GDH-717 Rev.: 051421 DESCRIPTION AND USES UMA® Advanced Technology Primer/Sealer/Bonder Primer is a fast drying, water-based bonding agent that has both p"
+      }
+    },
+    {
+      "csvRow": 789,
+      "sku": "HOW-000000803",
+      "name": "Restor-A-Finish Walnut",
+      "brand": "Howard",
+      "variant": "Howard Restor-A-Finish - includes Walnut",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.howardproducts.com/files/US%20-%20Restor-A-Finish%20-%20English%20%282021%29.pdf",
+      "file": "PDFs/SDS/howard-Howard-Restor-A-Finish-Walnut-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/howard-Howard-Restor-A-Finish-Walnut-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/howard-Howard-Restor-A-Finish-Walnut-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/howard-Howard-Restor-A-Finish-Walnut-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Howard",
+        "product": "Restor-A-Finish Walnut",
+        "variant": "Howard Restor-A-Finish - includes Walnut",
+        "visualTypeVerified": false,
+        "pages": 12,
+        "bytes": 338308,
+        "sha256": "463167b7018914092dbb6c0b0437f78859e8e4cc20aae7c27209d5816fa56816",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET 1. Identification Product identifier Other means of identification Recommended use Restor-A-Finish Not available. Wood finish restorer None known.Recommended restrictions Manufacturer/Importer/Supplier/Distributor informat"
+      }
+    },
+    {
+      "csvRow": 789,
+      "sku": "HOW-000000803",
+      "name": "Restor-A-Finish Walnut",
+      "brand": "Howard",
+      "variant": "Howard Restor-A-Finish Fact Sheet - includes Walnut",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": true,
+      "sourceUrl": "https://howardproducts.com/files/literature/RAF-Fact-Sheet-1.pdf",
+      "file": "PDFs/TDS/howard-Howard-Restor-A-Finish-Walnut-Fact-Sheet-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/howard-Howard-Restor-A-Finish-Walnut-Fact-Sheet-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/howard-Howard-Restor-A-Finish-Walnut-Fact-Sheet-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/howard-Howard-Restor-A-Finish-Walnut-Fact-Sheet-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Howard",
+        "product": "Restor-A-Finish Walnut",
+        "variant": "Howard Restor-A-Finish Fact Sheet - includes Walnut",
+        "visualTypeVerified": true,
+        "pages": 1,
+        "bytes": 609717,
+        "sha256": "d8d56e2f0502fbfeb93ea8782fbab5088514910119f977ccd54419168bd158ac",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": false,
+        "textPreview": ""
+      }
+    },
+    {
+      "csvRow": 791,
+      "sku": "ZI-000000805",
+      "name": "Zinsser Odor Killing Primer",
+      "brand": "Zinsser",
+      "variant": "Zinsser Odor Killing Primer Clear 1-Gallon - 305928",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/305928.pdf",
+      "file": "PDFs/SDS/zinsser-Zinsser-Odor-Killing-Primer-305928-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-Zinsser-Odor-Killing-Primer-305928-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zinsser-Zinsser-Odor-Killing-Primer-305928-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zinsser-Zinsser-Odor-Killing-Primer-305928-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Odor Killing Primer",
+        "variant": "Zinsser Odor Killing Primer Clear 1-Gallon - 305928",
+        "visualTypeVerified": false,
+        "pages": 5,
+        "bytes": 142681,
+        "sha256": "504d328736121edcfa50469b6d2e10b556f2213f21d12e5f0f785dc1cc5f64ca",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 7/12/2023 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: ZINSSR 1-GL 2PK ODOR KILLING PRIMER Revision Date: 7/12/2023 Product Identifier: 305928 Supercedes Date: 1/10/2022 Re"
+      }
+    },
+    {
+      "csvRow": 791,
+      "sku": "ZI-000000805",
+      "name": "Zinsser Odor Killing Primer",
+      "brand": "Zinsser",
+      "variant": "Zinsser Odor Killing Primer - includes 1-Gallon 305928",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "visualTypeVerified": false,
+      "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Zinsser/ZNR-32_Odor_Killing_Primer_TDS_1.ashx",
+      "file": "PDFs/TDS/zinsser-Zinsser-Odor-Killing-Primer-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-Zinsser-Odor-Killing-Primer-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zinsser-Zinsser-Odor-Killing-Primer-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zinsser-Zinsser-Odor-Killing-Primer-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Zinsser",
+        "product": "Zinsser Odor Killing Primer",
+        "variant": "Zinsser Odor Killing Primer - includes 1-Gallon 305928",
+        "visualTypeVerified": false,
+        "pages": 3,
+        "bytes": 660178,
+        "sha256": "378b30a6a27359a0157b8c83d7bec76a02c65f493cc6d53b382c75458da8dccd",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA ZNR-32 ZINSSER® ODOR KILLING PRIMER 1 Form: GDH-1072 Rev.: 121021 DESCRIPTION AND USES Zinsser® Odor Killing Primer is a low odor, water-based primer that kills existing odors on interior surfaces. It applies white and dries "
+      }
+    }
+  ]
+}
