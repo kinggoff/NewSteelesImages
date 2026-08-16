@@ -1,0 +1,287 @@
+{
+  "batch": "123-125",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 408,
+      "sku": "EF-000000422",
+      "name": "Ennis Traffic Paint Fed. Yellow",
+      "brand": "Ennis-Flint",
+      "category": "Commercial & Industrial > Traffic Paints",
+      "researchStatus": "Manufacturer TDS and exact distributor SDS found",
+      "researchNotes": "The item name corresponds to Ennis-Flint by PPG Fast Dry Waterborne Federal-spec yellow product 985202. The official PPG product page provides the current EF Series 1952E/F Type I and II PDS, which explicitly lists 985202 Yellow. PPG's public SDS manager did not expose the legacy colour record, so the current exact-code 985202-5P SDS hosted by a specialist distributor is recorded as Other.",
+      "sds": [
+        {
+          "csvRow": 408,
+          "sku": "EF-000000422",
+          "name": "Ennis Traffic Paint Fed. Yellow",
+          "brand": "Ennis-Flint",
+          "variant": "985202-5P Federal Yellow",
+          "documentType": "SDS",
+          "sourceType": "Other",
+          "sourceUrl": "https://www.asphaltsealcoatingdirect.com/files/dynamic/content/product/document/1976/msds/985202-5p_wb_yel_fast_dry_1952f_1_ppg_united_states_us_sds_ghs_en-us.pdf",
+          "file": "PDFs/SDS/ennis-flint-985202-5P-Federal-Yellow-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985202-5P-Federal-Yellow-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/ennis-flint-985202-5P-Federal-Yellow-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 408,
+          "sku": "EF-000000422",
+          "name": "Ennis Traffic Paint Fed. Yellow",
+          "brand": "Ennis-Flint",
+          "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://assets-eu-01.kc-usercontent.com/cce44467-0106-013b-6c0b-26132a361492/5da4c66b-475e-4c2e-8a19-45c77dade77b/Traffic%20Solution%20PDS%20WBP_%20%201952EF%20TY%20II%20Fast%20Dry_241218.pdf",
+          "file": "PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 409,
+      "sku": "EF-000000423",
+      "name": "Ennis Traffic Paint Fed. White - P",
+      "brand": "Ennis-Flint",
+      "category": "Commercial & Industrial > Traffic Paints",
+      "researchStatus": "Manufacturer TDS and exact distributor SDS found",
+      "researchNotes": "The item name corresponds to Ennis-Flint by PPG Fast Dry Waterborne Federal-spec white product 985201. The official PPG product page provides the current EF Series 1952E/F Type I and II PDS, which explicitly lists 985201 White. PPG's public SDS manager did not expose the legacy colour record, so the current exact-code 985201-5P SDS hosted by a specialist distributor is recorded as Other.",
+      "sds": [
+        {
+          "csvRow": 409,
+          "sku": "EF-000000423",
+          "name": "Ennis Traffic Paint Fed. White - P",
+          "brand": "Ennis-Flint",
+          "variant": "985201-5P Federal White",
+          "documentType": "SDS",
+          "sourceType": "Other",
+          "sourceUrl": "https://www.asphaltsealcoatingdirect.com/files/dynamic/content/product/document/1976/msds/985201-5p_wb_wht_fast_dry_1952f_1_ppg_united_states_us_sds_ghs_en-us.pdf",
+          "file": "PDFs/SDS/ennis-flint-985201-5P-Federal-White-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985201-5P-Federal-White-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/ennis-flint-985201-5P-Federal-White-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 409,
+          "sku": "EF-000000423",
+          "name": "Ennis Traffic Paint Fed. White - P",
+          "brand": "Ennis-Flint",
+          "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://assets-eu-01.kc-usercontent.com/cce44467-0106-013b-6c0b-26132a361492/5da4c66b-475e-4c2e-8a19-45c77dade77b/Traffic%20Solution%20PDS%20WBP_%20%201952EF%20TY%20II%20Fast%20Dry_241218.pdf",
+          "file": "PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 412,
+      "sku": "EF-000000426",
+      "name": "Ennis Handicap Blue Safety Paint",
+      "brand": "Ennis-Flint",
+      "category": "Commercial & Industrial > Traffic Paints",
+      "researchStatus": "Manufacturer TDS and exact distributor SDS found",
+      "researchNotes": "The Ennis Handicap Blue Safety Paint item matches Fast Dry Waterborne product 985205-5P. The official PPG EF Series 1952E/F Type I and II PDS covers blue among the listed federal-standard colours. PPG's public SDS manager did not expose the legacy colour record, so the current exact-code 985205-5P SDS hosted by a specialist distributor is recorded as Other.",
+      "sds": [
+        {
+          "csvRow": 412,
+          "sku": "EF-000000426",
+          "name": "Ennis Handicap Blue Safety Paint",
+          "brand": "Ennis-Flint",
+          "variant": "985205-5P Handicap Blue",
+          "documentType": "SDS",
+          "sourceType": "Other",
+          "sourceUrl": "https://www.asphaltsealcoatingdirect.com/files/dynamic/content/product/document/2401/msds/985205-5p_wb_blue_fast_dry_1952f_1_ppg_united_states_us_sds_ghs_en-us.pdf",
+          "file": "PDFs/SDS/ennis-flint-985205-5P-Handicap-Blue-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985205-5P-Handicap-Blue-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/ennis-flint-985205-5P-Handicap-Blue-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 412,
+          "sku": "EF-000000426",
+          "name": "Ennis Handicap Blue Safety Paint",
+          "brand": "Ennis-Flint",
+          "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://assets-eu-01.kc-usercontent.com/cce44467-0106-013b-6c0b-26132a361492/5da4c66b-475e-4c2e-8a19-45c77dade77b/Traffic%20Solution%20PDS%20WBP_%20%201952EF%20TY%20II%20Fast%20Dry_241218.pdf",
+          "file": "PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 408,
+      "sku": "EF-000000422",
+      "name": "Ennis Traffic Paint Fed. Yellow",
+      "brand": "Ennis-Flint",
+      "variant": "985202-5P Federal Yellow",
+      "documentType": "SDS",
+      "sourceType": "Other",
+      "sourceUrl": "https://www.asphaltsealcoatingdirect.com/files/dynamic/content/product/document/1976/msds/985202-5p_wb_yel_fast_dry_1952f_1_ppg_united_states_us_sds_ghs_en-us.pdf",
+      "file": "PDFs/SDS/ennis-flint-985202-5P-Federal-Yellow-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985202-5P-Federal-Yellow-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/ennis-flint-985202-5P-Federal-Yellow-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985202-5P-Federal-Yellow-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Ennis-Flint",
+        "product": "Ennis Traffic Paint Fed. Yellow",
+        "variant": "985202-5P Federal Yellow",
+        "pages": 15,
+        "bytes": 141958,
+        "sha256": "6491fae04ee160b707d0dee6ab8fd73f7f2e14405a15f50a3eb0b6e0db7dca62",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "WB YEL FAST DRY 1952F 12Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:985202-5P Date of issue/Date of revision21 December 2025Version2 Relevant identi"
+      }
+    },
+    {
+      "csvRow": 408,
+      "sku": "EF-000000422",
+      "name": "Ennis Traffic Paint Fed. Yellow",
+      "brand": "Ennis-Flint",
+      "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://assets-eu-01.kc-usercontent.com/cce44467-0106-013b-6c0b-26132a361492/5da4c66b-475e-4c2e-8a19-45c77dade77b/Traffic%20Solution%20PDS%20WBP_%20%201952EF%20TY%20II%20Fast%20Dry_241218.pdf",
+      "file": "PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+        "documentType": "TDS",
+        "brand": "Ennis-Flint",
+        "product": "Ennis Traffic Paint Fed. Yellow",
+        "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+        "pages": 2,
+        "bytes": 1010314,
+        "sha256": "c5fb60be2906e789154dae490e1f5c8891e5910d446e6a02bd4738043ba1362a",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "1 Product data sheetEF Series Fast Dry Waterborne Traffic Paint ENNIS-FLINT® by PPG EF Series Fast Dry Waterborne Traffic Paint is a 100% acrylic polymer latex. A high- solids, fast drying waterborne traffic paint suitable for application b"
+      }
+    },
+    {
+      "csvRow": 409,
+      "sku": "EF-000000423",
+      "name": "Ennis Traffic Paint Fed. White - P",
+      "brand": "Ennis-Flint",
+      "variant": "985201-5P Federal White",
+      "documentType": "SDS",
+      "sourceType": "Other",
+      "sourceUrl": "https://www.asphaltsealcoatingdirect.com/files/dynamic/content/product/document/1976/msds/985201-5p_wb_wht_fast_dry_1952f_1_ppg_united_states_us_sds_ghs_en-us.pdf",
+      "file": "PDFs/SDS/ennis-flint-985201-5P-Federal-White-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985201-5P-Federal-White-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/ennis-flint-985201-5P-Federal-White-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985201-5P-Federal-White-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Ennis-Flint",
+        "product": "Ennis Traffic Paint Fed. White - P",
+        "variant": "985201-5P Federal White",
+        "pages": 15,
+        "bytes": 141982,
+        "sha256": "91d53514850429697a16b912f94a4c7b4d02f472e0ef68c85117eda4c5efdaa0",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "WB WHT FAST DRY 1952F 1/2Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:985201-5P Date of issue/Date of revision21 December 2025Version2 Relevant ident"
+      }
+    },
+    {
+      "csvRow": 409,
+      "sku": "EF-000000423",
+      "name": "Ennis Traffic Paint Fed. White - P",
+      "brand": "Ennis-Flint",
+      "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://assets-eu-01.kc-usercontent.com/cce44467-0106-013b-6c0b-26132a361492/5da4c66b-475e-4c2e-8a19-45c77dade77b/Traffic%20Solution%20PDS%20WBP_%20%201952EF%20TY%20II%20Fast%20Dry_241218.pdf",
+      "file": "PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+        "documentType": "TDS",
+        "brand": "Ennis-Flint",
+        "product": "Ennis Traffic Paint Fed. Yellow",
+        "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+        "pages": 2,
+        "bytes": 1010314,
+        "sha256": "c5fb60be2906e789154dae490e1f5c8891e5910d446e6a02bd4738043ba1362a",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "1 Product data sheetEF Series Fast Dry Waterborne Traffic Paint ENNIS-FLINT® by PPG EF Series Fast Dry Waterborne Traffic Paint is a 100% acrylic polymer latex. A high- solids, fast drying waterborne traffic paint suitable for application b"
+      }
+    },
+    {
+      "csvRow": 412,
+      "sku": "EF-000000426",
+      "name": "Ennis Handicap Blue Safety Paint",
+      "brand": "Ennis-Flint",
+      "variant": "985205-5P Handicap Blue",
+      "documentType": "SDS",
+      "sourceType": "Other",
+      "sourceUrl": "https://www.asphaltsealcoatingdirect.com/files/dynamic/content/product/document/2401/msds/985205-5p_wb_blue_fast_dry_1952f_1_ppg_united_states_us_sds_ghs_en-us.pdf",
+      "file": "PDFs/SDS/ennis-flint-985205-5P-Handicap-Blue-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985205-5P-Handicap-Blue-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/ennis-flint-985205-5P-Handicap-Blue-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/ennis-flint-985205-5P-Handicap-Blue-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Ennis-Flint",
+        "product": "Ennis Handicap Blue Safety Paint",
+        "variant": "985205-5P Handicap Blue",
+        "pages": 13,
+        "bytes": 132527,
+        "sha256": "a046e89371894fd127adb2ee3a7924691e1e145a8fdc158dae2c0d736b68a7a5",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "WB BLUE FAST DRY 1952F 12Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:985205-5P Date of issue/Date of revision21 December 2025Version2 Relevant ident"
+      }
+    },
+    {
+      "csvRow": 412,
+      "sku": "EF-000000426",
+      "name": "Ennis Handicap Blue Safety Paint",
+      "brand": "Ennis-Flint",
+      "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://assets-eu-01.kc-usercontent.com/cce44467-0106-013b-6c0b-26132a361492/5da4c66b-475e-4c2e-8a19-45c77dade77b/Traffic%20Solution%20PDS%20WBP_%20%201952EF%20TY%20II%20Fast%20Dry_241218.pdf",
+      "file": "PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/ennis-flint-EF-Series-Fast-Dry-Waterborne-Traffic-Paint-PDS.pdf",
+        "documentType": "TDS",
+        "brand": "Ennis-Flint",
+        "product": "Ennis Traffic Paint Fed. Yellow",
+        "variant": "EF Series Fast Dry Waterborne 1952E/F Type I-II",
+        "pages": 2,
+        "bytes": 1010314,
+        "sha256": "c5fb60be2906e789154dae490e1f5c8891e5910d446e6a02bd4738043ba1362a",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "1 Product data sheetEF Series Fast Dry Waterborne Traffic Paint ENNIS-FLINT® by PPG EF Series Fast Dry Waterborne Traffic Paint is a 100% acrylic polymer latex. A high- solids, fast drying waterborne traffic paint suitable for application b"
+      }
+    }
+  ]
+}
