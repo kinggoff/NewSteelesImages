@@ -1,0 +1,320 @@
+{
+  "batch": "096-098",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 195,
+      "sku": "TR-000000199",
+      "name": "Tremclad Rust Paint Gloss White",
+      "brand": "Tremclad",
+      "category": "Paints > Specialty Paints",
+      "sds": [
+        {
+          "csvRow": 195,
+          "sku": "TR-000000199",
+          "name": "Tremclad Rust Paint Gloss White",
+          "brand": "Tremclad",
+          "variant": "237 mL Gloss White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27025X125.pdf",
+          "file": "PDFs/SDS/tremclad-27025X125.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27025X125.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27025X125.pdf?raw=true"
+        },
+        {
+          "csvRow": 195,
+          "sku": "TR-000000199",
+          "name": "Tremclad Rust Paint Gloss White",
+          "brand": "Tremclad",
+          "variant": "946 mL Gloss White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254924.pdf",
+          "file": "PDFs/SDS/tremclad-254924.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254924.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254924.pdf?raw=true"
+        },
+        {
+          "csvRow": 195,
+          "sku": "TR-000000199",
+          "name": "Tremclad Rust Paint Gloss White",
+          "brand": "Tremclad",
+          "variant": "3.78 L Gloss White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27025X155.pdf",
+          "file": "PDFs/SDS/tremclad-27025X155.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27025X155.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27025X155.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 212,
+      "sku": "SA-000000227",
+      "name": "Saman Oil Based Hybrid Floor Varnish ",
+      "brand": "Saman",
+      "category": "Paints > Stains & Varnishes",
+      "sds": [
+        {
+          "csvRow": 212,
+          "sku": "SA-000000227",
+          "name": "Saman Oil Based Hybrid Floor Varnish ",
+          "brand": "Saman",
+          "variant": "Flat / Satin / Semi-Gloss / Gloss",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf",
+          "file": "PDFs/SDS/saman-SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 212,
+          "sku": "SA-000000227",
+          "name": "Saman Oil Based Hybrid Floor Varnish ",
+          "brand": "Saman",
+          "variant": "Flat / Satin / Semi-Gloss / Gloss",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_-SAM-505-535-565-595.pdf",
+          "file": "PDFs/TDS/saman-TDS-ANG_-SAM-505-535-565-595.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_-SAM-505-535-565-595.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_-SAM-505-535-565-595.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 213,
+      "sku": "SA-000000229",
+      "name": "Saman Water-Based Wood Stain - Urban Grey",
+      "brand": "Saman",
+      "category": "Paints > Stains & Varnishes",
+      "sds": [
+        {
+          "csvRow": 213,
+          "sku": "SA-000000229",
+          "name": "Saman Water-Based Wood Stain - Urban Grey",
+          "brand": "Saman",
+          "variant": "Urban Grey 099 / TEW Series",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_Water-based-wood-stain.pdf",
+          "file": "PDFs/SDS/saman-SDS_Water-based-wood-stain.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_Water-based-wood-stain.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_Water-based-wood-stain.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 213,
+          "sku": "SA-000000229",
+          "name": "Saman Water-Based Wood Stain - Urban Grey",
+          "brand": "Saman",
+          "variant": "Urban Grey 099 / TEW Series",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_TEW.pdf",
+          "file": "PDFs/TDS/saman-TDS-ANG_TEW.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_TEW.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_TEW.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 195,
+      "sku": "TR-000000199",
+      "name": "Tremclad Rust Paint Gloss White",
+      "brand": "Tremclad",
+      "variant": "237 mL Gloss White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27025X125.pdf",
+      "file": "PDFs/SDS/tremclad-27025X125.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27025X125.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27025X125.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27025X125.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss White",
+        "variant": "237 mL Gloss White",
+        "pages": 6,
+        "bytes": 160846,
+        "sha256": "ba493175d44a2a5b87ff0285ee7c9f6f5c865ff9fbb399900c321717f9c803a9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 3/12/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Tremclad Rust Paint Product Name: TRMCLD 6X237ML HP RUST PAINT GLOSS WHITE Revision Date: 3/12/2025 Product Identifi"
+      }
+    },
+    {
+      "csvRow": 195,
+      "sku": "TR-000000199",
+      "name": "Tremclad Rust Paint Gloss White",
+      "brand": "Tremclad",
+      "variant": "946 mL Gloss White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254924.pdf",
+      "file": "PDFs/SDS/tremclad-254924.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254924.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-254924.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-254924.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss White",
+        "variant": "946 mL Gloss White",
+        "pages": 6,
+        "bytes": 166852,
+        "sha256": "5a36dec6c430842856c2b9cf64d161fb9032d94f1ac6dbd2a97e55537bd51332",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/21/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Tremclad Rust Paint Product Name: TRMCLD 4X946ML QT RUST PAINT GLS WHITE Revision Date: 5/21/2025 Product Identifier"
+      }
+    },
+    {
+      "csvRow": 195,
+      "sku": "TR-000000199",
+      "name": "Tremclad Rust Paint Gloss White",
+      "brand": "Tremclad",
+      "variant": "3.78 L Gloss White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27025X155.pdf",
+      "file": "PDFs/SDS/tremclad-27025X155.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27025X155.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-27025X155.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-27025X155.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Gloss White",
+        "variant": "3.78 L Gloss White",
+        "pages": 6,
+        "bytes": 162699,
+        "sha256": "84f05a737b040918a05e156c09680033b83b51f53a7a2e870b7db550849e5783",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 3/18/2024 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: TRMCLD 2X3.78L 1-GL RUST PAINT GLOSS WHT Revision Date: 3/18/2024 Product Identifier: 27025X155 Supercedes Date: 11/4"
+      }
+    },
+    {
+      "csvRow": 212,
+      "sku": "SA-000000227",
+      "name": "Saman Oil Based Hybrid Floor Varnish ",
+      "brand": "Saman",
+      "variant": "Flat / Satin / Semi-Gloss / Gloss",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf",
+      "file": "PDFs/SDS/saman-SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-505-SAM-535-SAM-565-SAM-595.pdf",
+        "documentType": "SDS",
+        "brand": "Saman",
+        "product": "Saman Oil Based Hybrid Floor Varnish ",
+        "variant": "Flat / Satin / Semi-Gloss / Gloss",
+        "pages": 10,
+        "bytes": 86650,
+        "sha256": "ee80d7ed87dcab8f7a3f02f3b681fa35bd4bcae2d567ab56df08695569b39272",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Hybrid Varnish 1. Identification Product identifier: Hybrid Varnish Product code: SAM-505, SAM-535, SAM-565, SAM-595 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telephone: 819 751-2350 Emergency te"
+      }
+    },
+    {
+      "csvRow": 212,
+      "sku": "SA-000000227",
+      "name": "Saman Oil Based Hybrid Floor Varnish ",
+      "brand": "Saman",
+      "variant": "Flat / Satin / Semi-Gloss / Gloss",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_-SAM-505-535-565-595.pdf",
+      "file": "PDFs/TDS/saman-TDS-ANG_-SAM-505-535-565-595.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_-SAM-505-535-565-595.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_-SAM-505-535-565-595.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_-SAM-505-535-565-595.pdf",
+        "documentType": "TDS",
+        "brand": "Saman",
+        "product": "Saman Oil Based Hybrid Floor Varnish ",
+        "variant": "Flat / Satin / Semi-Gloss / Gloss",
+        "pages": 1,
+        "bytes": 24679,
+        "sha256": "4f65983dd9091b7b418051b3fd40f849c5a7ee7c9854019ad11374023a87913b",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical Data Sheet SAMAN OIL BASED HYBRID VARNISH gloss SAM-595, semi-gloss SAM-565, satin SAM-535, mat SAM-505 DESCRIPTION Water based oil modified urethane (hybrid) varnish recommended for all interior wood surfaces: floors, furniture, "
+      }
+    },
+    {
+      "csvRow": 213,
+      "sku": "SA-000000229",
+      "name": "Saman Water-Based Wood Stain - Urban Grey",
+      "brand": "Saman",
+      "variant": "Urban Grey 099 / TEW Series",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_Water-based-wood-stain.pdf",
+      "file": "PDFs/SDS/saman-SDS_Water-based-wood-stain.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_Water-based-wood-stain.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_Water-based-wood-stain.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_Water-based-wood-stain.pdf",
+        "documentType": "SDS",
+        "brand": "Saman",
+        "product": "Saman Water-Based Wood Stain - Urban Grey",
+        "variant": "Urban Grey 099 / TEW Series",
+        "pages": 9,
+        "bytes": 134601,
+        "sha256": "a9afaccaaac678a5b0ff5c49bc218153e3767e0ed74bf75acb61dcbf564f1445",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Water based wood stain 1. Identification Product identifier: Water based wood stain Product code: TEW-206 Supplier Name: SamaN 660, rue du Filtre Victoriaville, (Québec) Canada, G6T 0T6 Telephone: 819 751-2350 Emergency te"
+      }
+    },
+    {
+      "csvRow": 213,
+      "sku": "SA-000000229",
+      "name": "Saman Water-Based Wood Stain - Urban Grey",
+      "brand": "Saman",
+      "variant": "Urban Grey 099 / TEW Series",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_TEW.pdf",
+      "file": "PDFs/TDS/saman-TDS-ANG_TEW.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_TEW.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_TEW.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_TEW.pdf",
+        "documentType": "TDS",
+        "brand": "Saman",
+        "product": "Saman Water-Based Wood Stain - Urban Grey",
+        "variant": "Urban Grey 099 / TEW Series",
+        "pages": 1,
+        "bytes": 23345,
+        "sha256": "41b17c48156c8d173d5ad192f66f8c895c202053c505bc09460235e6a27a3b5f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical Data Sheet SAMAN WATER-BASED STAINS / TEW SERIES DESCRIPTION Saman water-based stain is a wiping stain recommended for interior wood furniture and woodworks. It can be applied on all wood species. -ready to use and easy to apply -"
+      }
+    }
+  ]
+}
