@@ -1,0 +1,281 @@
+{
+  "batch": "016-018",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 20,
+      "sku": "I-000000019",
+      "name": "Stix Waterborne Bonding Primer",
+      "brand": "Insl-X",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 20,
+          "sku": "I-000000019",
+          "name": "Stix Waterborne Bonding Primer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_SXA1100/SXA-1100F_SDS_EN.pdf",
+          "file": "PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 20,
+          "sku": "I-000000019",
+          "name": "Stix Waterborne Bonding Primer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_SXA-110/SXA110_TDS_CE.pdf",
+          "file": "PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 21,
+      "sku": "BM-000000020",
+      "name": "Fast Sanding Primer",
+      "brand": "Benjamin Moore",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 21,
+          "sku": "BM-000000020",
+          "name": "Fast Sanding Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_507/K50700_SDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-K50700_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K50700_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-K50700_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 21,
+          "sku": "BM-000000020",
+          "name": "Fast Sanding Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_507/K507_TDS_CE.pdf",
+          "file": "PDFs/TDS/benjamin-moore-K507_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-K507_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-K507_TDS_CE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 22,
+      "sku": "BM-000000021",
+      "name": "Drywall Primer",
+      "brand": "Benjamin Moore",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 22,
+          "sku": "BM-000000021",
+          "name": "Drywall Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_0265/K26500_SDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-K26500_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K26500_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-K26500_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 22,
+          "sku": "BM-000000021",
+          "name": "Drywall Primer",
+          "brand": "Benjamin Moore",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_0265/K265_TDS_CE.pdf",
+          "file": "PDFs/TDS/benjamin-moore-K265_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-K265_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-K265_TDS_CE.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 20,
+      "sku": "I-000000019",
+      "name": "Stix Waterborne Bonding Primer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_SXA1100/SXA-1100F_SDS_EN.pdf",
+      "file": "PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-SXA-1100F_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "Stix Waterborne Bonding Primer",
+        "variant": "Primer",
+        "pages": 10,
+        "bytes": 76188,
+        "sha256": "c2eecf2428fb25da685caf2dcedfe338f4d00e899da72118c1a533de61d1d814",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 25-Feb-2022 Revision Number: 7 1. PRODUCT AND COMPANY IDENTIFICATION Product Name STIX WATERBORNE BONDING PRIMER WHITE Product Code SXA-110F, 3001141 Alternate Product Code XF0501, XF0599 SAP Material Number"
+      }
+    },
+    {
+      "csvRow": 20,
+      "sku": "I-000000019",
+      "name": "Stix Waterborne Bonding Primer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_SXA-110/SXA110_TDS_CE.pdf",
+      "file": "PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-SXA110_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "Stix Waterborne Bonding Primer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 148218,
+        "sha256": "18b573b7599c3b4fab870b202e05e4f6337b982907f3c5b796001f2b929a4289",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Manufactured by Benjamin Moore & Co. 101 Paragon Drive, Montvale, NJ 07645 Tel: 866-708-9180 www.Insl-x.ca M72 SXA-110 CE 092923 STIX® WATERBORNE BONDING PRIMER SXA-110 Features General Description • Strongly Bonds to Glossy Surfaces • Unpa"
+      }
+    },
+    {
+      "csvRow": 21,
+      "sku": "BM-000000020",
+      "name": "Fast Sanding Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_507/K50700_SDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-K50700_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K50700_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-K50700_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K50700_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "Fast Sanding Primer",
+        "variant": "Primer",
+        "pages": 10,
+        "bytes": 86152,
+        "sha256": "aaf82063b75def0a6a06198db24d9975a84b6ad7bc30f6d79ce6271038d7d8a2",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 24-Mar-2025 Revision Number: 5 1. PRODUCT AND COMPANY IDENTIFICATION Product Name BENJAMIN MOORE FAST SANDING PRIMER WHITE Product Code K50700 Alternate Product Code K50700 Product Class Water thinned paint "
+      }
+    },
+    {
+      "csvRow": 21,
+      "sku": "BM-000000020",
+      "name": "Fast Sanding Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_507/K507_TDS_CE.pdf",
+      "file": "PDFs/TDS/benjamin-moore-K507_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-K507_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-K507_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-K507_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Benjamin Moore",
+        "product": "Fast Sanding Primer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 326990,
+        "sha256": "298f9eb831f50ebf78b7c080007049c82688b80c29a3248ef2ad0c0c4e442066",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Fast Sanding Primer K507 Benjamin Moore & Co., Ltd. 1651 Stellar Drive, Unit 1, Whitby, ON L1N 0R1 1-866-708-9180 www.benjaminmoore.ca K507 CE 071626 General Description An interior acrylic primer that quickly sands to a powder in just one "
+      }
+    },
+    {
+      "csvRow": 22,
+      "sku": "BM-000000021",
+      "name": "Drywall Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_0265/K26500_SDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-K26500_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K26500_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-K26500_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K26500_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "Drywall Primer",
+        "variant": "Primer",
+        "pages": 9,
+        "bytes": 81490,
+        "sha256": "4913d40375ab54d27344c0a18d8a28c35a0d2333d26261ce73105bb8f785755e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 25-Mar-2025 Revision Number: 3 1. PRODUCT AND COMPANY IDENTIFICATION Product Name BENJAMIN MOORE DRYWALL PRIMER - WHITE Product Code K26500 Alternate Product Code K26500 Product Class Water thinned paint Col"
+      }
+    },
+    {
+      "csvRow": 22,
+      "sku": "BM-000000021",
+      "name": "Drywall Primer",
+      "brand": "Benjamin Moore",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_0265/K265_TDS_CE.pdf",
+      "file": "PDFs/TDS/benjamin-moore-K265_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-K265_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-K265_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-K265_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Benjamin Moore",
+        "product": "Drywall Primer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 206371,
+        "sha256": "d5bfd234644c8f57c1a25b26074073482516522835bf92a7c93a61be219c8520",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "DRYWALL PRIMER K265 Benjamin Moore & Co., Ltd. 8775 Keele St., Concord, ON L4K 2N1 1-866-708-9180 www.benjaminmoore.ca K265 CE 111623 General Description An acrylic primer for interior use on new or previously painted drywall and plaster. P"
+      }
+    }
+  ]
+}
