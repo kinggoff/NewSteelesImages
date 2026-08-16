@@ -1,0 +1,205 @@
+{
+  "batch": "105-107",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 224,
+      "sku": "ZE-000000238",
+      "name": "Zeraus ZeraKlear SC Clear Epoxy Coating",
+      "brand": "Zeraus",
+      "category": "Commercial & Industrial > Epoxy",
+      "researchStatus": "No qualifying downloadable PDF found",
+      "researchNotes": "Zeraus lists ZeraKlear SC in its official Product Technical & Safety Data Information index, but the TDS and SDS icons are not linked to files. No exact public source PDF was found and no nearby ZeraKlear variant was substituted.",
+      "sds": [],
+      "tds": []
+    },
+    {
+      "csvRow": 225,
+      "sku": "ZE-000000239",
+      "name": "Zeraus ZeraDur 100 Epoxy Floor Coating",
+      "brand": "Zeraus",
+      "category": "Commercial & Industrial > Epoxy",
+      "researchStatus": "Manufacturer SDS and TDS found",
+      "researchNotes": "Exact ZeraDur 100 SDS includes Parts A and B; exact ZeraDur 100 technical data sheet included separately.",
+      "sds": [
+        {
+          "csvRow": 225,
+          "sku": "ZE-000000239",
+          "name": "Zeraus ZeraDur 100 Epoxy Floor Coating",
+          "brand": "Zeraus",
+          "variant": "ZeraDur 100 Parts A and B",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.zeraus.com/templates/Zeraus/pdf/ZeraDur%20100_SD.pdf",
+          "file": "PDFs/SDS/zeraus-ZeraDur-100_SD.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zeraus-ZeraDur-100_SD.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zeraus-ZeraDur-100_SD.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 225,
+          "sku": "ZE-000000239",
+          "name": "Zeraus ZeraDur 100 Epoxy Floor Coating",
+          "brand": "Zeraus",
+          "variant": "ZeraDur 100",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.zeraus.com/templates/Zeraus/pdf/ZeraDur%20100_TDS.pdf",
+          "file": "PDFs/TDS/zeraus-ZeraDur-100_TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zeraus-ZeraDur-100_TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zeraus-ZeraDur-100_TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 276,
+      "sku": "I-000000290",
+      "name": "Insl-X Fire Retardant Latex - Flat White",
+      "brand": "Insl-X",
+      "category": "Paints > Interior",
+      "researchStatus": "Manufacturer SDS and TDS found",
+      "researchNotes": "Exact Insl-X Fire Retardant Paint Flat FR-210 white manufacturer documents.",
+      "sds": [
+        {
+          "csvRow": 276,
+          "sku": "I-000000290",
+          "name": "Insl-X Fire Retardant Latex - Flat White",
+          "brand": "Insl-X",
+          "variant": "Flat White FR-210",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_FR-2100/FR-2100_SDS_EN.pdf",
+          "file": "PDFs/SDS/insl-x-FR-2100_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-FR-2100_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-FR-2100_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 276,
+          "sku": "I-000000290",
+          "name": "Insl-X Fire Retardant Latex - Flat White",
+          "brand": "Insl-X",
+          "variant": "Flat White FR-210",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_FR-2100/FR-210_TDS_EN.pdf",
+          "file": "PDFs/TDS/insl-x-FR-210_TDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-FR-210_TDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-FR-210_TDS_EN.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 225,
+      "sku": "ZE-000000239",
+      "name": "Zeraus ZeraDur 100 Epoxy Floor Coating",
+      "brand": "Zeraus",
+      "variant": "ZeraDur 100 Parts A and B",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.zeraus.com/templates/Zeraus/pdf/ZeraDur%20100_SD.pdf",
+      "file": "PDFs/SDS/zeraus-ZeraDur-100_SD.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zeraus-ZeraDur-100_SD.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zeraus-ZeraDur-100_SD.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zeraus-ZeraDur-100_SD.pdf",
+        "documentType": "SDS",
+        "brand": "Zeraus",
+        "product": "Zeraus ZeraDur 100 Epoxy Floor Coating",
+        "variant": "ZeraDur 100 Parts A and B",
+        "pages": 20,
+        "bytes": 146031,
+        "sha256": "63881152e6fcd7912cb51043ca7922ffa4a3a14beb04f6838262317c61ce81d5",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "1 Safety Data Sheet (SDS) ZeraDur 100 PART A SECTION 1: PRODUCT INFORMATION PRODUCT INFORMATION Product Identifier: ZeraDur 100 Part A Application and Use (Other means of identification): Epoxy Floor Coating – Part A Recommended on use and "
+      }
+    },
+    {
+      "csvRow": 225,
+      "sku": "ZE-000000239",
+      "name": "Zeraus ZeraDur 100 Epoxy Floor Coating",
+      "brand": "Zeraus",
+      "variant": "ZeraDur 100",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.zeraus.com/templates/Zeraus/pdf/ZeraDur%20100_TDS.pdf",
+      "file": "PDFs/TDS/zeraus-ZeraDur-100_TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zeraus-ZeraDur-100_TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zeraus-ZeraDur-100_TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zeraus-ZeraDur-100_TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Zeraus",
+        "product": "Zeraus ZeraDur 100 Epoxy Floor Coating",
+        "variant": "ZeraDur 100",
+        "pages": 3,
+        "bytes": 155976,
+        "sha256": "5ad357c4c199ae6d7ff072d6d9a5f2065625ad0b5022fd4656248226219d0216",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "04/18 ZeraDur™ 100 High Performance 100% Solids Epoxy Floor Coating DESCRIPTION ZeraDur™ 100 is a two -component, 100% solids epoxy coating that provides an aesthetically pleasing durable finish for interior concrete floors. A fast curing v"
+      }
+    },
+    {
+      "csvRow": 276,
+      "sku": "I-000000290",
+      "name": "Insl-X Fire Retardant Latex - Flat White",
+      "brand": "Insl-X",
+      "variant": "Flat White FR-210",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_FR-2100/FR-2100_SDS_EN.pdf",
+      "file": "PDFs/SDS/insl-x-FR-2100_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-FR-2100_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-FR-2100_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-FR-2100_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "Insl-X Fire Retardant Latex - Flat White",
+        "variant": "Flat White FR-210",
+        "pages": 9,
+        "bytes": 72964,
+        "sha256": "651cbeba458efe268ac55e33015277cfd60324c5273a4a085c7e15856b60565f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 07-Apr-2022 Revision Number: 2 1. PRODUCT AND COMPANY IDENTIFICATION Product Name LATEX FIRE RETARDANT PAINT WHITE Product Code FR-210 Alternate Product Code UA2801 Product Class Water thinned paint Color Wh"
+      }
+    },
+    {
+      "csvRow": 276,
+      "sku": "I-000000290",
+      "name": "Insl-X Fire Retardant Latex - Flat White",
+      "brand": "Insl-X",
+      "variant": "Flat White FR-210",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_FR-2100/FR-210_TDS_EN.pdf",
+      "file": "PDFs/TDS/insl-x-FR-210_TDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-FR-210_TDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-FR-210_TDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-FR-210_TDS_EN.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "Insl-X Fire Retardant Latex - Flat White",
+        "variant": "Flat White FR-210",
+        "pages": 2,
+        "bytes": 221579,
+        "sha256": "53df8236e169d5fbedc8804e2d51b97acf921f240d90a575b3c5100d7f952e62",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Fire Retardant Paint Latex Intumescent Coating Flat FR-210 Manufactured by Benjamin Moore & Co., 101 Paragon Drive, Montvale, NJ 07645 Tel: 866 -708-9180 www.insl-x.com FR-210 US 010626 General Description Insl-X® Fire Retardant Paint is a "
+      }
+    }
+  ]
+}
