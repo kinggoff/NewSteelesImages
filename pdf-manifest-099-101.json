@@ -1,0 +1,281 @@
+{
+  "batch": "099-101",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 214,
+      "sku": "SA-000000220",
+      "name": "Saman Waterbased Dead Flat Varnish",
+      "brand": "Saman",
+      "category": "Paints > Stains & Varnishes",
+      "sds": [
+        {
+          "csvRow": 214,
+          "sku": "SA-000000220",
+          "name": "Saman Waterbased Dead Flat Varnish",
+          "brand": "Saman",
+          "variant": "Dead Flat SAM-801",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_SAM-801.pdf",
+          "file": "PDFs/SDS/saman-SDS_SAM-801.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-801.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_SAM-801.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 214,
+          "sku": "SA-000000220",
+          "name": "Saman Waterbased Dead Flat Varnish",
+          "brand": "Saman",
+          "variant": "Dead Flat SAM-801",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_SAM-801.pdf",
+          "file": "PDFs/TDS/saman-TDS-ANG_SAM-801.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_SAM-801.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_SAM-801.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 215,
+      "sku": "SA-000000217",
+      "name": "Saman Waterbased Exterior Clear Coat ",
+      "brand": "Saman",
+      "category": "Paints > Stains & Varnishes",
+      "sds": [
+        {
+          "csvRow": 215,
+          "sku": "SA-000000217",
+          "name": "Saman Waterbased Exterior Clear Coat ",
+          "brand": "Saman",
+          "variant": "Flat / Satin / Semi-Gloss SAM-805 / SAM-830 / SAM-870",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+          "file": "PDFs/SDS/saman-SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_SAM-805-SAM-830-and-SAM-870.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 215,
+          "sku": "SA-000000217",
+          "name": "Saman Waterbased Exterior Clear Coat ",
+          "brand": "Saman",
+          "variant": "Satin / Semi-Gloss SAM-830 / SAM-870",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_SAM-830-870.pdf",
+          "file": "PDFs/TDS/saman-TDS-ANG_SAM-830-870.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_SAM-830-870.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_SAM-830-870.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 216,
+      "sku": "SA-000000221",
+      "name": "Saman Waterbased Floor Varnish ",
+      "brand": "Saman",
+      "category": "Paints > Stains & Varnishes",
+      "sds": [
+        {
+          "csvRow": 216,
+          "sku": "SA-000000221",
+          "name": "Saman Waterbased Floor Varnish ",
+          "brand": "Saman",
+          "variant": "Flat / Satin / Semi-Gloss / Gloss 160 Series",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_160-005-160-031-160-051-160-091.pdf",
+          "file": "PDFs/SDS/saman-SDS_160-005-160-031-160-051-160-091.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_160-005-160-031-160-051-160-091.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_160-005-160-031-160-051-160-091.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 216,
+          "sku": "SA-000000221",
+          "name": "Saman Waterbased Floor Varnish ",
+          "brand": "Saman",
+          "variant": "Flat / Satin / Semi-Gloss / Gloss 160 Series",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_varnish-160.pdf",
+          "file": "PDFs/TDS/saman-TDS-ANG_varnish-160.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_varnish-160.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_varnish-160.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 214,
+      "sku": "SA-000000220",
+      "name": "Saman Waterbased Dead Flat Varnish",
+      "brand": "Saman",
+      "variant": "Dead Flat SAM-801",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_SAM-801.pdf",
+      "file": "PDFs/SDS/saman-SDS_SAM-801.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-801.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_SAM-801.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-801.pdf",
+        "documentType": "SDS",
+        "brand": "Saman",
+        "product": "Saman Waterbased Dead Flat Varnish",
+        "variant": "Dead Flat SAM-801",
+        "pages": 9,
+        "bytes": 50552,
+        "sha256": "07adfcf8f8d56271339b6e872abc92faa26ebec22bfd5fa9e738b8822388f7ce",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Waterbased dead flat varnish 1. Identification Product identifier: Waterbased dead flat varnish Product code: SAM-801 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telephone: 819 751-2350 Emergency t"
+      }
+    },
+    {
+      "csvRow": 214,
+      "sku": "SA-000000220",
+      "name": "Saman Waterbased Dead Flat Varnish",
+      "brand": "Saman",
+      "variant": "Dead Flat SAM-801",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_SAM-801.pdf",
+      "file": "PDFs/TDS/saman-TDS-ANG_SAM-801.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_SAM-801.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_SAM-801.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_SAM-801.pdf",
+        "documentType": "TDS",
+        "brand": "Saman",
+        "product": "Saman Waterbased Dead Flat Varnish",
+        "variant": "Dead Flat SAM-801",
+        "pages": 1,
+        "bytes": 22846,
+        "sha256": "05112a2831aaf8e81cc4825fcaab3bedde165ca708b76d4dfdbbb027274dc3e3",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical Data Sheet SAMAN DEAD FLAT VARNISH / SAM-801 SAMAN DEAD FLAT VARNISH / SAM-801 DESCRIPTION Saman Dead Flat varnish is a premium quality, 100% acrylic, non-yellowing, water based varnish specially formulated to protect interior dec"
+      }
+    },
+    {
+      "csvRow": 215,
+      "sku": "SA-000000217",
+      "name": "Saman Waterbased Exterior Clear Coat ",
+      "brand": "Saman",
+      "variant": "Flat / Satin / Semi-Gloss SAM-805 / SAM-830 / SAM-870",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+      "file": "PDFs/SDS/saman-SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_SAM-805-SAM-830-and-SAM-870.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_SAM-805-SAM-830-and-SAM-870.pdf",
+        "documentType": "SDS",
+        "brand": "Saman",
+        "product": "Saman Waterbased Exterior Clear Coat ",
+        "variant": "Flat / Satin / Semi-Gloss SAM-805 / SAM-830 / SAM-870",
+        "pages": 10,
+        "bytes": 57785,
+        "sha256": "f8905e5f0e6b07885f848e2e169aa47472b352011d3cbaad0fe0566560ca0c38",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Safety Data Sheet Vernis extérieur clair acrylique 1. Identification Product identifier: Vernis extérieur clair acrylique Product code: SAM-805, SAM-830, and SAM-870 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telep"
+      }
+    },
+    {
+      "csvRow": 215,
+      "sku": "SA-000000217",
+      "name": "Saman Waterbased Exterior Clear Coat ",
+      "brand": "Saman",
+      "variant": "Satin / Semi-Gloss SAM-830 / SAM-870",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_SAM-830-870.pdf",
+      "file": "PDFs/TDS/saman-TDS-ANG_SAM-830-870.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_SAM-830-870.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_SAM-830-870.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_SAM-830-870.pdf",
+        "documentType": "TDS",
+        "brand": "Saman",
+        "product": "Saman Waterbased Exterior Clear Coat ",
+        "variant": "Satin / Semi-Gloss SAM-830 / SAM-870",
+        "pages": 1,
+        "bytes": 24212,
+        "sha256": "0ce0a316afa25e7ee361c40ce03cf390a5f63685c4368695bdcd3042814728bc",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical Data Sheet SAMAN EXTERIOR VARNISH (semi-gloss, satin) / SAM-870, SAM-830 DESCRIPTION Saman exterior varnish is a water based 100% acrylic finish recommended for exterior wood surfaces: doors, windows, cladding, garden furniture, e"
+      }
+    },
+    {
+      "csvRow": 216,
+      "sku": "SA-000000221",
+      "name": "Saman Waterbased Floor Varnish ",
+      "brand": "Saman",
+      "variant": "Flat / Satin / Semi-Gloss / Gloss 160 Series",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/SDS_160-005-160-031-160-051-160-091.pdf",
+      "file": "PDFs/SDS/saman-SDS_160-005-160-031-160-051-160-091.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_160-005-160-031-160-051-160-091.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/saman-SDS_160-005-160-031-160-051-160-091.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/saman-SDS_160-005-160-031-160-051-160-091.pdf",
+        "documentType": "SDS",
+        "brand": "Saman",
+        "product": "Saman Waterbased Floor Varnish ",
+        "variant": "Flat / Satin / Semi-Gloss / Gloss 160 Series",
+        "pages": 10,
+        "bytes": 86684,
+        "sha256": "65244b4c87d88f83a7491e3540a9ead2ac7c4640d0f5d8b313bf47819bee30f2",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Water based varnish 1. Identification Product identifier: Water based varnish Product code: 160-005, 160-031, 160-051, 160-091 Supplier Name: SamaN 660 Rue du Filtre Victoriaville, Québec G6T 0T6 Telephone: 819 751-2350 Em"
+      }
+    },
+    {
+      "csvRow": 216,
+      "sku": "SA-000000221",
+      "name": "Saman Waterbased Floor Varnish ",
+      "brand": "Saman",
+      "variant": "Flat / Satin / Semi-Gloss / Gloss 160 Series",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://saman.ca/wp-content/uploads/2020/03/TDS-ANG_varnish-160.pdf",
+      "file": "PDFs/TDS/saman-TDS-ANG_varnish-160.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_varnish-160.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/saman-TDS-ANG_varnish-160.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/saman-TDS-ANG_varnish-160.pdf",
+        "documentType": "TDS",
+        "brand": "Saman",
+        "product": "Saman Waterbased Floor Varnish ",
+        "variant": "Flat / Satin / Semi-Gloss / Gloss 160 Series",
+        "pages": 1,
+        "bytes": 23529,
+        "sha256": "baa4a175830afa287fc62fe0901b2321234360c78abc77e9534ebd407c5c843f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Technical data sheet SAMAN WATER BASED VARNISH gloss 160-091, semi-gloss 160-051, satin 160-031, mat 160-005 DESCRIPTION Water based urethane varnish recommended for all interior wood surfaces: floors, furniture, woodworks, doors, cabinets,"
+      }
+    }
+  ]
+}
