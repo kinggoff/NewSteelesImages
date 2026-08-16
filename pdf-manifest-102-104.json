@@ -1,0 +1,123 @@
+{
+  "batch": "102-104",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 218,
+      "sku": "SW-000000232",
+      "name": "Swing Wallpaper Pre-Coat Universal Primer Sealer",
+      "brand": "Swing",
+      "category": "Paints > Primers",
+      "researchStatus": "No qualifying downloadable PDF found",
+      "researchNotes": "Manufacturer product page confirms Swing Wallpaper Prep-Coat code 3107 and publishes application, dry-time, coverage, and cleanup details. Swing states SDS files are available upon request, but no public SDS or TDS PDF was found. No substitute attached.",
+      "sds": [],
+      "tds": []
+    },
+    {
+      "csvRow": 219,
+      "sku": "SW-000000233",
+      "name": "Swing Prime+ Universal Primer Sealer",
+      "brand": "Swing",
+      "category": "Paints > Primers",
+      "researchStatus": "No qualifying downloadable PDF found",
+      "researchNotes": "Manufacturer product page confirms Swing Prime-It code 3100 and publishes application, dry-time, coverage, and cleanup details. Swing states SDS files are available upon request. A third-party Scribd copy of the SDS was discoverable but not accepted because it was not a directly downloadable source PDF. No substitute attached.",
+      "sds": [],
+      "tds": []
+    },
+    {
+      "csvRow": 222,
+      "sku": "ZE-000000236",
+      "name": "Zeraus ZeraBrite CL-121 Polyaspartic Coating",
+      "brand": "Zeraus",
+      "category": "Commercial & Industrial > Epoxy",
+      "researchStatus": "Manufacturer SDS and TDS found",
+      "researchNotes": "Manufacturer's 20-page SDS covers both ZeraBrite Part A and Part B; exact CL-121 technical data sheet is included separately.",
+      "sds": [
+        {
+          "csvRow": 222,
+          "sku": "ZE-000000236",
+          "name": "Zeraus ZeraBrite CL-121 Polyaspartic Coating",
+          "brand": "Zeraus",
+          "variant": "ZeraBrite CL-121 Parts A and B",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.zeraus.com/templates/Zeraus/pdf/ZeraBrite_SD.pdf",
+          "file": "PDFs/SDS/zeraus-ZeraBrite_SD.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/zeraus-ZeraBrite_SD.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zeraus-ZeraBrite_SD.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 222,
+          "sku": "ZE-000000236",
+          "name": "Zeraus ZeraBrite CL-121 Polyaspartic Coating",
+          "brand": "Zeraus",
+          "variant": "ZeraBrite CL-121",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.zeraus.com/templates/Zeraus/pdf/ZeraBrite_CL-121_tds.pdf",
+          "file": "PDFs/TDS/zeraus-ZeraBrite_CL-121_tds.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/zeraus-ZeraBrite_CL-121_tds.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zeraus-ZeraBrite_CL-121_tds.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 222,
+      "sku": "ZE-000000236",
+      "name": "Zeraus ZeraBrite CL-121 Polyaspartic Coating",
+      "brand": "Zeraus",
+      "variant": "ZeraBrite CL-121 Parts A and B",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.zeraus.com/templates/Zeraus/pdf/ZeraBrite_SD.pdf",
+      "file": "PDFs/SDS/zeraus-ZeraBrite_SD.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/zeraus-ZeraBrite_SD.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/zeraus-ZeraBrite_SD.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/zeraus-ZeraBrite_SD.pdf",
+        "documentType": "SDS",
+        "brand": "Zeraus",
+        "product": "Zeraus ZeraBrite CL-121 Polyaspartic Coating",
+        "variant": "ZeraBrite CL-121 Parts A and B",
+        "pages": 20,
+        "bytes": 144442,
+        "sha256": "56c7aad7fcfd8500054d259e7f632e2a5d321358d30be5d4716dba881920a2f6",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "1 Safety Data Sheet (SDS) ZeraBrite PART A SECTION 1: PRODUCT INFORMATION PRODUCT INFORMATION Product Identifier: ZeraBrite Part A Application and Use (Other means of identification): Clear Polyaspartic acid ester coating – Part A Recommend"
+      }
+    },
+    {
+      "csvRow": 222,
+      "sku": "ZE-000000236",
+      "name": "Zeraus ZeraBrite CL-121 Polyaspartic Coating",
+      "brand": "Zeraus",
+      "variant": "ZeraBrite CL-121",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.zeraus.com/templates/Zeraus/pdf/ZeraBrite_CL-121_tds.pdf",
+      "file": "PDFs/TDS/zeraus-ZeraBrite_CL-121_tds.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/zeraus-ZeraBrite_CL-121_tds.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/zeraus-ZeraBrite_CL-121_tds.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/zeraus-ZeraBrite_CL-121_tds.pdf",
+        "documentType": "TDS",
+        "brand": "Zeraus",
+        "product": "Zeraus ZeraBrite CL-121 Polyaspartic Coating",
+        "variant": "ZeraBrite CL-121",
+        "pages": 2,
+        "bytes": 102872,
+        "sha256": "ef3c8f17796df3710c125bd8ceb56786861b5024483750cd934e596f0bde1638",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "10/23 ZeraBrite™ CL-121 Advanced UV-resistant polyaspartic Coating DESCRIPTION ZeraBrite™ CL-121 is a high solids, low viscosity two- component, polyaspartic ester coating. It is available in crystal clear and a number of standard colours. "
+      }
+    }
+  ]
+}
