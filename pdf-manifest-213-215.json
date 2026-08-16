@@ -1,0 +1,163 @@
+{
+  "batch": "213-215",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 703,
+      "sku": "SIM-000000717",
+      "name": "Smark Dry Erase Paint Clear 200 Sq Ft",
+      "brand": "Simiron",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer two-component SDS set and TDS found",
+      "researchNotes": "The row identifies Simiron Smark Clear Dry Erase Paint in the 200 square foot kit. Simiron's current product data sheet explicitly lists the 200 sq. ft. clear semi-gloss kit as item 40002930. Because Smark is a two-component coating, the complete safety set consists of the manufacturer's separate Fill Me base SDS and Pour Me activator SDS.",
+      "sds": [
+        {
+          "csvRow": 703,
+          "sku": "SIM-000000717",
+          "name": "Smark Dry Erase Paint Clear 200 Sq Ft",
+          "brand": "Simiron",
+          "variant": "Simiron Smark Fill Me Base component",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://smarkpaint.com/wp-content/uploads/2022/08/Smark-Base-Fill-Me_SDS.pdf",
+          "file": "PDFs/SDS/simiron-Simiron-Smark-Fill-Me-Base-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/simiron-Simiron-Smark-Fill-Me-Base-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/simiron-Simiron-Smark-Fill-Me-Base-SDS.pdf?raw=true"
+        },
+        {
+          "csvRow": 703,
+          "sku": "SIM-000000717",
+          "name": "Smark Dry Erase Paint Clear 200 Sq Ft",
+          "brand": "Simiron",
+          "variant": "Simiron Smark Pour Me Activator component",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://smarkpaint.com/wp-content/uploads/2022/08/Smark-Activator-Pour-Me_SDS-1.pdf",
+          "file": "PDFs/SDS/simiron-Simiron-Smark-Pour-Me-Activator-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/simiron-Simiron-Smark-Pour-Me-Activator-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/simiron-Simiron-Smark-Pour-Me-Activator-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 703,
+          "sku": "SIM-000000717",
+          "name": "Smark Dry Erase Paint Clear 200 Sq Ft",
+          "brand": "Simiron",
+          "variant": "Simiron Smark Clear Dry Erase Paint - includes 200 sq. ft. kit 40002930",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://simiron.com/wp-content/uploads/2022/03/SIM_Smark_ProductDataSheet_8.5x11_021622_vFIN7.pdf",
+          "file": "PDFs/TDS/simiron-Simiron-Smark-Clear-Dry-Erase-Paint-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/simiron-Simiron-Smark-Clear-Dry-Erase-Paint-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/simiron-Simiron-Smark-Clear-Dry-Erase-Paint-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 706,
+      "sku": "SUN-000000720",
+      "name": "Sunshield C-Tone",
+      "brand": "SunShield",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Manufacturer and reputable fallback searched; no qualifying downloadable PDF found",
+      "researchNotes": "SunShield Canada's manufacturer page explicitly describes C-TONE as the recommended coloured exterior/interior wood-finish option and provides application, drying, cleanup and coverage data, but the manufacturer's complete static catalog contains no PDF or document downloads. Reputable fallback searches found only unrelated products using the SunShield name, so no substitute SDS or TDS was assigned.",
+      "sds": [],
+      "tds": []
+    },
+    {
+      "csvRow": 707,
+      "sku": "SUN-000000721",
+      "name": "Sunshield Clear",
+      "brand": "SunShield",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Manufacturer and reputable fallback searched; no qualifying downloadable PDF found",
+      "researchNotes": "SunShield Canada's manufacturer page explicitly states that its exterior/interior wood finish is available in Clear and provides application, drying, cleanup and coverage data, but the manufacturer's complete static catalog contains no PDF or document downloads. Reputable fallback searches found only unrelated products using the SunShield name, so no substitute SDS or TDS was assigned.",
+      "sds": [],
+      "tds": []
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 703,
+      "sku": "SIM-000000717",
+      "name": "Smark Dry Erase Paint Clear 200 Sq Ft",
+      "brand": "Simiron",
+      "variant": "Simiron Smark Fill Me Base component",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://smarkpaint.com/wp-content/uploads/2022/08/Smark-Base-Fill-Me_SDS.pdf",
+      "file": "PDFs/SDS/simiron-Simiron-Smark-Fill-Me-Base-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/simiron-Simiron-Smark-Fill-Me-Base-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/simiron-Simiron-Smark-Fill-Me-Base-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/simiron-Simiron-Smark-Fill-Me-Base-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Simiron",
+        "product": "Smark Dry Erase Paint Clear 200 Sq Ft",
+        "variant": "Simiron Smark Fill Me Base component",
+        "pages": 8,
+        "bytes": 305253,
+        "sha256": "7375e462d7bfe21ccfe9ce7f7be4590b6cd416bf0be81c8a91a337b0cf657e75",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Page 1/8 Safety Data Sheet (SDS) OSHA Hazard Communication Standard 29 CFR 1910.1200. Prepared to GHS Rev 2/16. Reviewed on 02/15/16 37.1.0 1 Product and Company Identification · Product identifier ·Trade name: Smark Base \"Fill Me\" ·Article"
+      }
+    },
+    {
+      "csvRow": 703,
+      "sku": "SIM-000000717",
+      "name": "Smark Dry Erase Paint Clear 200 Sq Ft",
+      "brand": "Simiron",
+      "variant": "Simiron Smark Pour Me Activator component",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://smarkpaint.com/wp-content/uploads/2022/08/Smark-Activator-Pour-Me_SDS-1.pdf",
+      "file": "PDFs/SDS/simiron-Simiron-Smark-Pour-Me-Activator-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/simiron-Simiron-Smark-Pour-Me-Activator-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/simiron-Simiron-Smark-Pour-Me-Activator-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/simiron-Simiron-Smark-Pour-Me-Activator-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Simiron",
+        "product": "Smark Dry Erase Paint Clear 200 Sq Ft",
+        "variant": "Simiron Smark Pour Me Activator component",
+        "pages": 9,
+        "bytes": 327570,
+        "sha256": "ee186dd741c1b22d7c2d6be23938c27736dde2db1a5d1d3ff15dc2533b2855cc",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Page 1/9 Safety Data Sheet (SDS) OSHA Hazard Communication Standard 29 CFR 1910.1200. Prepared to GHS Rev 2/16. Reviewed on 02/15/16 37.1.0 1 Product and Company Identification · Product identifier ·Trade name: Smark Activator \"Pour Me\" ·Ar"
+      }
+    },
+    {
+      "csvRow": 703,
+      "sku": "SIM-000000717",
+      "name": "Smark Dry Erase Paint Clear 200 Sq Ft",
+      "brand": "Simiron",
+      "variant": "Simiron Smark Clear Dry Erase Paint - includes 200 sq. ft. kit 40002930",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://simiron.com/wp-content/uploads/2022/03/SIM_Smark_ProductDataSheet_8.5x11_021622_vFIN7.pdf",
+      "file": "PDFs/TDS/simiron-Simiron-Smark-Clear-Dry-Erase-Paint-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/simiron-Simiron-Smark-Clear-Dry-Erase-Paint-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/simiron-Simiron-Smark-Clear-Dry-Erase-Paint-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/simiron-Simiron-Smark-Clear-Dry-Erase-Paint-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Simiron",
+        "product": "Smark Dry Erase Paint Clear 200 Sq Ft",
+        "variant": "Simiron Smark Clear Dry Erase Paint - includes 200 sq. ft. kit 40002930",
+        "pages": 3,
+        "bytes": 176888,
+        "sha256": "77e3ee519558dbdec2513789b4497de3989e26d2217b430ba484394effa2d323",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "PRODUCT DATA SHEET Edition 2/2022 Version 001SMARK! ™ CLEAR DRY ERASE PAINT SIMIRON | SMARK!™ CLEAR DRY ERASE PAINT PAGE 1 OF 3 866.515.8775 | SIMIRON.COM PRODUCT DESCRIPTION Smark!™ is a two-component dry erase paint that is easy to use an"
+      }
+    }
+  ]
+}
