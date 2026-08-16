@@ -1,0 +1,339 @@
+{
+  "batch": "133-136",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 501,
+      "sku": "KIL-000000515",
+      "name": "Kilz Low Voc Spray Can",
+      "brand": "KILZ",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact current SDS found from reputable supplier; manufacturer TDS endpoint currently unavailable",
+      "researchNotes": "The row image matches KILZ ORIGINAL LOW ODOR Interior Aerosol Primer No. 1044 / retail item 10444. KILZ lists the exact TDS, but its currently indexed PDF endpoints return not found, so the TDS columns remain blank for a later retry. The manufacturer's SDS selector routes through a third-party document service without an accessible direct PDF; the current exact SDS is therefore saved from PaintSupply and recorded in SDS Other rather than mislabelled as manufacturer-hosted.",
+      "sds": [
+        {
+          "csvRow": 501,
+          "sku": "KIL-000000515",
+          "name": "Kilz Low Voc Spray Can",
+          "brand": "KILZ",
+          "variant": "KILZ Original Low Odor Interior Primer Aerosol 1044",
+          "documentType": "SDS",
+          "sourceType": "Other",
+          "sourceUrl": "https://www.paintsupply.com/wp-content/uploads/KILZ_051652104448_SDS_0626-4.pdf",
+          "file": "PDFs/SDS/kilz-Original-Low-Odor-Interior-Primer-Aerosol-1044-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/kilz-Original-Low-Odor-Interior-Primer-Aerosol-1044-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/kilz-Original-Low-Odor-Interior-Primer-Aerosol-1044-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 502,
+      "sku": "MEO-000000516",
+      "name": "Tonachino Firenze White",
+      "brand": "Meoded",
+      "category": "Specialty & Decorative Products > Meoded Plasters",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "Meoded's current manufacturer technical-data page publishes exact SDS and TDS files for Tonachino Firenze, including the white tint represented by this row.",
+      "sds": [
+        {
+          "csvRow": 502,
+          "sku": "MEO-000000516",
+          "name": "Tonachino Firenze White",
+          "brand": "Meoded",
+          "variant": "Tonachino Firenze",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2023/03/Tonachino-Firenze-Master-SDS-2023.pdf",
+          "file": "PDFs/SDS/meoded-Tonachino-Firenze-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Tonachino-Firenze-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/meoded-Tonachino-Firenze-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 502,
+          "sku": "MEO-000000516",
+          "name": "Tonachino Firenze White",
+          "brand": "Meoded",
+          "variant": "Tonachino Firenze",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2023/03/Tonachino-Firenze-TDS.pdf",
+          "file": "PDFs/TDS/meoded-Tonachino-Firenze-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Tonachino-Firenze-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/meoded-Tonachino-Firenze-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 503,
+      "sku": "MEO-000000517",
+      "name": "Stucco Lamundo",
+      "brand": "Meoded",
+      "category": "Specialty & Decorative Products > Meoded Plasters",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "Meoded's current manufacturer technical-data page publishes exact SDS and TDS files for Stucco Lamundo Venetian plaster.",
+      "sds": [
+        {
+          "csvRow": 503,
+          "sku": "MEO-000000517",
+          "name": "Stucco Lamundo",
+          "brand": "Meoded",
+          "variant": "Stucco Lamundo",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2023/03/Stucco-Lamundo-Master-SDS-2023.pdf",
+          "file": "PDFs/SDS/meoded-Stucco-Lamundo-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Stucco-Lamundo-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/meoded-Stucco-Lamundo-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 503,
+          "sku": "MEO-000000517",
+          "name": "Stucco Lamundo",
+          "brand": "Meoded",
+          "variant": "Stucco Lamundo",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2023/03/Stucco-Lamundo-TDS.pdf",
+          "file": "PDFs/TDS/meoded-Stucco-Lamundo-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Stucco-Lamundo-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/meoded-Stucco-Lamundo-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 504,
+      "sku": "MEO-000000518",
+      "name": "Meoded Stain Shield Sealer",
+      "brand": "Meoded",
+      "category": "Specialty & Decorative Products > Meoded Plasters",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "Meoded's manufacturer technical-data page publishes the Stain Shield SDS and TDS. The product page's older 'SDS available upon request' note is superseded by the published manufacturer file.",
+      "sds": [
+        {
+          "csvRow": 504,
+          "sku": "MEO-000000518",
+          "name": "Meoded Stain Shield Sealer",
+          "brand": "Meoded",
+          "variant": "Stain Shield Sealer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2024/05/Stain-Shield-SDS.pdf",
+          "file": "PDFs/SDS/meoded-Stain-Shield-Sealer-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Stain-Shield-Sealer-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/meoded-Stain-Shield-Sealer-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 504,
+          "sku": "MEO-000000518",
+          "name": "Meoded Stain Shield Sealer",
+          "brand": "Meoded",
+          "variant": "Stain Shield Sealer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2026/07/Stain-Shield-TDS.pdf",
+          "file": "PDFs/TDS/meoded-Stain-Shield-Sealer-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Stain-Shield-Sealer-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/meoded-Stain-Shield-Sealer-TDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 501,
+      "sku": "KIL-000000515",
+      "name": "Kilz Low Voc Spray Can",
+      "brand": "KILZ",
+      "variant": "KILZ Original Low Odor Interior Primer Aerosol 1044",
+      "documentType": "SDS",
+      "sourceType": "Other",
+      "sourceUrl": "https://www.paintsupply.com/wp-content/uploads/KILZ_051652104448_SDS_0626-4.pdf",
+      "file": "PDFs/SDS/kilz-Original-Low-Odor-Interior-Primer-Aerosol-1044-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/kilz-Original-Low-Odor-Interior-Primer-Aerosol-1044-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/kilz-Original-Low-Odor-Interior-Primer-Aerosol-1044-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/kilz-Original-Low-Odor-Interior-Primer-Aerosol-1044-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "KILZ",
+        "product": "Kilz Low Voc Spray Can",
+        "variant": "KILZ Original Low Odor Interior Primer Aerosol 1044",
+        "pages": 10,
+        "bytes": 308713,
+        "sha256": "38f491cea166d5633e95f0ba08c1a9ad3e130452fbd4c0d5c267ef72d92c8542",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET 1. Identification KILZ® Original Low Odor Interior Primer - AerosolProduct identifier Other means of identification 10444Product code Architectural CoatingRecommended use Uses other than the recommended use.Recommended res"
+      }
+    },
+    {
+      "csvRow": 502,
+      "sku": "MEO-000000516",
+      "name": "Tonachino Firenze White",
+      "brand": "Meoded",
+      "variant": "Tonachino Firenze",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2023/03/Tonachino-Firenze-Master-SDS-2023.pdf",
+      "file": "PDFs/SDS/meoded-Tonachino-Firenze-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Tonachino-Firenze-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/meoded-Tonachino-Firenze-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Tonachino-Firenze-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Meoded",
+        "product": "Tonachino Firenze White",
+        "variant": "Tonachino Firenze",
+        "pages": 11,
+        "bytes": 345837,
+        "sha256": "f89ef206a3e1b9a11bb665fb72def828d55c607625e00b5758382953c84c6984",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "1.1 : : : 1.2 : : 1.3 : : : : : : 1.4 : SECTION 2: HAZARDS IDENTIFICATION 2.1 : 2.2 : : Danger : H335 : H350 : H370 Precautionary statement(s) (GHS-US) : P201 : P202 : P260 : P280 : P302+P352 : P305+351 Page 1 of 11 Tonachino Firenze Hazard"
+      }
+    },
+    {
+      "csvRow": 502,
+      "sku": "MEO-000000516",
+      "name": "Tonachino Firenze White",
+      "brand": "Meoded",
+      "variant": "Tonachino Firenze",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2023/03/Tonachino-Firenze-TDS.pdf",
+      "file": "PDFs/TDS/meoded-Tonachino-Firenze-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Tonachino-Firenze-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/meoded-Tonachino-Firenze-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Tonachino-Firenze-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Meoded",
+        "product": "Tonachino Firenze White",
+        "variant": "Tonachino Firenze",
+        "pages": 3,
+        "bytes": 120453,
+        "sha256": "e8cce86f6d521c01015465f653798b6953daae5d22a2d4b80f3d624b5b464daa",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Manufactured by Meoded Paints & Decoration 6314 Santa Monica Blvd., Los Angeles, CA 90038 1-323-308-2600 | www.meodedPaint.com Tonachino Firenze™ Sand Finish Plaster Zero VOC / Eco Friendly Meoded Tonachino Firenze™ is a natural lime and ma"
+      }
+    },
+    {
+      "csvRow": 503,
+      "sku": "MEO-000000517",
+      "name": "Stucco Lamundo",
+      "brand": "Meoded",
+      "variant": "Stucco Lamundo",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2023/03/Stucco-Lamundo-Master-SDS-2023.pdf",
+      "file": "PDFs/SDS/meoded-Stucco-Lamundo-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Stucco-Lamundo-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/meoded-Stucco-Lamundo-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Stucco-Lamundo-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Meoded",
+        "product": "Stucco Lamundo",
+        "variant": "Stucco Lamundo",
+        "pages": 10,
+        "bytes": 337369,
+        "sha256": "e43e63d45cd395e13c592c04be6cb4a55780c1f4e4bb3e685e5bbdfe3518ed85",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "1.1 : : : 1.2 : : 1.3 : : : : : : 1.4 : SECTION 2: HAZARDS IDENTIFICATION 2.1 : 2.2 : : Danger : H361 : H318 : H315 : H335 Precautionary statement(s) (GHS-US) : P101 : P102 : P201 Obtain special instructions before use. : P284 Page 1 of 10 "
+      }
+    },
+    {
+      "csvRow": 503,
+      "sku": "MEO-000000517",
+      "name": "Stucco Lamundo",
+      "brand": "Meoded",
+      "variant": "Stucco Lamundo",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2023/03/Stucco-Lamundo-TDS.pdf",
+      "file": "PDFs/TDS/meoded-Stucco-Lamundo-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Stucco-Lamundo-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/meoded-Stucco-Lamundo-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Stucco-Lamundo-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Meoded",
+        "product": "Stucco Lamundo",
+        "variant": "Stucco Lamundo",
+        "pages": 3,
+        "bytes": 120336,
+        "sha256": "f3ac487947e3081f48167b00b7cbe03153e481140551c4a0c685bf47624e8baa",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Manufactured by Meoded Paints & Decoration 6314 Santa Monica Blvd., Los Angeles, CA 90038 1-323-308-2600 | www.meodedPaint.com Stucco Lamundo™ Venetian Plaster - Gloss Finish Zero VOC / Eco Friendly Meoded Stucco Lamundo™ is a genuine lime-"
+      }
+    },
+    {
+      "csvRow": 504,
+      "sku": "MEO-000000518",
+      "name": "Meoded Stain Shield Sealer",
+      "brand": "Meoded",
+      "variant": "Stain Shield Sealer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2024/05/Stain-Shield-SDS.pdf",
+      "file": "PDFs/SDS/meoded-Stain-Shield-Sealer-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Stain-Shield-Sealer-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/meoded-Stain-Shield-Sealer-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/meoded-Stain-Shield-Sealer-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Meoded",
+        "product": "Meoded Stain Shield Sealer",
+        "variant": "Stain Shield Sealer",
+        "pages": 7,
+        "bytes": 495707,
+        "sha256": "c2915948127a1d6020282427c49f356a9e6fbc87ea628e3a3d0d7777472b9e49",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET Prepared to U.S. OSHA, CMA, ANSI, Canadian WHMIS Standards, and European Directives Stain Shield SECTION 1 - PRODUCT AND COMPANY IDENTIFICATION 1.1 Trade Name (as labeled): Stain Shield IDH #: 950 Synonyms: N/A CAS No: Mix"
+      }
+    },
+    {
+      "csvRow": 504,
+      "sku": "MEO-000000518",
+      "name": "Meoded Stain Shield Sealer",
+      "brand": "Meoded",
+      "variant": "Stain Shield Sealer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://meodedpaint.com/wp-content/uploads/2026/07/Stain-Shield-TDS.pdf",
+      "file": "PDFs/TDS/meoded-Stain-Shield-Sealer-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Stain-Shield-Sealer-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/meoded-Stain-Shield-Sealer-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/meoded-Stain-Shield-Sealer-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Meoded",
+        "product": "Meoded Stain Shield Sealer",
+        "variant": "Stain Shield Sealer",
+        "pages": 2,
+        "bytes": 123683,
+        "sha256": "3ba25aa1c90c9d9afe20756b7cc57bdc1707cba6a69422601107abba3fb3813f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Stain Shield “Natural Look” Penetrating Sealer Interior/Exterior Stain Shield is a “State-of-the-Art” premium, oil and water repellent sealer. It maintains a “Natural Look” appearance without changing color, texture, or adding any sheen whi"
+      }
+    }
+  ]
+}
