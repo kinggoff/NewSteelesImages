@@ -1,0 +1,606 @@
+{
+  "batch": "159-164",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 559,
+      "sku": "REC-000000573",
+      "name": "Recochem Boiled Linseed Oil Dynamic",
+      "brand": "Recochem",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and application brochure found",
+      "researchNotes": "The row image is Solvable Professional Grade Boiled Linseed Oil in the 3.78 L package, item 53-404. Solvable's current manufacturer SDS explicitly covers 53-404, and Recochem's exact product brochure provides surface, mixing, application, drying, and protection directions.",
+      "sds": [
+        {
+          "csvRow": 559,
+          "sku": "REC-000000573",
+          "name": "Recochem Boiled Linseed Oil Dynamic",
+          "brand": "Recochem",
+          "variant": "Solvable Boiled Linseed Oil 53-404",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://solvableworks.com/wp-content/uploads/2025/05/53-401-Boiled-Linseed-Oil-EN.pdf",
+          "file": "PDFs/SDS/recochem-Solvable-Boiled-Linseed-Oil-53-404-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/recochem-Solvable-Boiled-Linseed-Oil-53-404-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/recochem-Solvable-Boiled-Linseed-Oil-53-404-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 559,
+          "sku": "REC-000000573",
+          "name": "Recochem Boiled Linseed Oil Dynamic",
+          "brand": "Recochem",
+          "variant": "Solvable Boiled Linseed Oil",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.recochem.com/wp-content/uploads/2021/07/Solvable-Boiled-Linseed-Oil_CANADA_ENGLISH_Brochure-1.pdf",
+          "file": "PDFs/TDS/recochem-Solvable-Boiled-Linseed-Oil-Application-Brochure-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/recochem-Solvable-Boiled-Linseed-Oil-Application-Brochure-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/recochem-Solvable-Boiled-Linseed-Oil-Application-Brochure-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 560,
+      "sku": "PEN-000000574",
+      "name": "Penofin Ultra Premium Red Label - Sable",
+      "brand": "Penofin",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and data sheet found",
+      "researchNotes": "The row image shows the classic Ultra Premium Red Label Penetrating Oil Finish gallon without a low-VOC marking. Penofin's standard 550 VOC Red Label SDS and the manufacturer family data sheet are retained; both cover the Sable tone named in the row.",
+      "sds": [
+        {
+          "csvRow": 560,
+          "sku": "PEN-000000574",
+          "name": "Penofin Ultra Premium Red Label - Sable",
+          "brand": "Penofin",
+          "variant": "Penofin Ultra Premium Red Label Sable - 550 VOC",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://penofin.com/pdf/msds/Penofin_550_VOC_Red_Label_Ultra-Premium_Formula.pdf",
+          "file": "PDFs/SDS/penofin-Penofin-Ultra-Premium-Red-Label-Sable-550-VOC-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Ultra-Premium-Red-Label-Sable-550-VOC-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/penofin-Penofin-Ultra-Premium-Red-Label-Sable-550-VOC-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 560,
+          "sku": "PEN-000000574",
+          "name": "Penofin Ultra Premium Red Label - Sable",
+          "brand": "Penofin",
+          "variant": "Penofin Ultra Premium Red Label",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://penofin.com/pdf/ds/ds-red-label.pdf",
+          "file": "PDFs/TDS/penofin-Penofin-Ultra-Premium-Red-Label-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Ultra-Premium-Red-Label-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/penofin-Penofin-Ultra-Premium-Red-Label-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 561,
+      "sku": "PEN-000000575",
+      "name": "Penofin Tsf Teak Satin Finish",
+      "brand": "Penofin",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS set and data sheet found",
+      "researchNotes": "The manufacturer identifies this as Architectural Grade TSF Hardwood Transparent Satin Finish. The legacy row calls the tone 'Teak' while Penofin currently publishes Natural and Ipe tones, and the generic row image does not identify either; both exact tone SDS files are therefore retained with the shared manufacturer technical sheet.",
+      "sds": [
+        {
+          "csvRow": 561,
+          "sku": "PEN-000000575",
+          "name": "Penofin Tsf Teak Satin Finish",
+          "brand": "Penofin",
+          "variant": "Penofin Architectural Grade TSF Hardwood - Natural",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://penofin.com/pdf/sds/SDS-penofin-architectural-grade-hardwood-tmf-tsf-natural.pdf",
+          "file": "PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Natural-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Natural-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Natural-SDS.pdf?raw=true"
+        },
+        {
+          "csvRow": 561,
+          "sku": "PEN-000000575",
+          "name": "Penofin Tsf Teak Satin Finish",
+          "brand": "Penofin",
+          "variant": "Penofin Architectural Grade TSF Hardwood - Ipe",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://penofin.com/pdf/sds/SDS-penofin-architectural-grade-hardwood-tmf-tsf-ipe.pdf",
+          "file": "PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Ipe-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Ipe-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Ipe-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 561,
+          "sku": "PEN-000000575",
+          "name": "Penofin Tsf Teak Satin Finish",
+          "brand": "Penofin",
+          "variant": "Penofin Architectural Grade TSF Hardwood",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://penofin.com/pdf/ds/DS-penofin-architectural-grade-hardwood-technical.pdf",
+          "file": "PDFs/TDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 562,
+      "sku": "PEN-000000576",
+      "name": "Penofin Exterior Exotic Hardwood Finish",
+      "brand": "Penofin",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and data sheet found",
+      "researchNotes": "The row image is Penofin's classic Exterior Hardwood Formula quart without a low-VOC marking. Penofin's standard 550 VOC Hardwood Formula SDS and the exact manufacturer family data sheet cover both quart and gallon variants listed in the row.",
+      "sds": [
+        {
+          "csvRow": 562,
+          "sku": "PEN-000000576",
+          "name": "Penofin Exterior Exotic Hardwood Finish",
+          "brand": "Penofin",
+          "variant": "Penofin Exterior Hardwood Formula - 550 VOC",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://penofin.com/pdf/msds/Penofin_550_VOC_Hardwood_Formula.pdf",
+          "file": "PDFs/SDS/penofin-Penofin-Exterior-Hardwood-Formula-550-VOC-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Exterior-Hardwood-Formula-550-VOC-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/penofin-Penofin-Exterior-Hardwood-Formula-550-VOC-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 562,
+          "sku": "PEN-000000576",
+          "name": "Penofin Exterior Exotic Hardwood Finish",
+          "brand": "Penofin",
+          "variant": "Penofin Exterior Hardwood Formula",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://penofin.com/pdf/ds/DS-hardwood.pdf",
+          "file": "PDFs/TDS/penofin-Penofin-Exterior-Hardwood-Formula-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Exterior-Hardwood-Formula-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/penofin-Penofin-Exterior-Hardwood-Formula-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 580,
+      "sku": "OLY-000000594",
+      "name": "Olympic Rescue It! Wood & Concrete Resur",
+      "brand": "Olympic",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The row image matches Olympic Rescue It! Moderate Restoration Resurfacer + Sealant in the five-gallon tint-base package, code 79705. Olympic's current manufacturer data table maps that package to SDS code 00474092. Its currently advertised TDS endpoint returns not found, so the exact PPG/Olympic product-data bulletin for model 79705 is retained from PPG's manufacturer document library.",
+      "sds": [
+        {
+          "csvRow": 580,
+          "sku": "OLY-000000594",
+          "name": "Olympic Rescue It! Wood & Concrete Resur",
+          "brand": "Olympic",
+          "variant": "Olympic Rescue It Moderate Restoration 79705 Five Gallon",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00474092_EN_CA.pdf",
+          "file": "PDFs/SDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 580,
+          "sku": "OLY-000000594",
+          "name": "Olympic Rescue It! Wood & Concrete Resur",
+          "brand": "Olympic",
+          "variant": "Olympic Rescue It Moderate Restoration 79705 Five Gallon",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://buyat.ppg.com/rep_pafpainttools_files/Olympic/TDB/79705.pdf",
+          "file": "PDFs/TDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 581,
+      "sku": "OLY-000000595",
+      "name": "Olympic Maximum Semi Trans Hybrid Stain Neu",
+      "brand": "Olympic",
+      "category": "Paints > Stains & Varnishes",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The row image is Olympic Maximum Semi-Transparent tintable neutral base in a five-gallon Canadian package. Olympic's current manufacturer table maps 79560C five gallon to document code 00402345; the Canadian English SDS and TDS are retained.",
+      "sds": [
+        {
+          "csvRow": 581,
+          "sku": "OLY-000000595",
+          "name": "Olympic Maximum Semi Trans Hybrid Stain Neu",
+          "brand": "Olympic",
+          "variant": "Olympic Maximum Semi-Transparent Neutral Base 79560C Five Gallon",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00402345_EN_CA.pdf",
+          "file": "PDFs/SDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 581,
+          "sku": "OLY-000000595",
+          "name": "Olympic Maximum Semi Trans Hybrid Stain Neu",
+          "brand": "Olympic",
+          "variant": "Olympic Maximum Semi-Transparent Neutral Base 79560C Five Gallon",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00402345_EN_CA.pdf",
+          "file": "PDFs/TDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-TDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 559,
+      "sku": "REC-000000573",
+      "name": "Recochem Boiled Linseed Oil Dynamic",
+      "brand": "Recochem",
+      "variant": "Solvable Boiled Linseed Oil 53-404",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://solvableworks.com/wp-content/uploads/2025/05/53-401-Boiled-Linseed-Oil-EN.pdf",
+      "file": "PDFs/SDS/recochem-Solvable-Boiled-Linseed-Oil-53-404-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/recochem-Solvable-Boiled-Linseed-Oil-53-404-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/recochem-Solvable-Boiled-Linseed-Oil-53-404-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/recochem-Solvable-Boiled-Linseed-Oil-53-404-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Recochem",
+        "product": "Recochem Boiled Linseed Oil Dynamic",
+        "variant": "Solvable Boiled Linseed Oil 53-404",
+        "pages": 8,
+        "bytes": 54084,
+        "sha256": "42fc5c9fb2e53b8dbfac7427f2e05e589539173a7b302ca11bb8edad93c57818",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Linseed Oil Safety Data Sheet Product Identifier Linseed Oil Other Means of Identification 13-401, 13-404, 13-408, 13-731, 13-734, 23-409, 23-739, 83-401, 83-404, 83-734, 53-731, 53-404, 53-408, 53-401 Recochem Inc., 850 Montee de Liesse, M"
+      }
+    },
+    {
+      "csvRow": 559,
+      "sku": "REC-000000573",
+      "name": "Recochem Boiled Linseed Oil Dynamic",
+      "brand": "Recochem",
+      "variant": "Solvable Boiled Linseed Oil",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.recochem.com/wp-content/uploads/2021/07/Solvable-Boiled-Linseed-Oil_CANADA_ENGLISH_Brochure-1.pdf",
+      "file": "PDFs/TDS/recochem-Solvable-Boiled-Linseed-Oil-Application-Brochure-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/recochem-Solvable-Boiled-Linseed-Oil-Application-Brochure-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/recochem-Solvable-Boiled-Linseed-Oil-Application-Brochure-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/recochem-Solvable-Boiled-Linseed-Oil-Application-Brochure-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Recochem",
+        "product": "Recochem Boiled Linseed Oil Dynamic",
+        "variant": "Solvable Boiled Linseed Oil",
+        "pages": 2,
+        "bytes": 1677414,
+        "sha256": "89752e7a70ddf321370b03f7047d1dad0877dabfc2a1bcf56048b36074592a04",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "PROFESSIONAL GRADE BOILED LINSEED OIL BOILED_LINSEED_TRIFOLD_0120_ENBOILED_LINSEED_TRIFOLD_0120_EN Taking the guesswork out of your Linseed Oil projects solvableworks.com recochem.com From the leader in high quality solvents for over 65 yea"
+      }
+    },
+    {
+      "csvRow": 560,
+      "sku": "PEN-000000574",
+      "name": "Penofin Ultra Premium Red Label - Sable",
+      "brand": "Penofin",
+      "variant": "Penofin Ultra Premium Red Label Sable - 550 VOC",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://penofin.com/pdf/msds/Penofin_550_VOC_Red_Label_Ultra-Premium_Formula.pdf",
+      "file": "PDFs/SDS/penofin-Penofin-Ultra-Premium-Red-Label-Sable-550-VOC-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Ultra-Premium-Red-Label-Sable-550-VOC-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/penofin-Penofin-Ultra-Premium-Red-Label-Sable-550-VOC-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Ultra-Premium-Red-Label-Sable-550-VOC-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Penofin",
+        "product": "Penofin Ultra Premium Red Label - Sable",
+        "variant": "Penofin Ultra Premium Red Label Sable - 550 VOC",
+        "pages": 13,
+        "bytes": 296423,
+        "sha256": "1602af387a83713306f051319869d450cb57c602df0f2cb57dc42f2d71983694",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Page 1/13 Safety Data Sheet (SDS) OSHA HazCom Standard 29 CFR 1910.1200(g) and GHS Rev 03. Issue date 02/15/2018 Reviewed on 02/15/2018 44.3.7 1 Identification · Product Identifier · Trade name: Penofin 550 VOC Red Label Ultra-Premium Formu"
+      }
+    },
+    {
+      "csvRow": 560,
+      "sku": "PEN-000000574",
+      "name": "Penofin Ultra Premium Red Label - Sable",
+      "brand": "Penofin",
+      "variant": "Penofin Ultra Premium Red Label",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://penofin.com/pdf/ds/ds-red-label.pdf",
+      "file": "PDFs/TDS/penofin-Penofin-Ultra-Premium-Red-Label-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Ultra-Premium-Red-Label-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/penofin-Penofin-Ultra-Premium-Red-Label-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Ultra-Premium-Red-Label-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Penofin",
+        "product": "Penofin Ultra Premium Red Label - Sable",
+        "variant": "Penofin Ultra Premium Red Label",
+        "pages": 1,
+        "bytes": 271787,
+        "sha256": "1ad2b5bb8d73a0403b65f53c12998a082687c4f9ce5a58e57ac024205229fcb8",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "PENOFIN ULTRA PREMIUM RED LABEL: Red Label Penofin was created to meet the demand for an exterior wood finish that outperforms all other transparent stains. The highly -penetrating Brazilian Rosewood Oil base, from sustainably harvest- ed s"
+      }
+    },
+    {
+      "csvRow": 561,
+      "sku": "PEN-000000575",
+      "name": "Penofin Tsf Teak Satin Finish",
+      "brand": "Penofin",
+      "variant": "Penofin Architectural Grade TSF Hardwood - Natural",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://penofin.com/pdf/sds/SDS-penofin-architectural-grade-hardwood-tmf-tsf-natural.pdf",
+      "file": "PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Natural-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Natural-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Natural-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Natural-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Penofin",
+        "product": "Penofin Tsf Teak Satin Finish",
+        "variant": "Penofin Architectural Grade TSF Hardwood - Natural",
+        "pages": 9,
+        "bytes": 240386,
+        "sha256": "e3b90abeb1295f39076b45651c17a4ccc777cde405fffab81f63f8f3187f5102",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Page 1 / 9 SAFETY DATA SHEET (SDS) Revision date 02-28-2018 Version 4 Product identifier Product Trade Name PENOFIN ARCHITECTURAL GRADE HARDWOOD TMF & TSF - NATURAL Product Description Deep penetrating Oil, Water-Borne, Transparent Hardwood"
+      }
+    },
+    {
+      "csvRow": 561,
+      "sku": "PEN-000000575",
+      "name": "Penofin Tsf Teak Satin Finish",
+      "brand": "Penofin",
+      "variant": "Penofin Architectural Grade TSF Hardwood - Ipe",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://penofin.com/pdf/sds/SDS-penofin-architectural-grade-hardwood-tmf-tsf-ipe.pdf",
+      "file": "PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Ipe-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Ipe-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Ipe-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-Ipe-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Penofin",
+        "product": "Penofin Tsf Teak Satin Finish",
+        "variant": "Penofin Architectural Grade TSF Hardwood - Ipe",
+        "pages": 9,
+        "bytes": 186123,
+        "sha256": "2a37b998ee995437814f78af094dd64f94994ac4a113c40dd9a869388d71cda1",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Page 1 / 9 SAFETY DATA SHEET (SDS) Revision date 02-28-2018 Version 4 Product identifier Product Trade Name PENOFIN ARCHITECTURAL GRADE HARDWOOD TMF & TSF - IPE Product Description Deep penetrating Oil, Water-Borne, Transparent Hardwood Coa"
+      }
+    },
+    {
+      "csvRow": 561,
+      "sku": "PEN-000000575",
+      "name": "Penofin Tsf Teak Satin Finish",
+      "brand": "Penofin",
+      "variant": "Penofin Architectural Grade TSF Hardwood",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://penofin.com/pdf/ds/DS-penofin-architectural-grade-hardwood-technical.pdf",
+      "file": "PDFs/TDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Architectural-Grade-TSF-Hardwood-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Penofin",
+        "product": "Penofin Tsf Teak Satin Finish",
+        "variant": "Penofin Architectural Grade TSF Hardwood",
+        "pages": 1,
+        "bytes": 282257,
+        "sha256": "f23e88b3c998efb216ed3080dce8e6c1a7e3af5eaafeeddf1972fe9eaa1d845a",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "PENOFIN ARCHITECTURAL GRADE TRANSPARENT MATTE & SATIN HARDWOOD COATING delivers the highest level of quality, protec- tion, and beauty. Designed to provide a protective yet breathable water and UV resistant barrier that enhances and preserv"
+      }
+    },
+    {
+      "csvRow": 562,
+      "sku": "PEN-000000576",
+      "name": "Penofin Exterior Exotic Hardwood Finish",
+      "brand": "Penofin",
+      "variant": "Penofin Exterior Hardwood Formula - 550 VOC",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://penofin.com/pdf/msds/Penofin_550_VOC_Hardwood_Formula.pdf",
+      "file": "PDFs/SDS/penofin-Penofin-Exterior-Hardwood-Formula-550-VOC-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Exterior-Hardwood-Formula-550-VOC-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/penofin-Penofin-Exterior-Hardwood-Formula-550-VOC-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/penofin-Penofin-Exterior-Hardwood-Formula-550-VOC-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Penofin",
+        "product": "Penofin Exterior Exotic Hardwood Finish",
+        "variant": "Penofin Exterior Hardwood Formula - 550 VOC",
+        "pages": 13,
+        "bytes": 660423,
+        "sha256": "086c24b776c9093f45c08cb7363995071fc96ba2d527e24653ffce9fb72d5e67",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Page 1/13 Safety Data Sheet (SDS) OSHA HazCom Standard 29 CFR 1910.1200(g) and GHS Rev 03. Issue date 02/15/2018 Reviewed on 02/15/2018 44.3.7 1 Identification · Product Identifier · Trade name: Penofin 550 VOC Hardwood Formula · Relevant i"
+      }
+    },
+    {
+      "csvRow": 562,
+      "sku": "PEN-000000576",
+      "name": "Penofin Exterior Exotic Hardwood Finish",
+      "brand": "Penofin",
+      "variant": "Penofin Exterior Hardwood Formula",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://penofin.com/pdf/ds/DS-hardwood.pdf",
+      "file": "PDFs/TDS/penofin-Penofin-Exterior-Hardwood-Formula-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Exterior-Hardwood-Formula-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/penofin-Penofin-Exterior-Hardwood-Formula-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/penofin-Penofin-Exterior-Hardwood-Formula-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Penofin",
+        "product": "Penofin Exterior Exotic Hardwood Finish",
+        "variant": "Penofin Exterior Hardwood Formula",
+        "pages": 1,
+        "bytes": 286695,
+        "sha256": "8ca2cb2ed6e730e714b7836d324ea502a4940de4d3179e97147479e49c2d985a",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "PENOFIN FOR HARDWOOD: Only Penofin’s Hardwood Finish can penetrate dense hardwoods that need nourishing and stabilizing. This unique formula penetrates deep into the wood fibers and does not create a surface film. Unlike high-solid stains t"
+      }
+    },
+    {
+      "csvRow": 580,
+      "sku": "OLY-000000594",
+      "name": "Olympic Rescue It! Wood & Concrete Resur",
+      "brand": "Olympic",
+      "variant": "Olympic Rescue It Moderate Restoration 79705 Five Gallon",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00474092_EN_CA.pdf",
+      "file": "PDFs/SDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Olympic",
+        "product": "Olympic Rescue It! Wood & Concrete Resur",
+        "variant": "Olympic Rescue It Moderate Restoration 79705 Five Gallon",
+        "pages": 14,
+        "bytes": 134782,
+        "sha256": "3f4a6c5b4b00a34835fa17d4a0681ca2c6c2e1a6ea0a47dd86ff854e77fd998e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "79705 OLYMPIC RESCUE IT! - RESURFACER + PRIMER + SEALANT IN ONE BASE 2Not available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:00474092 Date of issue/Date of rev"
+      }
+    },
+    {
+      "csvRow": 580,
+      "sku": "OLY-000000594",
+      "name": "Olympic Rescue It! Wood & Concrete Resur",
+      "brand": "Olympic",
+      "variant": "Olympic Rescue It Moderate Restoration 79705 Five Gallon",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://buyat.ppg.com/rep_pafpainttools_files/Olympic/TDB/79705.pdf",
+      "file": "PDFs/TDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/olympic-Olympic-Rescue-It-Moderate-Restoration-79705-Five-Gallon-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Olympic",
+        "product": "Olympic Rescue It! Wood & Concrete Resur",
+        "variant": "Olympic Rescue It Moderate Restoration 79705 Five Gallon",
+        "pages": 2,
+        "bytes": 38964,
+        "sha256": "fd2d3f652fdea705ab257b0ec95f7bea12206d7f523c1af5bc1b0f49c397e693",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "OLYMPIC RESCUE IT!® Moderate Restoration Resurfacer + Sealant In One GENERAL DESCRIPTION PRODUCT DATARECOMMENDED SUBSTRATES FEATURES / BENEFITS OLYMPIC RESCUE IT! Moderate Resurfacer + Sealant in One is designed for application on aged roug"
+      }
+    },
+    {
+      "csvRow": 581,
+      "sku": "OLY-000000595",
+      "name": "Olympic Maximum Semi Trans Hybrid Stain Neu",
+      "brand": "Olympic",
+      "variant": "Olympic Maximum Semi-Transparent Neutral Base 79560C Five Gallon",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/SDS/SDS_00402345_EN_CA.pdf",
+      "file": "PDFs/SDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Olympic",
+        "product": "Olympic Maximum Semi Trans Hybrid Stain Neu",
+        "variant": "Olympic Maximum Semi-Transparent Neutral Base 79560C Five Gallon",
+        "pages": 13,
+        "bytes": 128421,
+        "sha256": "03a3903a016de792fde36020e6aed515d8a926666839bf799f68788b55227326",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "79560C OLYMPIC MAXIMUM D/F/S STAIN SEMI-TRANSPARENT-NEUTRAL BASENot available.Liquid. SAFETY DATA SHEET Product nameOther means of identificationProduct type Section 1. Identification::: Product code:00402345 Date of issue/Date of revision7"
+      }
+    },
+    {
+      "csvRow": 581,
+      "sku": "OLY-000000595",
+      "name": "Olympic Maximum Semi Trans Hybrid Stain Neu",
+      "brand": "Olympic",
+      "variant": "Olympic Maximum Semi-Transparent Neutral Base 79560C Five Gallon",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://ppcdatasheets.z20.web.core.windows.net/TDS/TDS_00402345_EN_CA.pdf",
+      "file": "PDFs/TDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/olympic-Olympic-Maximum-Semi-Transparent-Neutral-79560C-Five-Gallon-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Olympic",
+        "product": "Olympic Maximum Semi Trans Hybrid Stain Neu",
+        "variant": "Olympic Maximum Semi-Transparent Neutral Base 79560C Five Gallon",
+        "pages": 3,
+        "bytes": 479741,
+        "sha256": "4f9304111de6d8972c4cbd84e2cfbe9e168415cdc84d40e514963e49966feacf",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Architectural Coatings Stain + Sealer Semi-transparent GENERAL DESCRIPTION RECOMMENDED SUBSTRATES PRODUCT DATA PACKAGING OLYMPIC MAXIMUM Semi-Transparent Stain and Sealer provides a subtle colour that allows wood’s natural grain and texture"
+      }
+    }
+  ]
+}
