@@ -1,0 +1,339 @@
+{
+  "batch": "126-129",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 486,
+      "sku": "KRY-000000500",
+      "name": "Krylon Fusion Satin Black",
+      "brand": "Krylon",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS and PDS found",
+      "researchNotes": "Krylon's official Fusion All-In-One product table identifies Satin Black as K02732007 / UPC 724504127321 and links directly to its manufacturer SDS and product data sheet.",
+      "sds": [
+        {
+          "csvRow": 486,
+          "sku": "KRY-000000500",
+          "name": "Krylon Fusion Satin Black",
+          "brand": "Krylon",
+          "variant": "Fusion All-In-One Satin Black K02732007",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504127321",
+          "file": "PDFs/SDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 486,
+          "sku": "KRY-000000500",
+          "name": "Krylon Fusion Satin Black",
+          "brand": "Krylon",
+          "variant": "Fusion All-In-One Satin Black K02732007",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&doctype=PDS&lang=2&prodno=724504127321",
+          "file": "PDFs/TDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-PDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-PDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-PDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 487,
+      "sku": "KRY-000000501",
+      "name": "Krylon Fusion Metallic Gold",
+      "brand": "Krylon",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS found; no separate TDS published",
+      "researchNotes": "Krylon's official Fusion All-In-One Metallic product table identifies Metallic Gold as K02770007 / UPC 724504127703 and links to its exact manufacturer SDS. Krylon does not publish a separate PDS/TDS link for the metallic colour, so the TDS columns remain blank rather than treating a broad catalogue as a product data sheet.",
+      "sds": [
+        {
+          "csvRow": 487,
+          "sku": "KRY-000000501",
+          "name": "Krylon Fusion Metallic Gold",
+          "brand": "Krylon",
+          "variant": "Fusion All-In-One Metallic Gold K02770007",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504127703",
+          "file": "PDFs/SDS/krylon-Fusion-All-In-One-Metallic-Gold-K02770007-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Metallic-Gold-K02770007-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Fusion-All-In-One-Metallic-Gold-K02770007-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 488,
+      "sku": "KRY-000000502",
+      "name": "Krylon Fusion Gloss Black",
+      "brand": "Krylon",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS and PDS found",
+      "researchNotes": "Krylon's official Fusion All-In-One product table identifies Gloss Black as K02702007 / UPC 724504027027 and links directly to its manufacturer SDS and product data sheet.",
+      "sds": [
+        {
+          "csvRow": 488,
+          "sku": "KRY-000000502",
+          "name": "Krylon Fusion Gloss Black",
+          "brand": "Krylon",
+          "variant": "Fusion All-In-One Gloss Black K02702007",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504027027",
+          "file": "PDFs/SDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 488,
+          "sku": "KRY-000000502",
+          "name": "Krylon Fusion Gloss Black",
+          "brand": "Krylon",
+          "variant": "Fusion All-In-One Gloss Black K02702007",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&doctype=PDS&lang=2&prodno=724504027027",
+          "file": "PDFs/TDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-PDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-PDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-PDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 489,
+      "sku": "KRY-000000503",
+      "name": "Krylon Fusion Flat Black",
+      "brand": "Krylon",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS and PDS found",
+      "researchNotes": "Krylon's official Fusion All-In-One product table identifies Flat Black as K02728007 / UPC 724504127284 and links directly to its manufacturer SDS and product data sheet.",
+      "sds": [
+        {
+          "csvRow": 489,
+          "sku": "KRY-000000503",
+          "name": "Krylon Fusion Flat Black",
+          "brand": "Krylon",
+          "variant": "Fusion All-In-One Flat Black K02728007",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504127284",
+          "file": "PDFs/SDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 489,
+          "sku": "KRY-000000503",
+          "name": "Krylon Fusion Flat Black",
+          "brand": "Krylon",
+          "variant": "Fusion All-In-One Flat Black K02728007",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&doctype=PDS&lang=2&prodno=724504127284",
+          "file": "PDFs/TDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-PDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-PDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-PDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 486,
+      "sku": "KRY-000000500",
+      "name": "Krylon Fusion Satin Black",
+      "brand": "Krylon",
+      "variant": "Fusion All-In-One Satin Black K02732007",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504127321",
+      "file": "PDFs/SDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Krylon",
+        "product": "Krylon Fusion Satin Black",
+        "variant": "Fusion All-In-One Satin Black K02732007",
+        "pages": 23,
+        "bytes": 191633,
+        "sha256": "005313a116729af432bfe75d978cd20a16308dcb20b7c3e51dabf1520cb503b8",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "KRYLON® Fusion SatinBlackNot available.Aerosol. US / Canada: (216) 566-2917Mexico: SETIQ 800-00-214-00 / 55-5559-1588 Available 24 hours and 365 days a year SAFETY DATA SHEET Product nameOther means of identificationProduct type Emergency t"
+      }
+    },
+    {
+      "csvRow": 486,
+      "sku": "KRY-000000500",
+      "name": "Krylon Fusion Satin Black",
+      "brand": "Krylon",
+      "variant": "Fusion All-In-One Satin Black K02732007",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&doctype=PDS&lang=2&prodno=724504127321",
+      "file": "PDFs/TDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-PDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-PDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-PDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Satin-Black-K02732007-PDS.pdf",
+        "documentType": "TDS",
+        "brand": "Krylon",
+        "product": "Krylon Fusion Satin Black",
+        "variant": "Fusion All-In-One Satin Black K02732007",
+        "pages": 1,
+        "bytes": 682250,
+        "sha256": "217ccaed3d54e50c76af54dc443e8e9614aa84c7def67a01943acaabceb2e159",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "FUSION ALL-IN-ONE™ Various Colors / Sheens PRODUCT DESCRIPTION APPLICATION CAUTIONS PAINTING CONDITIONS CHARACTERISTICS SURFACE PREPARATION PERFORMANCE TESTING Technical data furnished herein is accurate and true to the best of our knowledg"
+      }
+    },
+    {
+      "csvRow": 487,
+      "sku": "KRY-000000501",
+      "name": "Krylon Fusion Metallic Gold",
+      "brand": "Krylon",
+      "variant": "Fusion All-In-One Metallic Gold K02770007",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504127703",
+      "file": "PDFs/SDS/krylon-Fusion-All-In-One-Metallic-Gold-K02770007-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Metallic-Gold-K02770007-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Fusion-All-In-One-Metallic-Gold-K02770007-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Metallic-Gold-K02770007-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Krylon",
+        "product": "Krylon Fusion Metallic Gold",
+        "variant": "Fusion All-In-One Metallic Gold K02770007",
+        "pages": 24,
+        "bytes": 196350,
+        "sha256": "10ad0c2de6476cbd1053d67a34d1956b2430a108acb7679ec0239e7bde31f9e5",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "KRYLON® Fusion MetallicGoldNot available.Aerosol. US / Canada: (216) 566-2917Mexico: SETIQ 800-00-214-00 / 55-5559-1588 Available 24 hours and 365 days a year SAFETY DATA SHEET Product nameOther means of identificationProduct type Emergency"
+      }
+    },
+    {
+      "csvRow": 488,
+      "sku": "KRY-000000502",
+      "name": "Krylon Fusion Gloss Black",
+      "brand": "Krylon",
+      "variant": "Fusion All-In-One Gloss Black K02702007",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504027027",
+      "file": "PDFs/SDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Krylon",
+        "product": "Krylon Fusion Gloss Black",
+        "variant": "Fusion All-In-One Gloss Black K02702007",
+        "pages": 24,
+        "bytes": 192653,
+        "sha256": "16562802c9b2813c76a7dc377fee474e14ed7558e67b1a31e5afd5b94644a79e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "KRYLON® Fusion GlossBlackNot available.Aerosol. US / Canada: (216) 566-2917Mexico: SETIQ 800-00-214-00 / 55-5559-1588 Available 24 hours and 365 days a year SAFETY DATA SHEET Product nameOther means of identificationProduct type Emergency t"
+      }
+    },
+    {
+      "csvRow": 488,
+      "sku": "KRY-000000502",
+      "name": "Krylon Fusion Gloss Black",
+      "brand": "Krylon",
+      "variant": "Fusion All-In-One Gloss Black K02702007",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&doctype=PDS&lang=2&prodno=724504027027",
+      "file": "PDFs/TDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-PDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-PDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-PDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Gloss-Black-K02702007-PDS.pdf",
+        "documentType": "TDS",
+        "brand": "Krylon",
+        "product": "Krylon Fusion Gloss Black",
+        "variant": "Fusion All-In-One Gloss Black K02702007",
+        "pages": 1,
+        "bytes": 682250,
+        "sha256": "217ccaed3d54e50c76af54dc443e8e9614aa84c7def67a01943acaabceb2e159",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "FUSION ALL-IN-ONE™ Various Colors / Sheens PRODUCT DESCRIPTION APPLICATION CAUTIONS PAINTING CONDITIONS CHARACTERISTICS SURFACE PREPARATION PERFORMANCE TESTING Technical data furnished herein is accurate and true to the best of our knowledg"
+      }
+    },
+    {
+      "csvRow": 489,
+      "sku": "KRY-000000503",
+      "name": "Krylon Fusion Flat Black",
+      "brand": "Krylon",
+      "variant": "Fusion All-In-One Flat Black K02728007",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&cntry=US&doctype=SDS&lang=2&prodno=724504127284",
+      "file": "PDFs/SDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Krylon",
+        "product": "Krylon Fusion Flat Black",
+        "variant": "Fusion All-In-One Flat Black K02728007",
+        "pages": 21,
+        "bytes": 187532,
+        "sha256": "9ae9e9eff01eda54c5621f369761d7a530a7d60d1791405ff70c1d69950285d6",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "KRYLON® Fusion FlatBlackNot available.Aerosol. US / Canada: (216) 566-2917Mexico: SETIQ 800-00-214-00 / 55-5559-1588 Available 24 hours and 365 days a year SAFETY DATA SHEET Product nameOther means of identificationProduct type Emergency te"
+      }
+    },
+    {
+      "csvRow": 489,
+      "sku": "KRY-000000503",
+      "name": "Krylon Fusion Flat Black",
+      "brand": "Krylon",
+      "variant": "Fusion All-In-One Flat Black K02728007",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://paintdocs.com/docs/webPDF.jsp?SITEID=KRYLON&doctype=PDS&lang=2&prodno=724504127284",
+      "file": "PDFs/TDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-PDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-PDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-PDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/krylon-Fusion-All-In-One-Flat-Black-K02728007-PDS.pdf",
+        "documentType": "TDS",
+        "brand": "Krylon",
+        "product": "Krylon Fusion Flat Black",
+        "variant": "Fusion All-In-One Flat Black K02728007",
+        "pages": 1,
+        "bytes": 682250,
+        "sha256": "217ccaed3d54e50c76af54dc443e8e9614aa84c7def67a01943acaabceb2e159",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "FUSION ALL-IN-ONE™ Various Colors / Sheens PRODUCT DESCRIPTION APPLICATION CAUTIONS PAINTING CONDITIONS CHARACTERISTICS SURFACE PREPARATION PERFORMANCE TESTING Technical data furnished herein is accurate and true to the best of our knowledg"
+      }
+    }
+  ]
+}
