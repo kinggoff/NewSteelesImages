@@ -1,0 +1,327 @@
+{
+  "batch": "114-116",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 289,
+      "sku": "I-000000303",
+      "name": "Insl-X Sure Step Anti-Slip Coating - Knight Gray",
+      "brand": "Insl-X",
+      "category": "Paints > Exterior",
+      "researchStatus": "Manufacturer SDS and TDS found",
+      "researchNotes": "Exact Canadian Insl-X Sure Step Acrylic Anti-Slip Coating Flat documents. The SDS is specifically for Knight Gray NSU-1007FR, matching the product row; the manufacturer TDS covers the NSU-10XX product family.",
+      "sds": [
+        {
+          "csvRow": 289,
+          "sku": "I-000000303",
+          "name": "Insl-X Sure Step Anti-Slip Coating - Knight Gray",
+          "brand": "Insl-X",
+          "variant": "Knight Gray NSU-1007FR",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_NSU-10XX/NSU-1007FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/insl-x-NSU-1007FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-NSU-1007FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-NSU-1007FR_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 289,
+          "sku": "I-000000303",
+          "name": "Insl-X Sure Step Anti-Slip Coating - Knight Gray",
+          "brand": "Insl-X",
+          "variant": "Sure Step NSU-10XXFR",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_NSU-10XX/NSU-10XX_TDS_CAE.pdf",
+          "file": "PDFs/TDS/insl-x-NSU-10XX_TDS_CAE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-NSU-10XX_TDS_CAE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-NSU-10XX_TDS_CAE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 290,
+      "sku": "COR-000000304",
+      "name": "Coronado Rust-A-Void - Semi-Gloss White",
+      "brand": "Coronado",
+      "category": "Paints > Exterior",
+      "researchStatus": "Manufacturer SDS and TDS found",
+      "researchNotes": "Exact Canadian Coronado Rust-A-Void R13 Semi-Gloss Enamel documents. The R13-1FR white SDS matches the product row; the R13 technical data sheet is included.",
+      "sds": [
+        {
+          "csvRow": 290,
+          "sku": "COR-000000304",
+          "name": "Coronado Rust-A-Void - Semi-Gloss White",
+          "brand": "Coronado",
+          "variant": "R13-1FR Semi-Gloss White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_R13/R13-1FR_SDS_EN.pdf",
+          "file": "PDFs/SDS/coronado-R13-1FR_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/coronado-R13-1FR_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/coronado-R13-1FR_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 290,
+          "sku": "COR-000000304",
+          "name": "Coronado Rust-A-Void - Semi-Gloss White",
+          "brand": "Coronado",
+          "variant": "R13 Semi-Gloss",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_R13/R13_TDS_US.pdf",
+          "file": "PDFs/TDS/coronado-R13_TDS_US.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/coronado-R13_TDS_US.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/coronado-R13_TDS_US.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 292,
+      "sku": "BM-000000306",
+      "name": "Benjamin Moore Fresh Start Exterior Wood Primer",
+      "brand": "Benjamin Moore",
+      "category": "Paints > Primers",
+      "researchStatus": "Manufacturer SDS and TDS found",
+      "researchNotes": "Exact Benjamin Moore Fresh Start Exterior Wood Primer K100 manufacturer documents. The official Canadian documentation index marks K100 discontinued but still publishes the white K100-00 SDS, deep-base K100-04 MSDS, and exact K100 technical data sheet.",
+      "sds": [
+        {
+          "csvRow": 292,
+          "sku": "BM-000000306",
+          "name": "Benjamin Moore Fresh Start Exterior Wood Primer",
+          "brand": "Benjamin Moore",
+          "variant": "K100-00 White",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_0100/K10000_EN_SDS.pdf",
+          "file": "PDFs/SDS/benjamin-moore-K10000_EN_SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K10000_EN_SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-K10000_EN_SDS.pdf?raw=true"
+        },
+        {
+          "csvRow": 292,
+          "sku": "BM-000000306",
+          "name": "Benjamin Moore Fresh Start Exterior Wood Primer",
+          "brand": "Benjamin Moore",
+          "variant": "K100-04 Deep Base",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_0100/K10004_MSDS_EN.pdf",
+          "file": "PDFs/SDS/benjamin-moore-K10004_MSDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K10004_MSDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-K10004_MSDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 292,
+          "sku": "BM-000000306",
+          "name": "Benjamin Moore Fresh Start Exterior Wood Primer",
+          "brand": "Benjamin Moore",
+          "variant": "K100 Exterior Wood Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_0100/20200110%20K100%20TDS%20CE%20OKF.pdf",
+          "file": "PDFs/TDS/benjamin-moore-20200110-K100-TDS-CE-OKF.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-20200110-K100-TDS-CE-OKF.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-20200110-K100-TDS-CE-OKF.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 289,
+      "sku": "I-000000303",
+      "name": "Insl-X Sure Step Anti-Slip Coating - Knight Gray",
+      "brand": "Insl-X",
+      "variant": "Knight Gray NSU-1007FR",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_NSU-10XX/NSU-1007FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/insl-x-NSU-1007FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-NSU-1007FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-NSU-1007FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-NSU-1007FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "Insl-X Sure Step Anti-Slip Coating - Knight Gray",
+        "variant": "Knight Gray NSU-1007FR",
+        "pages": 11,
+        "bytes": 89543,
+        "sha256": "53000bbb0bce2b3b43671cb2b372a33f13ba8b0f52529f5cf9518dd030202043",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 26-Jun-2025 Revision Number: 3 1. PRODUCT AND COMPANY IDENTIFICATION Product Name SURE STEP ACRYLIC ANTI-SLIP COATING FLAT - KNIGHT GRAY Product Code NSU-1007FR Alternate Product Code UF4007 Product Class Wa"
+      }
+    },
+    {
+      "csvRow": 289,
+      "sku": "I-000000303",
+      "name": "Insl-X Sure Step Anti-Slip Coating - Knight Gray",
+      "brand": "Insl-X",
+      "variant": "Sure Step NSU-10XXFR",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_NSU-10XX/NSU-10XX_TDS_CAE.pdf",
+      "file": "PDFs/TDS/insl-x-NSU-10XX_TDS_CAE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-NSU-10XX_TDS_CAE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-NSU-10XX_TDS_CAE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-NSU-10XX_TDS_CAE.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "Insl-X Sure Step Anti-Slip Coating - Knight Gray",
+        "variant": "Sure Step NSU-10XXFR",
+        "pages": 2,
+        "bytes": 203169,
+        "sha256": "e892e800d41271a4c1e99963c55983b8dfb098ef8e05ff686b4c592ae08ee628",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Sure Step® 100% Acrylic Resin Anti-Slip Coating NSU-10XX Manufactured by Benjamin Moore & Co., 101 Paragon Drive, Montvale, NJ 07645 Tel: 866-708-9180 www.insl-x.ca NSU-10XX CE 061025 General Description Sure Step® Anti-Slip Coating provide"
+      }
+    },
+    {
+      "csvRow": 290,
+      "sku": "COR-000000304",
+      "name": "Coronado Rust-A-Void - Semi-Gloss White",
+      "brand": "Coronado",
+      "variant": "R13-1FR Semi-Gloss White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_R13/R13-1FR_SDS_EN.pdf",
+      "file": "PDFs/SDS/coronado-R13-1FR_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/coronado-R13-1FR_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/coronado-R13-1FR_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/coronado-R13-1FR_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Coronado",
+        "product": "Coronado Rust-A-Void - Semi-Gloss White",
+        "variant": "R13-1FR Semi-Gloss White",
+        "pages": 13,
+        "bytes": 100934,
+        "sha256": "2c3b757809f25e50c42a0b94bcc3da7b6346f160b1994bb38305359e28d96cb6",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 03-Jun-2025 Revision Number: 5 1. PRODUCT AND COMPANY IDENTIFICATION Product Name RUST-A-VOID ALKYD SEMI-GLOSS - WHITE (TINTABLE) Product Code R13-1FR Alternate Product Code HR7801 Product Class SOLVENT THIN"
+      }
+    },
+    {
+      "csvRow": 290,
+      "sku": "COR-000000304",
+      "name": "Coronado Rust-A-Void - Semi-Gloss White",
+      "brand": "Coronado",
+      "variant": "R13 Semi-Gloss",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_R13/R13_TDS_US.pdf",
+      "file": "PDFs/TDS/coronado-R13_TDS_US.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/coronado-R13_TDS_US.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/coronado-R13_TDS_US.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/coronado-R13_TDS_US.pdf",
+        "documentType": "TDS",
+        "brand": "Coronado",
+        "product": "Coronado Rust-A-Void - Semi-Gloss White",
+        "variant": "R13 Semi-Gloss",
+        "pages": 2,
+        "bytes": 187108,
+        "sha256": "06138c4b868223f709b826130713c2ea868dcc1270eea355a7ed98cdd46aab5e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "RUST‐A‐VOID™ ALKYD POLYURETHANE SEMI‐GLOSS ENAMEL R13 Manufactured by Benjamin Moore & Co., 101 Paragon Drive, Montvale, NJ 07645 Tel: 866‐08‐9180 www.coronadopaint.com R13 US 121022 General Description Rust‐A‐Void™ Rust Preventative Polyur"
+      }
+    },
+    {
+      "csvRow": 292,
+      "sku": "BM-000000306",
+      "name": "Benjamin Moore Fresh Start Exterior Wood Primer",
+      "brand": "Benjamin Moore",
+      "variant": "K100-00 White",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_0100/K10000_EN_SDS.pdf",
+      "file": "PDFs/SDS/benjamin-moore-K10000_EN_SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K10000_EN_SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-K10000_EN_SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K10000_EN_SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "Benjamin Moore Fresh Start Exterior Wood Primer",
+        "variant": "K100-00 White",
+        "pages": 12,
+        "bytes": 91216,
+        "sha256": "8a24c186f1dbd5fb9a57b4160395a71f55dd72596e2d8f8512f6a8dfcac508bf",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 16-May-2021 Revision Number: 2 1. PRODUCT AND COMPANY IDENTIFICATION Product Name FRESH START MOORWHITE EXTERIOR WOOD PRIMER WHITE Product Code K10000 Alternate Product Code K10000 Product Class SOLVENT THIN"
+      }
+    },
+    {
+      "csvRow": 292,
+      "sku": "BM-000000306",
+      "name": "Benjamin Moore Fresh Start Exterior Wood Primer",
+      "brand": "Benjamin Moore",
+      "variant": "K100-04 Deep Base",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_0100/K10004_MSDS_EN.pdf",
+      "file": "PDFs/SDS/benjamin-moore-K10004_MSDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K10004_MSDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/benjamin-moore-K10004_MSDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/benjamin-moore-K10004_MSDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Benjamin Moore",
+        "product": "Benjamin Moore Fresh Start Exterior Wood Primer",
+        "variant": "K100-04 Deep Base",
+        "pages": 11,
+        "bytes": 51691,
+        "sha256": "76548fc209baec66567748fd649e7de60ce897eebc117506b5eca6abf066a416",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Material Safety Data Sheet 1. PRODUCT AND COMPANY IDENTIFICATION Product Name FRESH START EXTERIOR WOOD PRIMER Product Code K10004 Product Class SOLVENT THINNED PAINT Color All 2. COMPOSITION INFORMATION ON COMPONENTS Hazardous Components C"
+      }
+    },
+    {
+      "csvRow": 292,
+      "sku": "BM-000000306",
+      "name": "Benjamin Moore Fresh Start Exterior Wood Primer",
+      "brand": "Benjamin Moore",
+      "variant": "K100 Exterior Wood Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_0100/20200110%20K100%20TDS%20CE%20OKF.pdf",
+      "file": "PDFs/TDS/benjamin-moore-20200110-K100-TDS-CE-OKF.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-20200110-K100-TDS-CE-OKF.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/benjamin-moore-20200110-K100-TDS-CE-OKF.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/benjamin-moore-20200110-K100-TDS-CE-OKF.pdf",
+        "documentType": "TDS",
+        "brand": "Benjamin Moore",
+        "product": "Benjamin Moore Fresh Start Exterior Wood Primer",
+        "variant": "K100 Exterior Wood Primer",
+        "pages": 2,
+        "bytes": 63206,
+        "sha256": "317328dc00569d40150e7ccc2f9efe99b341809327b9fa118174394ac27bbb89",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Benjamin Moore & Co., Ltd. 8775 Keele St., Concord, ON L4K 2N1 1-800-361-5898 www.benjaminmoore.ca M72 K100 CE 011020 FRESH START ® EXTERIOR WOOD PRIMER K100 Features General Description • Excellent hiding and levelling properties • Slow dr"
+      }
+    }
+  ]
+}
