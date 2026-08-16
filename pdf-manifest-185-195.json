@@ -1,0 +1,949 @@
+{
+  "batch": "185-195",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 655,
+      "sku": "SK-000000669",
+      "name": "Seal-Krete Clear Seal Satin",
+      "brand": "Seal-Krete",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS and exact branded TDS found",
+      "researchNotes": "The row image identifies SEAL-KRETE Clear-Seal Protective Sealer, Clear Satin, 3.78 L, manufacturer SKU 604801. Rust-Oleum Canada supplies the exact SDS. Its current product page has an empty TDS link, so the current Rust-Oleum-issued SLK-14 Clear-Seal technical data sheet hosted by specialist distributor GranQuartz is recorded under TDS Other rather than mislabelled as manufacturer-hosted.",
+      "sds": [
+        {
+          "csvRow": 655,
+          "sku": "SK-000000669",
+          "name": "Seal-Krete Clear Seal Satin",
+          "brand": "Seal-Krete",
+          "variant": "SEAL-KRETE Clear-Seal Clear Satin 3.78 L - 604801",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/604801.pdf",
+          "file": "PDFs/SDS/seal-krete-SEAL-KRETE-Clear-Seal-Satin-604801-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/seal-krete-SEAL-KRETE-Clear-Seal-Satin-604801-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-krete-SEAL-KRETE-Clear-Seal-Satin-604801-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 655,
+          "sku": "SK-000000669",
+          "name": "Seal-Krete Clear Seal Satin",
+          "brand": "Seal-Krete",
+          "variant": "SEAL-KRETE Clear-Seal SLK-14",
+          "documentType": "TDS",
+          "sourceType": "Other",
+          "sourceUrl": "https://media.granquartz.com/pearlman-production/pdf/TDS_Rustoleum_Clear_Seal.pdf",
+          "file": "PDFs/TDS/seal-krete-SEAL-KRETE-Clear-Seal-SLK-14-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/seal-krete-SEAL-KRETE-Clear-Seal-SLK-14-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-krete-SEAL-KRETE-Clear-Seal-SLK-14-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 656,
+      "sku": "RO-000000670",
+      "name": "Rust-Oleum Tub & Tile Refinishing Kit",
+      "brand": "Rust-Oleum",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The row image identifies the Rust-Oleum Specialty Tub & Tile Refinishing Kit in Gloss Coastal Fog, current manufacturer SKU 384166. Rust-Oleum's exact multi-component SDS and current SPC-15 technical data sheet both explicitly identify 384166 Gloss Coastal Fog.",
+      "sds": [
+        {
+          "csvRow": 656,
+          "sku": "RO-000000670",
+          "name": "Rust-Oleum Tub & Tile Refinishing Kit",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Tub & Tile Refinishing Kit Gloss Coastal Fog - 384166",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/384166.pdf",
+          "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Tub-Tile-Gloss-Coastal-Fog-384166-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Tub-Tile-Gloss-Coastal-Fog-384166-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Tub-Tile-Gloss-Coastal-Fog-384166-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 656,
+          "sku": "RO-000000670",
+          "name": "Rust-Oleum Tub & Tile Refinishing Kit",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Tub & Tile Refinishing Kit SPC-15 - includes 384166",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/-/media/87F847F7D32740BFAB7F5023F2A823A2.pdf",
+          "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Tub-Tile-Refinishing-Kit-SPC-15-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Tub-Tile-Refinishing-Kit-SPC-15-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Tub-Tile-Refinishing-Kit-SPC-15-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 657,
+      "sku": "RO-000000671",
+      "name": "Rust-Oleum Self-Etching Primer Spray",
+      "brand": "Rust-Oleum",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS and Canadian TDS found",
+      "researchNotes": "The row image identifies Rust-Oleum Automotive Self-Etching Primer, Grey-Green, 340 g, manufacturer SKU 257736. Rust-Oleum supplies the exact SDS and the Canadian ATO-151 technical data sheet explicitly listing 257736.",
+      "sds": [
+        {
+          "csvRow": 657,
+          "sku": "RO-000000671",
+          "name": "Rust-Oleum Self-Etching Primer Spray",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Automotive Self-Etching Primer Grey-Green 340 g - 257736",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/257736.pdf",
+          "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-257736-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-257736-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-257736-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 657,
+          "sku": "RO-000000671",
+          "name": "Rust-Oleum Self-Etching Primer Spray",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Automotive Self-Etching Primer ATO-151 Canada",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/2023-tds-update/Rust-Oleum/ATO151-RustOleum-Automotive-Self-Etching-Primer-TDS-Canada.pdf",
+          "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-ATO-151-Canada-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-ATO-151-Canada-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-ATO-151-Canada-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 658,
+      "sku": "RO-000000672",
+      "name": "Rust-Oleum Mirror Effect Silver",
+      "brand": "Rust-Oleum",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS and Canadian TDS found",
+      "researchNotes": "The row image identifies Rust-Oleum Specialty Mirror Effect Silver, 170 g, manufacturer SKU 277903. Rust-Oleum Canada supplies the exact SDS and SPC-36 Mirror Effect technical data sheet.",
+      "sds": [
+        {
+          "csvRow": 658,
+          "sku": "RO-000000672",
+          "name": "Rust-Oleum Mirror Effect Silver",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Mirror Effect Silver 170 g - 277903",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/277903.pdf",
+          "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Mirror-Effect-Silver-277903-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Mirror-Effect-Silver-277903-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Mirror-Effect-Silver-277903-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 658,
+          "sku": "RO-000000672",
+          "name": "Rust-Oleum Mirror Effect Silver",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Mirror Effect SPC-36 Canada",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/English/SPC-36-Mirror-Effect-TDS.pdf",
+          "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Mirror-Effect-SPC-36-Canada-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Mirror-Effect-SPC-36-Canada-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Mirror-Effect-SPC-36-Canada-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 659,
+      "sku": "RO-000000673",
+      "name": "Rust-Oleum Metallic Gold",
+      "brand": "Rust-Oleum",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The row image identifies Rust-Oleum Specialty Metallic Gold spray, 312 g, Canadian manufacturer SKU N1910830. The manufacturer SDS for N1910830 and SPC-13 technical data sheet explicitly covering 1910830 Metallic Gold are exact matches.",
+      "sds": [
+        {
+          "csvRow": 659,
+          "sku": "RO-000000673",
+          "name": "Rust-Oleum Metallic Gold",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Specialty Metallic Gold 312 g - N1910830",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/N1910830.pdf",
+          "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Specialty-Metallic-Gold-N1910830-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Specialty-Metallic-Gold-N1910830-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Specialty-Metallic-Gold-N1910830-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 659,
+          "sku": "RO-000000673",
+          "name": "Rust-Oleum Metallic Gold",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Specialty Metallic Sprays SPC-13 - includes 1910830",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/-/media/9B41227237BE48908C0883674E86E362.ashx",
+          "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Specialty-Metallic-SPC-13-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Specialty-Metallic-SPC-13-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Specialty-Metallic-SPC-13-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 660,
+      "sku": "RO-000000674",
+      "name": "Rust-Oleum Leak Seal Clear Aerosol",
+      "brand": "Rust-Oleum",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS and coating-family TDS found",
+      "researchNotes": "The row image identifies Rust-Oleum LeakSeal Flexible Rubber Sealant Spray, Clear, 405 g, Canadian manufacturer SKU 266289. Rust-Oleum supplies the exact Canadian SDS and its SRT-17 technical data sheet for the same LeakSeal flexible rubber aerosol coating family, including Clear.",
+      "sds": [
+        {
+          "csvRow": 660,
+          "sku": "RO-000000674",
+          "name": "Rust-Oleum Leak Seal Clear Aerosol",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum LeakSeal Flexible Rubber Sealant Clear 405 g - 266289",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/266289.pdf",
+          "file": "PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Clear-266289-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Clear-266289-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Clear-266289-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 660,
+          "sku": "RO-000000674",
+          "name": "Rust-Oleum Leak Seal Clear Aerosol",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum LeakSeal Flexible Rubber Coating SRT-17",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Leakseal/SRT-17_LeakSeal_TDS.ashx",
+          "file": "PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 661,
+      "sku": "RO-000000675",
+      "name": "Rust-Oleum Leak Seal Black Aerosol",
+      "brand": "Rust-Oleum",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS and shared coating-family TDS found",
+      "researchNotes": "The row image identifies Rust-Oleum LeakSeal Flexible Rubber Sealant Spray, Black, 405 g, Canadian manufacturer SKU 266288. Rust-Oleum supplies the exact Canadian SDS and the same SRT-17 technical data sheet used for the LeakSeal flexible rubber aerosol coating family, including Black.",
+      "sds": [
+        {
+          "csvRow": 661,
+          "sku": "RO-000000675",
+          "name": "Rust-Oleum Leak Seal Black Aerosol",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum LeakSeal Flexible Rubber Sealant Black 405 g - 266288",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/266288.pdf",
+          "file": "PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Black-266288-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Black-266288-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Black-266288-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 661,
+          "sku": "RO-000000675",
+          "name": "Rust-Oleum Leak Seal Black Aerosol",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum LeakSeal Flexible Rubber Coating SRT-17",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Leakseal/SRT-17_LeakSeal_TDS.ashx",
+          "file": "PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 662,
+      "sku": "RO-000000676",
+      "name": "Rust-Oleum Appliance Epoxy Spray - Gloss White",
+      "brand": "Rust-Oleum",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The row image identifies Rust-Oleum Specialty Appliance Epoxy aerosol, Gloss White, 340 g, Canadian manufacturer SKU N7881830. The manufacturer supplies the exact SDS and SPC-01 aerosol technical data sheet explicitly listing 7881830 White.",
+      "sds": [
+        {
+          "csvRow": 662,
+          "sku": "RO-000000676",
+          "name": "Rust-Oleum Appliance Epoxy Spray - Gloss White",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Appliance Epoxy Gloss White 340 g - N7881830",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/N7881830.pdf",
+          "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Gloss-White-N7881830-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Gloss-White-N7881830-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Gloss-White-N7881830-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 662,
+          "sku": "RO-000000676",
+          "name": "Rust-Oleum Appliance Epoxy Spray - Gloss White",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Specialty Appliance Epoxy Sprays SPC-01 - includes 7881830",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Specialty/SPC-01_Appliance_Epoxy_Sprays_TDS_3.ashx",
+          "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Sprays-SPC-01-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Sprays-SPC-01-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Sprays-SPC-01-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 663,
+      "sku": "RO-000000677",
+      "name": "Rust-Oleum Painter's Touch Latex - Black",
+      "brand": "Rust-Oleum",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Exact manufacturer SDS found; no qualifying PDF TDS located",
+      "researchNotes": "The row image identifies the 946 mL brush-on Painter's Touch Multi-Purpose Latex Paint in Flat Black, manufacturer SKU 254935. Rust-Oleum supplies the exact SDS. The current Canadian product page does not supply a downloadable TDS for this brush-on coating, so the TDS fields remain blank.",
+      "sds": [
+        {
+          "csvRow": 663,
+          "sku": "RO-000000677",
+          "name": "Rust-Oleum Painter's Touch Latex - Black",
+          "brand": "Rust-Oleum",
+          "variant": "Rust-Oleum Painter's Touch Multi-Purpose Latex Flat Black 946 mL - 254935",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254935.pdf",
+          "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Painters-Touch-Latex-Flat-Black-254935-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Painters-Touch-Latex-Flat-Black-254935-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Painters-Touch-Latex-Flat-Black-254935-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 664,
+      "sku": "TR-000000678",
+      "name": "Tremclad Rust Primer Spray - Red Oxide",
+      "brand": "Tremclad",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS found; no qualifying PDF TDS located",
+      "researchNotes": "The row image identifies TREMCLAD Rust Primer Spray in Red Oxide, 340 g, manufacturer SKU 274102522. Rust-Oleum Canada supplies the exact colour- and format-specific SDS. Its product page exposes no downloadable primer TDS, so no unrelated topcoat sheet is substituted.",
+      "sds": [
+        {
+          "csvRow": 664,
+          "sku": "TR-000000678",
+          "name": "Tremclad Rust Primer Spray - Red Oxide",
+          "brand": "Tremclad",
+          "variant": "TREMCLAD Rust Primer Spray Red Oxide 340 g - 274102522",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/274102522.pdf",
+          "file": "PDFs/SDS/tremclad-TREMCLAD-Rust-Primer-Spray-Red-Oxide-274102522-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-TREMCLAD-Rust-Primer-Spray-Red-Oxide-274102522-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-TREMCLAD-Rust-Primer-Spray-Red-Oxide-274102522-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": []
+    },
+    {
+      "csvRow": 665,
+      "sku": "TR-000000679",
+      "name": "Tremclad Rust Paint Spray - Gloss White",
+      "brand": "Tremclad",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer SDS and Canadian aerosol TDS found",
+      "researchNotes": "The row image identifies TREMCLAD Oil Based Rust Paint Aerosol in Gloss Recreational White, 340 g, manufacturer SKU 27032B522. Rust-Oleum Canada supplies the exact colour-specific SDS and the shared TRM-02 Canadian technical data sheet for TREMCLAD Rust Paint Aerosol. The existing verified TRM-02 PDF is reused rather than copied again.",
+      "sds": [
+        {
+          "csvRow": 665,
+          "sku": "TR-000000679",
+          "name": "Tremclad Rust Paint Spray - Gloss White",
+          "brand": "Tremclad",
+          "variant": "TREMCLAD Rust Paint Aerosol Gloss Recreational White 340 g - 27032B522",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27032B522.pdf",
+          "file": "PDFs/SDS/tremclad-TREMCLAD-Rust-Paint-Aerosol-Recreational-White-27032B522-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-TREMCLAD-Rust-Paint-Aerosol-Recreational-White-27032B522-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-TREMCLAD-Rust-Paint-Aerosol-Recreational-White-27032B522-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 665,
+          "sku": "TR-000000679",
+          "name": "Tremclad Rust Paint Spray - Gloss White",
+          "brand": "Tremclad",
+          "variant": "TREMCLAD Rust Paint Aerosol TRM-02 Canada",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/2023-tds-update/SPP/TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf",
+          "file": "PDFs/TDS/tremclad-TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/tremclad-TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/tremclad-TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 655,
+      "sku": "SK-000000669",
+      "name": "Seal-Krete Clear Seal Satin",
+      "brand": "Seal-Krete",
+      "variant": "SEAL-KRETE Clear-Seal Clear Satin 3.78 L - 604801",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/604801.pdf",
+      "file": "PDFs/SDS/seal-krete-SEAL-KRETE-Clear-Seal-Satin-604801-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/seal-krete-SEAL-KRETE-Clear-Seal-Satin-604801-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-krete-SEAL-KRETE-Clear-Seal-Satin-604801-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/seal-krete-SEAL-KRETE-Clear-Seal-Satin-604801-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Seal-Krete",
+        "product": "Seal-Krete Clear Seal Satin",
+        "variant": "SEAL-KRETE Clear-Seal Clear Satin 3.78 L - 604801",
+        "pages": 5,
+        "bytes": 140998,
+        "sha256": "73a3f7f008edca41688300452fde058cd2d9c15d57f472606678c1f9fc485976",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 5/11/2023 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: SK CLEAR-SEAL SATIN SEALER 3.78L Revision Date: 5/11/2023 Product Identifier: 604801 Supercedes Date: 1/24/2017 Recom"
+      }
+    },
+    {
+      "csvRow": 655,
+      "sku": "SK-000000669",
+      "name": "Seal-Krete Clear Seal Satin",
+      "brand": "Seal-Krete",
+      "variant": "SEAL-KRETE Clear-Seal SLK-14",
+      "documentType": "TDS",
+      "sourceType": "Other",
+      "sourceUrl": "https://media.granquartz.com/pearlman-production/pdf/TDS_Rustoleum_Clear_Seal.pdf",
+      "file": "PDFs/TDS/seal-krete-SEAL-KRETE-Clear-Seal-SLK-14-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/seal-krete-SEAL-KRETE-Clear-Seal-SLK-14-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-krete-SEAL-KRETE-Clear-Seal-SLK-14-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/seal-krete-SEAL-KRETE-Clear-Seal-SLK-14-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Seal-Krete",
+        "product": "Seal-Krete Clear Seal Satin",
+        "variant": "SEAL-KRETE Clear-Seal SLK-14",
+        "pages": 3,
+        "bytes": 209298,
+        "sha256": "9db7c38f5f949750e3870a627779f7758a91d3e4b90d849868cf4076eb38391f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA SLK-14 SEAL-KRETE® CLEAR-SEAL 1 Form: ARJ-2604 Rev.: 012825 DESCRIPTION AND USES SEAL-KRETE® Clear-Seal Concrete Protective Sealer is a clear protective waterproofing sealer for painted, stained or bare concrete & masonry sur"
+      }
+    },
+    {
+      "csvRow": 656,
+      "sku": "RO-000000670",
+      "name": "Rust-Oleum Tub & Tile Refinishing Kit",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Tub & Tile Refinishing Kit Gloss Coastal Fog - 384166",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/384166.pdf",
+      "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Tub-Tile-Gloss-Coastal-Fog-384166-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Tub-Tile-Gloss-Coastal-Fog-384166-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Tub-Tile-Gloss-Coastal-Fog-384166-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Tub-Tile-Gloss-Coastal-Fog-384166-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Tub & Tile Refinishing Kit",
+        "variant": "Rust-Oleum Tub & Tile Refinishing Kit Gloss Coastal Fog - 384166",
+        "pages": 13,
+        "bytes": 438940,
+        "sha256": "d6428f2420714676b15297a50baa8c80c73f38628cbeb039f966a25b529a7987",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Revision Date: 7/15/2022 Rust-Oleum Multi Component Product Information Sheet 384166 SPECLT QT 4PK TUBTIL CSTL FOG KIT DS is a multi component product composed of the following individual chemical components: 372556 SEM-SPECLT QT 4PK TUBTIL"
+      }
+    },
+    {
+      "csvRow": 656,
+      "sku": "RO-000000670",
+      "name": "Rust-Oleum Tub & Tile Refinishing Kit",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Tub & Tile Refinishing Kit SPC-15 - includes 384166",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/-/media/87F847F7D32740BFAB7F5023F2A823A2.pdf",
+      "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Tub-Tile-Refinishing-Kit-SPC-15-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Tub-Tile-Refinishing-Kit-SPC-15-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Tub-Tile-Refinishing-Kit-SPC-15-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Tub-Tile-Refinishing-Kit-SPC-15-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Tub & Tile Refinishing Kit",
+        "variant": "Rust-Oleum Tub & Tile Refinishing Kit SPC-15 - includes 384166",
+        "pages": 2,
+        "bytes": 639606,
+        "sha256": "b6cd8ac7488c03fb8ea5de4e1c96fa49f709e1562262b365f71a95b34acb3ddb",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA SPC-15 RUST-OLEUM® TUB & TILE REFINISHING KIT 1 Form: GDH-335 Rev.: 052323 DESCRIPTION AND USES Rust-Oleum® Tub & Tile Refinishing kit is a 2-part epoxy acrylic designed to provide excellent adhesion, durability and color ret"
+      }
+    },
+    {
+      "csvRow": 657,
+      "sku": "RO-000000671",
+      "name": "Rust-Oleum Self-Etching Primer Spray",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Automotive Self-Etching Primer Grey-Green 340 g - 257736",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/257736.pdf",
+      "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-257736-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-257736-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-257736-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-257736-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Self-Etching Primer Spray",
+        "variant": "Rust-Oleum Automotive Self-Etching Primer Grey-Green 340 g - 257736",
+        "pages": 6,
+        "bytes": 164483,
+        "sha256": "5a497488ef7696668621fcb65d658c99de6c08d515716548dc60a6fb33713179",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/14/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Automotive Self-Etching Primer Spray Product Name: AUTORF +6X340G SSPR SELF ETCHING PRIMER Revision Date: 5/14/2025 "
+      }
+    },
+    {
+      "csvRow": 657,
+      "sku": "RO-000000671",
+      "name": "Rust-Oleum Self-Etching Primer Spray",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Automotive Self-Etching Primer ATO-151 Canada",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/2023-tds-update/Rust-Oleum/ATO151-RustOleum-Automotive-Self-Etching-Primer-TDS-Canada.pdf",
+      "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-ATO-151-Canada-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-ATO-151-Canada-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-ATO-151-Canada-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Automotive-Self-Etching-Primer-ATO-151-Canada-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Self-Etching Primer Spray",
+        "variant": "Rust-Oleum Automotive Self-Etching Primer ATO-151 Canada",
+        "pages": 2,
+        "bytes": 545525,
+        "sha256": "6199c1e95ba79436d2adba6958fbc789909af04069c42ad4af9005a6aa4c7e13",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA ATO-151 RUST-OLEUM® AUTOMOTIVE SELF ETCHING PRIMER 1 Form: ARJ-2401 Rev.: 041922 DESCRIPTION AND USES Rust-Oleum® Automotive Self Etching Primer is designed to prepare bare metal, aluminum and fiberglass surfaces to promote m"
+      }
+    },
+    {
+      "csvRow": 658,
+      "sku": "RO-000000672",
+      "name": "Rust-Oleum Mirror Effect Silver",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Mirror Effect Silver 170 g - 277903",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/277903.pdf",
+      "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Mirror-Effect-Silver-277903-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Mirror-Effect-Silver-277903-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Mirror-Effect-Silver-277903-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Mirror-Effect-Silver-277903-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Mirror Effect Silver",
+        "variant": "Rust-Oleum Mirror Effect Silver 170 g - 277903",
+        "pages": 6,
+        "bytes": 154955,
+        "sha256": "a242a8726c7937f9aa864b5a21cfbb792a23d8def9c18dc68e81bce9a0409286",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 4/28/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Specialty Mirror Effect Spray Product Name: SPECLT +6X170G SSPR MIRROR EFFECT SILVER Revision Date: 4/28/2025 Produc"
+      }
+    },
+    {
+      "csvRow": 658,
+      "sku": "RO-000000672",
+      "name": "Rust-Oleum Mirror Effect Silver",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Mirror Effect SPC-36 Canada",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/English/SPC-36-Mirror-Effect-TDS.pdf",
+      "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Mirror-Effect-SPC-36-Canada-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Mirror-Effect-SPC-36-Canada-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Mirror-Effect-SPC-36-Canada-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Mirror-Effect-SPC-36-Canada-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Mirror Effect Silver",
+        "variant": "Rust-Oleum Mirror Effect SPC-36 Canada",
+        "pages": 2,
+        "bytes": 186406,
+        "sha256": "20442efc866885a5de662a44ee4958bd5e674fa94cf3c15a25b2d602c617a989",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA SPC-36 MIRROR EFFECT Form: SPP-277903 Rev.: 102215 1 .DESCRIPTION AND USES . Mirror Effect is an innovative coating that transforms glass and acrylic glass into a unique mirror finish. It is ideal for glass vases, candleholde"
+      }
+    },
+    {
+      "csvRow": 659,
+      "sku": "RO-000000673",
+      "name": "Rust-Oleum Metallic Gold",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Specialty Metallic Gold 312 g - N1910830",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/N1910830.pdf",
+      "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Specialty-Metallic-Gold-N1910830-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Specialty-Metallic-Gold-N1910830-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Specialty-Metallic-Gold-N1910830-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Specialty-Metallic-Gold-N1910830-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Metallic Gold",
+        "variant": "Rust-Oleum Specialty Metallic Gold 312 g - N1910830",
+        "pages": 6,
+        "bytes": 195679,
+        "sha256": "24a86b8bba980569a7c50f3eefe868a5afdd9e35326a3b289e8cd31ab1b3ab26",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 1/27/2026 1-847-367-7700 www.rustoleum.ca 1. Identification Name on Label: Rust-Oleum Speciality Metallic Product Name: SPECLT 6X312G +SSPR GOLD METALLIC Revision Date: 1/27/2026 Product Identifier: N1910830 "
+      }
+    },
+    {
+      "csvRow": 659,
+      "sku": "RO-000000673",
+      "name": "Rust-Oleum Metallic Gold",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Specialty Metallic Sprays SPC-13 - includes 1910830",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/-/media/9B41227237BE48908C0883674E86E362.ashx",
+      "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Specialty-Metallic-SPC-13-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Specialty-Metallic-SPC-13-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Specialty-Metallic-SPC-13-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Specialty-Metallic-SPC-13-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Metallic Gold",
+        "variant": "Rust-Oleum Specialty Metallic Sprays SPC-13 - includes 1910830",
+        "pages": 2,
+        "bytes": 634519,
+        "sha256": "12db6739c8718d37aa6b1eb0ec96b44b159b21c3fd47be50eb4b508135f5cd4a",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA SPC-13 RUST-OLEUM® SPECIALTY METALLIC SPRAYS 1 Form: GDH-333 Rev.: 110422 DESCRIPTION AND USES Rust-Oleum® Specialty Metallic Sprays provide a rich, brilliant finish on wood, metal, and more. These sprays add a shiny metallic"
+      }
+    },
+    {
+      "csvRow": 660,
+      "sku": "RO-000000674",
+      "name": "Rust-Oleum Leak Seal Clear Aerosol",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum LeakSeal Flexible Rubber Sealant Clear 405 g - 266289",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/266289.pdf",
+      "file": "PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Clear-266289-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Clear-266289-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Clear-266289-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Clear-266289-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Leak Seal Clear Aerosol",
+        "variant": "Rust-Oleum LeakSeal Flexible Rubber Sealant Clear 405 g - 266289",
+        "pages": 7,
+        "bytes": 200403,
+        "sha256": "61cc1ecfe09a469876a7dbb59017ba2ae37337508d7fc9a1ba7df3083368cbb4",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 3/30/2026 1-847-367-7700 www.rustoleum.ca 1. Identification Name on Label: Leak Seal Spray Product Name: LS 6X405G CLEAR AEROSOL Revision Date: 3/30/2026 Product Identifier: 266289 Supercedes Date: 5/14/2025 "
+      }
+    },
+    {
+      "csvRow": 660,
+      "sku": "RO-000000674",
+      "name": "Rust-Oleum Leak Seal Clear Aerosol",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum LeakSeal Flexible Rubber Coating SRT-17",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Leakseal/SRT-17_LeakSeal_TDS.ashx",
+      "file": "PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Leak Seal Clear Aerosol",
+        "variant": "Rust-Oleum LeakSeal Flexible Rubber Coating SRT-17",
+        "pages": 2,
+        "bytes": 680999,
+        "sha256": "c2d9eeed5a5cbc713ceb8cd9ce63df5a12851cd39639a6f3dd3195a9af3a3429",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SPRAY TECHNICAL DATA SRT-17 LEAKSEAL® 1 Form: GDH-644 Rev.: 020720 DESCRIPTION AND USES LeakSeal® Flexible Rubber Coating is an easy to use, rubberized protective utility coating designed to fill gaps & cracks up to 1/4” and seal out water,"
+      }
+    },
+    {
+      "csvRow": 661,
+      "sku": "RO-000000675",
+      "name": "Rust-Oleum Leak Seal Black Aerosol",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum LeakSeal Flexible Rubber Sealant Black 405 g - 266288",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/266288.pdf",
+      "file": "PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Black-266288-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Black-266288-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Black-266288-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-LeakSeal-Black-266288-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Leak Seal Black Aerosol",
+        "variant": "Rust-Oleum LeakSeal Flexible Rubber Sealant Black 405 g - 266288",
+        "pages": 7,
+        "bytes": 171217,
+        "sha256": "c664cbb4f852af5f1d1403047bd28650913fc284662e801434890cff626ef1e2",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/14/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Leak Seal Spray Product Name: LS 6X405G BLACK AEROSOL Revision Date: 5/14/2025 Product Identifier: 266288 Supercedes"
+      }
+    },
+    {
+      "csvRow": 661,
+      "sku": "RO-000000675",
+      "name": "Rust-Oleum Leak Seal Black Aerosol",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum LeakSeal Flexible Rubber Coating SRT-17",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Leakseal/SRT-17_LeakSeal_TDS.ashx",
+      "file": "PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-LeakSeal-Flexible-Rubber-Coating-SRT-17-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Leak Seal Clear Aerosol",
+        "variant": "Rust-Oleum LeakSeal Flexible Rubber Coating SRT-17",
+        "pages": 2,
+        "bytes": 680999,
+        "sha256": "c2d9eeed5a5cbc713ceb8cd9ce63df5a12851cd39639a6f3dd3195a9af3a3429",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SPRAY TECHNICAL DATA SRT-17 LEAKSEAL® 1 Form: GDH-644 Rev.: 020720 DESCRIPTION AND USES LeakSeal® Flexible Rubber Coating is an easy to use, rubberized protective utility coating designed to fill gaps & cracks up to 1/4” and seal out water,"
+      }
+    },
+    {
+      "csvRow": 662,
+      "sku": "RO-000000676",
+      "name": "Rust-Oleum Appliance Epoxy Spray - Gloss White",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Appliance Epoxy Gloss White 340 g - N7881830",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/N7881830.pdf",
+      "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Gloss-White-N7881830-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Gloss-White-N7881830-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Gloss-White-N7881830-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Gloss-White-N7881830-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Appliance Epoxy Spray - Gloss White",
+        "variant": "Rust-Oleum Appliance Epoxy Gloss White 340 g - N7881830",
+        "pages": 6,
+        "bytes": 165705,
+        "sha256": "4f46cc1698feb3c55b9e7149a684a69c56b81bfbee66529dcad07c2f803985d4",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 5/6/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Specialty Appliance Epoxy Spray Product Name: SPECLT +6X340G SSPR APPLIANCE WHITE GLS Revision Date: 5/6/2025 Product"
+      }
+    },
+    {
+      "csvRow": 662,
+      "sku": "RO-000000676",
+      "name": "Rust-Oleum Appliance Epoxy Spray - Gloss White",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Specialty Appliance Epoxy Sprays SPC-01 - includes 7881830",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/-/media/DigitalEncyclopedia/Documents/RustoleumUSA/TDS/English/CBG/Specialty/SPC-01_Appliance_Epoxy_Sprays_TDS_3.ashx",
+      "file": "PDFs/TDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Sprays-SPC-01-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Sprays-SPC-01-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Sprays-SPC-01-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/rust-oleum-Rust-Oleum-Appliance-Epoxy-Sprays-SPC-01-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Appliance Epoxy Spray - Gloss White",
+        "variant": "Rust-Oleum Specialty Appliance Epoxy Sprays SPC-01 - includes 7881830",
+        "pages": 2,
+        "bytes": 529390,
+        "sha256": "b6f2bb446f8b5db6a48b2817d18b24da24ba8e81d19e51308f431867b0d8ec01",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA SPC-01 RUST-OLEUM® SPECIALTY APPLIANCE EPOXY SPRAYS 1 Form: GDH-324 Rev.: 052021 DESCRIPTION AND USES Rust-Oleum® Specialty Appliance Epoxy is a hard, moisture resistant enamel that is specifically formulated for indoor metal"
+      }
+    },
+    {
+      "csvRow": 663,
+      "sku": "RO-000000677",
+      "name": "Rust-Oleum Painter's Touch Latex - Black",
+      "brand": "Rust-Oleum",
+      "variant": "Rust-Oleum Painter's Touch Multi-Purpose Latex Flat Black 946 mL - 254935",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/254935.pdf",
+      "file": "PDFs/SDS/rust-oleum-Rust-Oleum-Painters-Touch-Latex-Flat-Black-254935-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Painters-Touch-Latex-Flat-Black-254935-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/rust-oleum-Rust-Oleum-Painters-Touch-Latex-Flat-Black-254935-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/rust-oleum-Rust-Oleum-Painters-Touch-Latex-Flat-Black-254935-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Rust-Oleum",
+        "product": "Rust-Oleum Painter's Touch Latex - Black",
+        "variant": "Rust-Oleum Painter's Touch Multi-Purpose Latex Flat Black 946 mL - 254935",
+        "pages": 5,
+        "bytes": 125122,
+        "sha256": "5629f99613e99428758def99156f84e2b9136b9bffa0b4234eb849083a71a6f1",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Date Printed: 8/18/2015 Safety Data Sheet * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Product Name: PTOUCH 4X946ML FLAT BLACK Revision Date: 8/6/2015 Product Identifier: 254935 Supercedes Date: New SDS Product Use/Cla"
+      }
+    },
+    {
+      "csvRow": 664,
+      "sku": "TR-000000678",
+      "name": "Tremclad Rust Primer Spray - Red Oxide",
+      "brand": "Tremclad",
+      "variant": "TREMCLAD Rust Primer Spray Red Oxide 340 g - 274102522",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/274102522.pdf",
+      "file": "PDFs/SDS/tremclad-TREMCLAD-Rust-Primer-Spray-Red-Oxide-274102522-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-TREMCLAD-Rust-Primer-Spray-Red-Oxide-274102522-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-TREMCLAD-Rust-Primer-Spray-Red-Oxide-274102522-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-TREMCLAD-Rust-Primer-Spray-Red-Oxide-274102522-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Primer Spray - Red Oxide",
+        "variant": "TREMCLAD Rust Primer Spray Red Oxide 340 g - 274102522",
+        "pages": 6,
+        "bytes": 164446,
+        "sha256": "f6d7cb8d77542cc069c7f43521abc18c912112cabd0549a97be081baafe903ab",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 6/30/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Tremclad Rust Primer Spray Product Name: TRMCLD +6X340G SSPR RED OXIDE PRIMER Revision Date: 6/30/2025 Product Ident"
+      }
+    },
+    {
+      "csvRow": 665,
+      "sku": "TR-000000679",
+      "name": "Tremclad Rust Paint Spray - Gloss White",
+      "brand": "Tremclad",
+      "variant": "TREMCLAD Rust Paint Aerosol Gloss Recreational White 340 g - 27032B522",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.com/MSDS/ENGLISH/27032B522.pdf",
+      "file": "PDFs/SDS/tremclad-TREMCLAD-Rust-Paint-Aerosol-Recreational-White-27032B522-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-TREMCLAD-Rust-Paint-Aerosol-Recreational-White-27032B522-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tremclad-TREMCLAD-Rust-Paint-Aerosol-Recreational-White-27032B522-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tremclad-TREMCLAD-Rust-Paint-Aerosol-Recreational-White-27032B522-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Spray - Gloss White",
+        "variant": "TREMCLAD Rust Paint Aerosol Gloss Recreational White 340 g - 27032B522",
+        "pages": 7,
+        "bytes": 167768,
+        "sha256": "8496e5a7375d46ba6f4214c51d368938aa2c9030919dbb7eb1f276e58ef17438",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Safety Data Sheet Date Printed: 3/12/2025 * Trusted Quality Since 1921 * www.rustoleum.com 1. Identification Name on Label: Tremclad Rust Paint Product Name: TRMCLD +6X340G SSPR REC WHITE Revision Date: 3/12/2025 Product Identifier: 27032B5"
+      }
+    },
+    {
+      "csvRow": 665,
+      "sku": "TR-000000679",
+      "name": "Tremclad Rust Paint Spray - Gloss White",
+      "brand": "Tremclad",
+      "variant": "TREMCLAD Rust Paint Aerosol TRM-02 Canada",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.rustoleum.ca/-/media/DigitalEncyclopedia/Documents/RustoleumCA/TDS/2023-tds-update/SPP/TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf",
+      "file": "PDFs/TDS/tremclad-TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/tremclad-TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/tremclad-TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/tremclad-TRM-02-Tremclad-Rust-Paint-Aerosol-TDS-Canada.pdf",
+        "documentType": "TDS",
+        "brand": "Tremclad",
+        "product": "Tremclad Rust Paint Spray - Gloss White",
+        "variant": "TREMCLAD Rust Paint Aerosol TRM-02 Canada",
+        "pages": 3,
+        "bytes": 637880,
+        "sha256": "7b75ac375b398bdb513a3bfb9785ab64b6abc49e01318dea5b78ab89f084c95e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "TECHNICAL DATA TRM-02 TREMCLAD® RUST PAINT AEROSOL 1 Form: ARJ-2337 Rev.: 011221 DESCRIPTION AND USES TREMCLAD® Rust Paint Sprays are designed to provide a durable protective coating with excellent rust prevention, and excellent resistance "
+      }
+    }
+  ]
+}
