@@ -1,0 +1,281 @@
+{
+  "batch": "025-027",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 29,
+      "sku": "I-000000029",
+      "name": "Prime All Multi-Surface Latex Primer Sealer",
+      "brand": "Insl-X",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 29,
+          "sku": "I-000000029",
+          "name": "Prime All Multi-Surface Latex Primer Sealer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_AP-1000/AP1000F_SDS_EN.pdf",
+          "file": "PDFs/SDS/insl-x-AP1000F_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-AP1000F_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-AP1000F_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 29,
+          "sku": "I-000000029",
+          "name": "Prime All Multi-Surface Latex Primer Sealer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_AP-1000/AP-1000_TDS_CAE.pdf",
+          "file": "PDFs/TDS/insl-x-AP-1000_TDS_CAE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-AP-1000_TDS_CAE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-AP-1000_TDS_CAE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 30,
+      "sku": "I-000000030",
+      "name": "Aqua Lock Plus Primer/Sealer",
+      "brand": "Insl-X",
+      "category": "Paints > Primers",
+      "sds": [
+        {
+          "csvRow": 30,
+          "sku": "I-000000030",
+          "name": "Aqua Lock Plus Primer/Sealer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_AquaLock_AQ0400/AQ-0400F_SDS_EN.pdf",
+          "file": "PDFs/SDS/insl-x-AQ-0400F_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-AQ-0400F_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-AQ-0400F_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 30,
+          "sku": "I-000000030",
+          "name": "Aqua Lock Plus Primer/Sealer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_AQ-0XXX/AQ-0XXX_TDS_CE.pdf",
+          "file": "PDFs/TDS/insl-x-AQ-0XXX_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-AQ-0XXX_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-AQ-0XXX_TDS_CE.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 31,
+      "sku": "I-000000031",
+      "name": "Prime Lock Plus Primer Sealer",
+      "brand": "Insl-X",
+      "category": "Paints > Interior",
+      "sds": [
+        {
+          "csvRow": 31,
+          "sku": "I-000000031",
+          "name": "Prime Lock Plus Primer Sealer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_PS-8100/PS-8100F_SDS_EN.PDF",
+          "file": "PDFs/SDS/insl-x-PS-8100F_SDS_EN.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-PS-8100F_SDS_EN.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-PS-8100F_SDS_EN.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 31,
+          "sku": "I-000000031",
+          "name": "Prime Lock Plus Primer Sealer",
+          "brand": "Insl-X",
+          "variant": "Primer",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_PS-8100/PS-8100_TDS_CE.pdf",
+          "file": "PDFs/TDS/insl-x-PS-8100_TDS_CE.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-PS-8100_TDS_CE.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-PS-8100_TDS_CE.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 29,
+      "sku": "I-000000029",
+      "name": "Prime All Multi-Surface Latex Primer Sealer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/SDS_AP-1000/AP1000F_SDS_EN.pdf",
+      "file": "PDFs/SDS/insl-x-AP1000F_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-AP1000F_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-AP1000F_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-AP1000F_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "Prime All Multi-Surface Latex Primer Sealer",
+        "variant": "Primer",
+        "pages": 10,
+        "bytes": 78309,
+        "sha256": "73bdc2d4ce323f5d29a5d256b8bab20016f9622dd05645aff68b20a9c4fbb67e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 29-May-2025 Revision Number: 4 1. PRODUCT AND COMPANY IDENTIFICATION Product Name INSL-X PRIME ALL MULTI-SURFACE LATEX PRIMER SEALER WHITE Product Code AP-1000F Alternate Product Code UF2500 Product Class Wa"
+      }
+    },
+    {
+      "csvRow": 29,
+      "sku": "I-000000029",
+      "name": "Prime All Multi-Surface Latex Primer Sealer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_AP-1000/AP-1000_TDS_CAE.pdf",
+      "file": "PDFs/TDS/insl-x-AP-1000_TDS_CAE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-AP-1000_TDS_CAE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-AP-1000_TDS_CAE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-AP-1000_TDS_CAE.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "Prime All Multi-Surface Latex Primer Sealer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 241416,
+        "sha256": "d0d5788b8506b107135945fcf992fa732fc872562734785a3b61be96b1ae55e9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Manufactured by Benjamin Moore & Co. 101 Paragon Drive, Montvale, NJ 07645 Tel: 866-708-9180 www.benjaminmoore.ca/inslx M72 AP-1000 CAE 110920 PRIME ALLTM MULTI-SURFACE LATEX PRIMER SEALER AP-1000 Features General Description  Strong adhes"
+      }
+    },
+    {
+      "csvRow": 30,
+      "sku": "I-000000030",
+      "name": "Aqua Lock Plus Primer/Sealer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_AquaLock_AQ0400/AQ-0400F_SDS_EN.pdf",
+      "file": "PDFs/SDS/insl-x-AQ-0400F_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-AQ-0400F_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-AQ-0400F_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-AQ-0400F_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "Aqua Lock Plus Primer/Sealer",
+        "variant": "Primer",
+        "pages": 10,
+        "bytes": 79795,
+        "sha256": "a4d71a758833fd0bbec20e8661d9c127da2d2da5ee1d84befdf9af16971db28e",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 24-Apr-2025 Revision Number: 9 1. PRODUCT AND COMPANY IDENTIFICATION Product Name AQUA LOCK PLUS 100% ACRYLIC PRIMER / SEALER WHITE Product Code AQ-0400F Alternate Product Code XF0101 Product Class SURFACE P"
+      }
+    },
+    {
+      "csvRow": 30,
+      "sku": "I-000000030",
+      "name": "Aqua Lock Plus Primer/Sealer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_AQ-0XXX/AQ-0XXX_TDS_CE.pdf",
+      "file": "PDFs/TDS/insl-x-AQ-0XXX_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-AQ-0XXX_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-AQ-0XXX_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-AQ-0XXX_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "Aqua Lock Plus Primer/Sealer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 148187,
+        "sha256": "13310bbaebbe22489ac1921d5f5777cada9e1f101ec142a5c3b5114a3cd497e6",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Manufactured by Benjamin Moore & Co. 101 Paragon Drive, Montvale, NJ 07645 Tel: 800-361-5898 www.Insl-x.ca M72 AQ-04XX CE 071526 AQUA LOCK ® PLUS 100% ACRYLIC PRIMER SEALER AQ-04XX Features General Description • Outstanding sealing properti"
+      }
+    },
+    {
+      "csvRow": 31,
+      "sku": "I-000000031",
+      "name": "Prime Lock Plus Primer Sealer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/MSDS_PS-8100/PS-8100F_SDS_EN.PDF",
+      "file": "PDFs/SDS/insl-x-PS-8100F_SDS_EN.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-PS-8100F_SDS_EN.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/insl-x-PS-8100F_SDS_EN.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/insl-x-PS-8100F_SDS_EN.pdf",
+        "documentType": "SDS",
+        "brand": "Insl-X",
+        "product": "Prime Lock Plus Primer Sealer",
+        "variant": "Primer",
+        "pages": 12,
+        "bytes": 88657,
+        "sha256": "47cd2c21123e8da81756b0fb122864ba5b64048010918f5d9cbc4c2e6579c484",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "SAFETY DATA SHEET Revision Date: 29-Sep-2021 Revision Number: 2 1. PRODUCT AND COMPANY IDENTIFICATION Product Name PRIME LOCK PLUS ALKYD PRIMER / SEALER WHITE Product Code PS-8100F Alternate Product Code UF4200 Product Class SOLVENT THINNED"
+      }
+    },
+    {
+      "csvRow": 31,
+      "sku": "I-000000031",
+      "name": "Prime Lock Plus Primer Sealer",
+      "brand": "Insl-X",
+      "variant": "Primer",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://media.benjaminmoore.com/WebServices/prod/assets/production/datasheets/TDS_PS-8100/PS-8100_TDS_CE.pdf",
+      "file": "PDFs/TDS/insl-x-PS-8100_TDS_CE.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-PS-8100_TDS_CE.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/insl-x-PS-8100_TDS_CE.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/insl-x-PS-8100_TDS_CE.pdf",
+        "documentType": "TDS",
+        "brand": "Insl-X",
+        "product": "Prime Lock Plus Primer Sealer",
+        "variant": "Primer",
+        "pages": 2,
+        "bytes": 119593,
+        "sha256": "c30eb9657d73cea5c9e6a99d1abd1866afd433f2868e1db8c2cb20487248f5af",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "Manufactured by Benjamin Moore & Co., 101 Paragon Drive, Montvale, NJ 07645 Tel: 866-708-9180 www.Insl-x.ca M72 PS-8100 CE 042823 PRIME LOCK PLUS ALKYD PRIMER/SEALER PS-8100 Features General Description  Blocks stains  Penetrating alkyd f"
+      }
+    }
+  ]
+}
