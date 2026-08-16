@@ -1,0 +1,287 @@
+{
+  "batch": "120-122",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 388,
+      "sku": "TRA-000000402",
+      "name": "Trac Safe Anti Slip Sealer",
+      "brand": "TracSafe",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Manufacturer TDS and exact distributor SDS found",
+      "researchNotes": "Exact TracSafe Anti-Slip Sealer instruction sheet from the Daich manufacturer product page. Daich's product page and site search did not provide an SDS download, so the exact Daich-issued SDS hosted by Canadian distributor Martin & Associates is recorded as Other.",
+      "sds": [
+        {
+          "csvRow": 388,
+          "sku": "TRA-000000402",
+          "name": "Trac Safe Anti Slip Sealer",
+          "brand": "TracSafe",
+          "variant": "TracSafe Anti-Slip Sealer",
+          "documentType": "SDS",
+          "sourceType": "Other",
+          "sourceUrl": "https://martind.ca/wp-content/uploads/2023/07/SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf",
+          "file": "PDFs/SDS/tracsafe-SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/tracsafe-SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tracsafe-SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 388,
+          "sku": "TRA-000000402",
+          "name": "Trac Safe Anti Slip Sealer",
+          "brand": "TracSafe",
+          "variant": "TracSafe Anti-Slip Sealer Instruction Sheet",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://daichcoatings.com/?jet_download=6cd8e9a2799745f224eb322bf25287b11c121f3b",
+          "file": "PDFs/TDS/tracsafe-TracSafe-Anti-Slip-Sealer-Instructions.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/tracsafe-TracSafe-Anti-Slip-Sealer-Instructions.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/tracsafe-TracSafe-Anti-Slip-Sealer-Instructions.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 390,
+      "sku": "TER-000000404",
+      "name": "Terrazzo Decorative Silverado",
+      "brand": "Terrazzo",
+      "category": "Paints > Specialty Paints",
+      "researchStatus": "Manufacturer TDS and exact distributor SDS found",
+      "researchNotes": "Exact Terrazzo Decorative Granite Resurfacer installation instructions from the Daich manufacturer product page; the sheet covers every factory finish including Silverado. Daich's product page and site search did not provide an SDS download, so the exact Daich-issued Terrazzo SDS hosted by Canadian distributor Martin & Associates is recorded as Other.",
+      "sds": [
+        {
+          "csvRow": 390,
+          "sku": "TER-000000404",
+          "name": "Terrazzo Decorative Silverado",
+          "brand": "Terrazzo",
+          "variant": "Terrazzo Decorative Granite Coating",
+          "documentType": "SDS",
+          "sourceType": "Other",
+          "sourceUrl": "https://martind.ca/wp-content/uploads/2023/07/SDS-Terrazzo-Coating-ENG.pdf",
+          "file": "PDFs/SDS/terrazzo-SDS-Terrazzo-Coating-ENG.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/terrazzo-SDS-Terrazzo-Coating-ENG.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/terrazzo-SDS-Terrazzo-Coating-ENG.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 390,
+          "sku": "TER-000000404",
+          "name": "Terrazzo Decorative Silverado",
+          "brand": "Terrazzo",
+          "variant": "Terrazzo Installation Instructions",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://daichcoatings.com/?jet_download=2375a7f451d19d796dd81d25b27f9244825f3c8d",
+          "file": "PDFs/TDS/terrazzo-Terrazzo-Installation-Instructions.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/terrazzo-Terrazzo-Installation-Instructions.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/terrazzo-Terrazzo-Installation-Instructions.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 406,
+      "sku": "DUR-000000420",
+      "name": "Dura Seal Quick Coat Rosewood",
+      "brand": "DuraSeal",
+      "category": "Paints > Interior",
+      "researchStatus": "Manufacturer SDS and PDS found",
+      "researchNotes": "Exact DuraSeal Quick Coat Rosewood quart documents for manufacturer product number 861390000, linked from the official DuraSeal product table. The PDS applies to the Quick Coat product line and the GHS SDS is generated for the exact Rosewood quart product number.",
+      "sds": [
+        {
+          "csvRow": 406,
+          "sku": "DUR-000000420",
+          "name": "Dura Seal Quick Coat Rosewood",
+          "brand": "DuraSeal",
+          "variant": "Quick Coat Rosewood Quart 861390000",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=DURA&prodno=861390000&doctype=SDS&cntry=US&lang=E",
+          "file": "PDFs/SDS/duraseal-Quick-Coat-Rosewood-861390000-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/duraseal-Quick-Coat-Rosewood-861390000-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/duraseal-Quick-Coat-Rosewood-861390000-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 406,
+          "sku": "DUR-000000420",
+          "name": "Dura Seal Quick Coat Rosewood",
+          "brand": "DuraSeal",
+          "variant": "Quick Coat Rosewood Quart 861390000 PDS",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=DURA&prodno=861390000&doctype=PDS&lang=E",
+          "file": "PDFs/TDS/duraseal-Quick-Coat-861390000-PDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/duraseal-Quick-Coat-861390000-PDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/duraseal-Quick-Coat-861390000-PDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 388,
+      "sku": "TRA-000000402",
+      "name": "Trac Safe Anti Slip Sealer",
+      "brand": "TracSafe",
+      "variant": "TracSafe Anti-Slip Sealer",
+      "documentType": "SDS",
+      "sourceType": "Other",
+      "sourceUrl": "https://martind.ca/wp-content/uploads/2023/07/SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf",
+      "file": "PDFs/SDS/tracsafe-SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/tracsafe-SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/tracsafe-SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/tracsafe-SDS-TracSafe-Anti-Slip-Sealer-ENG.pdf",
+        "documentType": "SDS",
+        "brand": "TracSafe",
+        "product": "Trac Safe Anti Slip Sealer",
+        "variant": "TracSafe Anti-Slip Sealer",
+        "pages": 8,
+        "bytes": 255180,
+        "sha256": "a53af7cf5965b9742dba7877aa6d4762433b8d2e0af4cde5bb8f86d8d1e98f9b",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET Date: 27-Oct-2019 _____________________________________________________________________________________________ _____________________________________________________________________________________________ Page 1 / 8 1. ID"
+      }
+    },
+    {
+      "csvRow": 388,
+      "sku": "TRA-000000402",
+      "name": "Trac Safe Anti Slip Sealer",
+      "brand": "TracSafe",
+      "variant": "TracSafe Anti-Slip Sealer Instruction Sheet",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://daichcoatings.com/?jet_download=6cd8e9a2799745f224eb322bf25287b11c121f3b",
+      "file": "PDFs/TDS/tracsafe-TracSafe-Anti-Slip-Sealer-Instructions.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/tracsafe-TracSafe-Anti-Slip-Sealer-Instructions.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/tracsafe-TracSafe-Anti-Slip-Sealer-Instructions.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/tracsafe-TracSafe-Anti-Slip-Sealer-Instructions.pdf",
+        "documentType": "TDS",
+        "brand": "TracSafe",
+        "product": "Trac Safe Anti Slip Sealer",
+        "variant": "TracSafe Anti-Slip Sealer Instruction Sheet",
+        "pages": 1,
+        "bytes": 1973445,
+        "sha256": "74e515ae3b01b611baba63f8e37ca0a253a4ec20ca99fc6bc9634af806031b40",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "Now you can add more foot traction and safety to all kinds of slippery surfaces indoors and out with TracSafe® Anti-Slip Sealer. It’s a unique pre-mixed formula that’s ready to apply wherever you need it, for slippery steps, walkways and we"
+      }
+    },
+    {
+      "csvRow": 390,
+      "sku": "TER-000000404",
+      "name": "Terrazzo Decorative Silverado",
+      "brand": "Terrazzo",
+      "variant": "Terrazzo Decorative Granite Coating",
+      "documentType": "SDS",
+      "sourceType": "Other",
+      "sourceUrl": "https://martind.ca/wp-content/uploads/2023/07/SDS-Terrazzo-Coating-ENG.pdf",
+      "file": "PDFs/SDS/terrazzo-SDS-Terrazzo-Coating-ENG.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/terrazzo-SDS-Terrazzo-Coating-ENG.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/terrazzo-SDS-Terrazzo-Coating-ENG.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/terrazzo-SDS-Terrazzo-Coating-ENG.pdf",
+        "documentType": "SDS",
+        "brand": "Terrazzo",
+        "product": "Terrazzo Decorative Silverado",
+        "variant": "Terrazzo Decorative Granite Coating",
+        "pages": 9,
+        "bytes": 1534490,
+        "sha256": "248ca297c089df094d02f17fdf8fb1b74f5b38ba12f397ed3fe37c27604f9e89",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SAFETY DATA SHEET Date: 1-AUG-2022 _____________________________________________________________________________________________ Page 1 / 9 1. IDENTIFICATION OF THE SUBSTANCE/PREPARATION AND OF THE COMPANY/UNDERTAKING Product identifier Pro"
+      }
+    },
+    {
+      "csvRow": 390,
+      "sku": "TER-000000404",
+      "name": "Terrazzo Decorative Silverado",
+      "brand": "Terrazzo",
+      "variant": "Terrazzo Installation Instructions",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://daichcoatings.com/?jet_download=2375a7f451d19d796dd81d25b27f9244825f3c8d",
+      "file": "PDFs/TDS/terrazzo-Terrazzo-Installation-Instructions.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/terrazzo-Terrazzo-Installation-Instructions.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/terrazzo-Terrazzo-Installation-Instructions.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/terrazzo-Terrazzo-Installation-Instructions.pdf",
+        "documentType": "TDS",
+        "brand": "Terrazzo",
+        "product": "Terrazzo Decorative Silverado",
+        "variant": "Terrazzo Installation Instructions",
+        "pages": 1,
+        "bytes": 602921,
+        "sha256": "0c308b0085ee623726abbf2b2383ade4a2fcfa8e1b4f5682a52874bb3bba5d21",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "CONCRETE: New concrete must cure 30 days before coating. The surface must be clean and dry, free from dirt, dust, surface flaking, oils, peeling paint and other contaminates. Very smooth, new or efflorescent surfaces should be etched to ope"
+      }
+    },
+    {
+      "csvRow": 406,
+      "sku": "DUR-000000420",
+      "name": "Dura Seal Quick Coat Rosewood",
+      "brand": "DuraSeal",
+      "variant": "Quick Coat Rosewood Quart 861390000",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=DURA&prodno=861390000&doctype=SDS&cntry=US&lang=E",
+      "file": "PDFs/SDS/duraseal-Quick-Coat-Rosewood-861390000-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/duraseal-Quick-Coat-Rosewood-861390000-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/duraseal-Quick-Coat-Rosewood-861390000-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/duraseal-Quick-Coat-Rosewood-861390000-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "DuraSeal",
+        "product": "Dura Seal Quick Coat Rosewood",
+        "variant": "Quick Coat Rosewood Quart 861390000",
+        "pages": 26,
+        "bytes": 207532,
+        "sha256": "912828b7d4621f1ae85315e2ffb29b9ea6f414d4b85a12554a523f3643b6db26",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "DURA SEAL® QUICK COAT 2 Hour Penetrating FinishRosewoodNot available.Liquid. (800) 424-9300 SAFETY DATA SHEET Product nameOther means of identificationProduct type Emergency telephone number of the company Section 1. Identification::: :Manu"
+      }
+    },
+    {
+      "csvRow": 406,
+      "sku": "DUR-000000420",
+      "name": "Dura Seal Quick Coat Rosewood",
+      "brand": "DuraSeal",
+      "variant": "Quick Coat Rosewood Quart 861390000 PDS",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.paintdocs.com/webmsds/webPDF.jsp?SITEID=DURA&prodno=861390000&doctype=PDS&lang=E",
+      "file": "PDFs/TDS/duraseal-Quick-Coat-861390000-PDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/duraseal-Quick-Coat-861390000-PDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/duraseal-Quick-Coat-861390000-PDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/duraseal-Quick-Coat-861390000-PDS.pdf",
+        "documentType": "TDS",
+        "brand": "DuraSeal",
+        "product": "Dura Seal Quick Coat Rosewood",
+        "variant": "Quick Coat Rosewood Quart 861390000 PDS",
+        "pages": 2,
+        "bytes": 157813,
+        "sha256": "3470cbaf5d39041d6eb3471ea5104d316f73a34b37d15c179b0f52718736843f",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "TECHNICAL BULLETIN DURASEAL Quick Coat 2-Hour Penetrating Finish PRODUCT DESCRIPTION: DuraSeal Quick Coat Penetrating Finish is a semi-transparent stain formulated to seal, color and provide exceptional durability when used on bare wood and"
+      }
+    }
+  ]
+}
