@@ -1,0 +1,473 @@
+{
+  "batch": "203-207",
+  "sourcePriority": "Manufacturer first",
+  "products": [
+    {
+      "csvRow": 682,
+      "sku": "SK-000000696",
+      "name": "Seal King Paving Stone Sealer Semi",
+      "brand": "Seal King",
+      "category": "Paints > Driveway Coatings",
+      "researchStatus": "Exact manufacturer family SDS and TDS found",
+      "researchNotes": "The row identifies Seal King Paving Stone Sealer in Semi Gloss. Seal King's manufacturer SDS explicitly covers the high-gloss and semi-gloss solvent-based Paving Stone Sealer formulations, and the current manufacturer technical data sheet lists Semi Gloss among the available finishes.",
+      "sds": [
+        {
+          "csvRow": 682,
+          "sku": "SK-000000696",
+          "name": "Seal King Paving Stone Sealer Semi",
+          "brand": "Seal King",
+          "variant": "Seal King Paving Stone Sealer Semi Gloss",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/SDS-Paving-Stone-Sealer.pdf",
+          "file": "PDFs/SDS/seal-king-Seal-King-Paving-Stone-Sealer-Semi-Gloss-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Paving-Stone-Sealer-Semi-Gloss-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-king-Seal-King-Paving-Stone-Sealer-Semi-Gloss-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 682,
+          "sku": "SK-000000696",
+          "name": "Seal King Paving Stone Sealer Semi",
+          "brand": "Seal King",
+          "variant": "Seal King Paving Stone Sealer - includes Semi Gloss",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://sealking.ca/wp-content/uploads/2025/06/Seal-King-Data-Sheet-Paving-Stone-Sealer.docx.pdf",
+          "file": "PDFs/TDS/seal-king-Seal-King-Paving-Stone-Sealer-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Paving-Stone-Sealer-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-king-Seal-King-Paving-Stone-Sealer-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 684,
+      "sku": "SK-000000698",
+      "name": "Seal King Natural Stone Sealer Natural L",
+      "brand": "Seal King",
+      "category": "Paints > Driveway Coatings",
+      "researchStatus": "Exact manufacturer SDS and current manufacturer coating-family TDS found",
+      "researchNotes": "The row image identifies Seal King Natural Stone Sealer in the Natural Look finish. Seal King supplies the exact SK/NSSN Natural Stone Sealer Natural SDS. Its current English product page links the manufacturer family technical sheet in French only; that sheet explicitly covers Natural Look and Colour Enhancer finishes and is retained rather than substituting an unrelated English document.",
+      "sds": [
+        {
+          "csvRow": 684,
+          "sku": "SK-000000698",
+          "name": "Seal King Natural Stone Sealer Natural L",
+          "brand": "Seal King",
+          "variant": "Seal King Natural Stone Sealer Natural Look - SK/NSSN",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/SK_NSSN-SDS-Natural-Stone-Sealer-Natural-.pdf",
+          "file": "PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Natural-Look-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Natural-Look-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Natural-Look-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 684,
+          "sku": "SK-000000698",
+          "name": "Seal King Natural Stone Sealer Natural L",
+          "brand": "Seal King",
+          "variant": "Seal King Natural Stone Sealer - Natural Look and Colour Enhancer - French",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/TDS-Sealking-Natural-Stone-Sealer-FR.pdf",
+          "file": "PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 685,
+      "sku": "SK-000000699",
+      "name": "Seal King Natural Stone Sealer Colour En",
+      "brand": "Seal King",
+      "category": "Paints > Driveway Coatings",
+      "researchStatus": "Exact manufacturer SDS and current manufacturer coating-family TDS found",
+      "researchNotes": "The row image identifies Seal King Natural Stone Sealer in the Colour Enhancer finish. Seal King supplies the exact SK/NSSCE Colour Enhancer SDS. Its current English product page links the manufacturer family technical sheet in French only; that sheet explicitly covers Natural Look and Colour Enhancer finishes and is retained rather than substituting an unrelated English document.",
+      "sds": [
+        {
+          "csvRow": 685,
+          "sku": "SK-000000699",
+          "name": "Seal King Natural Stone Sealer Colour En",
+          "brand": "Seal King",
+          "variant": "Seal King Natural Stone Sealer Colour Enhancer - SK/NSSCE",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/SK_NSSCE-Natural-Stone-Sealer-Colour-Enhancer.pdf",
+          "file": "PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Colour-Enhancer-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Colour-Enhancer-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Colour-Enhancer-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 685,
+          "sku": "SK-000000699",
+          "name": "Seal King Natural Stone Sealer Colour En",
+          "brand": "Seal King",
+          "variant": "Seal King Natural Stone Sealer - Natural Look and Colour Enhancer - French",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/TDS-Sealking-Natural-Stone-Sealer-FR.pdf",
+          "file": "PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 689,
+      "sku": "SK-000000703",
+      "name": "Seal King Basement Floor Seale Clear",
+      "brand": "Seal King",
+      "category": "Paints > Driveway Coatings",
+      "researchStatus": "Exact manufacturer SDS and TDS found",
+      "researchNotes": "The row identifies Seal King High Performance Basement Floor Sealer in Clear. Seal King publishes the exact SK/BFS safety data sheet and its current two-page Basement Floor Sealer technical data sheet for the one-component water-borne acrylic/urethane coating.",
+      "sds": [
+        {
+          "csvRow": 689,
+          "sku": "SK-000000703",
+          "name": "Seal King Basement Floor Seale Clear",
+          "brand": "Seal King",
+          "variant": "Seal King Basement Floor Sealer Clear - SK/BFS",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://sealking.ca/wp-content/uploads/2025/08/SK_BFS-SDS-Basement-Floor-Sealer-EN.pdf",
+          "file": "PDFs/SDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 689,
+          "sku": "SK-000000703",
+          "name": "Seal King Basement Floor Seale Clear",
+          "brand": "Seal King",
+          "variant": "Seal King Basement Floor Sealer Clear",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://sealking.ca/wp-content/uploads/2025/05/Seal-King-Basement-Floor-Sealer_TDS.docx.pdf",
+          "file": "PDFs/TDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-TDS.pdf?raw=true"
+        }
+      ]
+    },
+    {
+      "csvRow": 690,
+      "sku": "AP-000000704",
+      "name": "Allpro Spray Can Fire Engine Red",
+      "brand": "AllPro",
+      "category": "Paints > Aerosols",
+      "researchStatus": "Exact manufacturer-hosted SDS and family TDS found",
+      "researchNotes": "The row image identifies ALLPRO Spray Enamel Fire Engine Red, product 11051. ALLPRO's manufacturer document library supplies the exact 11051 Fire Engine Red SDS and its Spray Enamel technical data sheet covering products 11050 through 11068, including Fire Engine Red.",
+      "sds": [
+        {
+          "csvRow": 690,
+          "sku": "AP-000000704",
+          "name": "Allpro Spray Can Fire Engine Red",
+          "brand": "AllPro",
+          "variant": "ALLPRO Spray Enamel Fire Engine Red - 11051",
+          "documentType": "SDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.allprocorp.com/Content/UserFiles/Documents/SDS%28SafetyDataSheets%29/SeymourSDS/Seymour_-_11051_FIRE_ENGINE_RED_%28US4%29.pdf",
+          "file": "PDFs/SDS/allpro-ALLPRO-Spray-Enamel-Fire-Engine-Red-11051-SDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/SDS/allpro-ALLPRO-Spray-Enamel-Fire-Engine-Red-11051-SDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/allpro-ALLPRO-Spray-Enamel-Fire-Engine-Red-11051-SDS.pdf?raw=true"
+        }
+      ],
+      "tds": [
+        {
+          "csvRow": 690,
+          "sku": "AP-000000704",
+          "name": "Allpro Spray Can Fire Engine Red",
+          "brand": "AllPro",
+          "variant": "ALLPRO Spray Enamel 11050-11068 - includes 11051 Fire Engine Red",
+          "documentType": "TDS",
+          "sourceType": "Manufacturer",
+          "sourceUrl": "https://www.allprocorp.com/Content/UserFiles/Documents/TechnicalBulletins/SeymourTB/PDFs%20of%20TDS/7000_11050-11068_SprayEnamel_TDS.pdf",
+          "file": "PDFs/TDS/allpro-ALLPRO-Spray-Enamel-11050-11068-TDS.pdf",
+          "output": "outputs/NewSteelesImages/PDFs/TDS/allpro-ALLPRO-Spray-Enamel-11050-11068-TDS.pdf",
+          "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/allpro-ALLPRO-Spray-Enamel-11050-11068-TDS.pdf?raw=true"
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "csvRow": 682,
+      "sku": "SK-000000696",
+      "name": "Seal King Paving Stone Sealer Semi",
+      "brand": "Seal King",
+      "variant": "Seal King Paving Stone Sealer Semi Gloss",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/SDS-Paving-Stone-Sealer.pdf",
+      "file": "PDFs/SDS/seal-king-Seal-King-Paving-Stone-Sealer-Semi-Gloss-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Paving-Stone-Sealer-Semi-Gloss-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-king-Seal-King-Paving-Stone-Sealer-Semi-Gloss-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Paving-Stone-Sealer-Semi-Gloss-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Seal King",
+        "product": "Seal King Paving Stone Sealer Semi",
+        "variant": "Seal King Paving Stone Sealer Semi Gloss",
+        "pages": 3,
+        "bytes": 659381,
+        "sha256": "1708413d79ff1a9d9a2f36831cea0dfd792b6a19811ec5b534a2d7550f75b8e0",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "PRODUCT: PAVING STONE SEALER \\ TDG CLASSIFICATION ................................................... No t regulated UN NUMBER .................................................................... Flammable Liquid UN1268 PACKING GROUP......."
+      }
+    },
+    {
+      "csvRow": 682,
+      "sku": "SK-000000696",
+      "name": "Seal King Paving Stone Sealer Semi",
+      "brand": "Seal King",
+      "variant": "Seal King Paving Stone Sealer - includes Semi Gloss",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://sealking.ca/wp-content/uploads/2025/06/Seal-King-Data-Sheet-Paving-Stone-Sealer.docx.pdf",
+      "file": "PDFs/TDS/seal-king-Seal-King-Paving-Stone-Sealer-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Paving-Stone-Sealer-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-king-Seal-King-Paving-Stone-Sealer-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Paving-Stone-Sealer-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Seal King",
+        "product": "Seal King Paving Stone Sealer Semi",
+        "variant": "Seal King Paving Stone Sealer - includes Semi Gloss",
+        "pages": 2,
+        "bytes": 165380,
+        "sha256": "361771e692a5ce42fe2eb1f2c4908aff157c0e6e24b7df2bde5805e96ada3a5c",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "PavingStoneSealer- TechnicalDataSheet Description SealKing’s PavingStoneSealerisa onecomponentsolvent-based,VOCcompliant,acrylicbasedsystem.Thissealerisspeciallyformulatedtoenhancethenaturalbeautyofthestone, brickorconcretesurfacebypenetrat"
+      }
+    },
+    {
+      "csvRow": 684,
+      "sku": "SK-000000698",
+      "name": "Seal King Natural Stone Sealer Natural L",
+      "brand": "Seal King",
+      "variant": "Seal King Natural Stone Sealer Natural Look - SK/NSSN",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/SK_NSSN-SDS-Natural-Stone-Sealer-Natural-.pdf",
+      "file": "PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Natural-Look-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Natural-Look-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Natural-Look-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Natural-Look-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Seal King",
+        "product": "Seal King Natural Stone Sealer Natural L",
+        "variant": "Seal King Natural Stone Sealer Natural Look - SK/NSSN",
+        "pages": 5,
+        "bytes": 732079,
+        "sha256": "d54408373d61686988e115815b5f3b07c9053c23b32419427bd58b5dcb87b6f2",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "www.trivalent.com Powered by 00004100 SAFETY DATA SHEET Page 1 SEAL KING INC. 7134 WELLINGTON COUNTY ROAD #124 SOUTH Guelph, ONTARIO, N1H6N3 Canada 519-821-1250 CODE: SK/NSSNPRODUCT: Natural Stone Sealer Natural SECTION 01: IDENTIFICATION P"
+      }
+    },
+    {
+      "csvRow": 684,
+      "sku": "SK-000000698",
+      "name": "Seal King Natural Stone Sealer Natural L",
+      "brand": "Seal King",
+      "variant": "Seal King Natural Stone Sealer - Natural Look and Colour Enhancer - French",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/TDS-Sealking-Natural-Stone-Sealer-FR.pdf",
+      "file": "PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Seal King",
+        "product": "Seal King Natural Stone Sealer Natural L",
+        "variant": "Seal King Natural Stone Sealer - Natural Look and Colour Enhancer - French",
+        "pages": 1,
+        "bytes": 511108,
+        "sha256": "b0cb4cb6b3aa3a9799008a1d3ce27f8a9206ed170d0131076efdf77c60418d76",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "www.sealking.ca LA DESCRIPTION Le scellant pour pie rre natur elle Seal King est un scellant pénétrant transparent de qualité supé rieure, spéci alement formulé pour pr otéger et rehausser la coule ur des surfa ces d e dalles et de pierre n"
+      }
+    },
+    {
+      "csvRow": 685,
+      "sku": "SK-000000699",
+      "name": "Seal King Natural Stone Sealer Colour En",
+      "brand": "Seal King",
+      "variant": "Seal King Natural Stone Sealer Colour Enhancer - SK/NSSCE",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/SK_NSSCE-Natural-Stone-Sealer-Colour-Enhancer.pdf",
+      "file": "PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Colour-Enhancer-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Colour-Enhancer-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Colour-Enhancer-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Natural-Stone-Sealer-Colour-Enhancer-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Seal King",
+        "product": "Seal King Natural Stone Sealer Colour En",
+        "variant": "Seal King Natural Stone Sealer Colour Enhancer - SK/NSSCE",
+        "pages": 5,
+        "bytes": 739281,
+        "sha256": "387499d0f6eeae7532a3768287b16f5a4ddfe92d550c7573e1e1e0abdbbcb8c2",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "www.trivalent.com Powered by 00004113 SAFETY DATA SHEET Page 1 SEAL KING INC. 7134 WELLINGTON COUNTY ROAD #124 SOUTH Guelph, ONTARIO, N1H6N3 Canada 519-821-1250 CODE: SK/NSSCEPRODUCT: Natural Stone Sealer Colour Enhancer SECTION 01: IDENTIF"
+      }
+    },
+    {
+      "csvRow": 685,
+      "sku": "SK-000000699",
+      "name": "Seal King Natural Stone Sealer Colour En",
+      "brand": "Seal King",
+      "variant": "Seal King Natural Stone Sealer - Natural Look and Colour Enhancer - French",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://sealking.ca/wp-content/uploads/2022/08/TDS-Sealking-Natural-Stone-Sealer-FR.pdf",
+      "file": "PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Natural-Stone-Sealer-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Seal King",
+        "product": "Seal King Natural Stone Sealer Natural L",
+        "variant": "Seal King Natural Stone Sealer - Natural Look and Colour Enhancer - French",
+        "pages": 1,
+        "bytes": 511108,
+        "sha256": "b0cb4cb6b3aa3a9799008a1d3ce27f8a9206ed170d0131076efdf77c60418d76",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "www.sealking.ca LA DESCRIPTION Le scellant pour pie rre natur elle Seal King est un scellant pénétrant transparent de qualité supé rieure, spéci alement formulé pour pr otéger et rehausser la coule ur des surfa ces d e dalles et de pierre n"
+      }
+    },
+    {
+      "csvRow": 689,
+      "sku": "SK-000000703",
+      "name": "Seal King Basement Floor Seale Clear",
+      "brand": "Seal King",
+      "variant": "Seal King Basement Floor Sealer Clear - SK/BFS",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://sealking.ca/wp-content/uploads/2025/08/SK_BFS-SDS-Basement-Floor-Sealer-EN.pdf",
+      "file": "PDFs/SDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "Seal King",
+        "product": "Seal King Basement Floor Seale Clear",
+        "variant": "Seal King Basement Floor Sealer Clear - SK/BFS",
+        "pages": 4,
+        "bytes": 19749,
+        "sha256": "481a55890d07cd903c449fc76b55963e7e004514668dc12e8c24116bbe7186c3",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "www.trivalent.com Powered by 00004114 SAFETY DATA SHEET Page 1 SEAL KING INC. 7134 WELLINGTON COUNTY ROAD #124 SOUTH Guelph, ONTARIO, N1H6N3 Canada 519-821-1250 CODE: SK/BFSPRODUCT: Basement Floor Sealer SECTION 01: IDENTIFICATION PRODUCT I"
+      }
+    },
+    {
+      "csvRow": 689,
+      "sku": "SK-000000703",
+      "name": "Seal King Basement Floor Seale Clear",
+      "brand": "Seal King",
+      "variant": "Seal King Basement Floor Sealer Clear",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://sealking.ca/wp-content/uploads/2025/05/Seal-King-Basement-Floor-Sealer_TDS.docx.pdf",
+      "file": "PDFs/TDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/seal-king-Seal-King-Basement-Floor-Sealer-Clear-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "Seal King",
+        "product": "Seal King Basement Floor Seale Clear",
+        "variant": "Seal King Basement Floor Sealer Clear",
+        "pages": 2,
+        "bytes": 221383,
+        "sha256": "1569ad8977a78d22cc93965ff98e360422bd6eda9ccb697fdf1c7a1559d32db9",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": false,
+        "textPreview": "SEALKING www.sealking.cainfo@sealking.ca833-933-7325 BasementFloorSealer- TechnicalDataSheet Description SealKing’s HighPerformanceBasementFloorSealerisa onecomponentwaterborneacrylic/urethanesystem.Itisspeciallyformulatedtoprotectandenhanc"
+      }
+    },
+    {
+      "csvRow": 690,
+      "sku": "AP-000000704",
+      "name": "Allpro Spray Can Fire Engine Red",
+      "brand": "AllPro",
+      "variant": "ALLPRO Spray Enamel Fire Engine Red - 11051",
+      "documentType": "SDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.allprocorp.com/Content/UserFiles/Documents/SDS%28SafetyDataSheets%29/SeymourSDS/Seymour_-_11051_FIRE_ENGINE_RED_%28US4%29.pdf",
+      "file": "PDFs/SDS/allpro-ALLPRO-Spray-Enamel-Fire-Engine-Red-11051-SDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/SDS/allpro-ALLPRO-Spray-Enamel-Fire-Engine-Red-11051-SDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/SDS/allpro-ALLPRO-Spray-Enamel-Fire-Engine-Red-11051-SDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/SDS/allpro-ALLPRO-Spray-Enamel-Fire-Engine-Red-11051-SDS.pdf",
+        "documentType": "SDS",
+        "brand": "AllPro",
+        "product": "Allpro Spray Can Fire Engine Red",
+        "variant": "ALLPRO Spray Enamel Fire Engine Red - 11051",
+        "pages": 5,
+        "bytes": 288541,
+        "sha256": "a467ff024cc66e0a65cf925f6bfae01aeacef78d4d7671980d883ac1015acf5f",
+        "typeMatch": true,
+        "brandMatch": false,
+        "codeMatch": true,
+        "textPreview": "Page 1/5 Safety Data Sheet Printing date 03/24/2015 Revised On 03/24/2015 40.0 1 Identification of the substance and manufacturer Trade name: 11051 FIRE ENGINE RED Product code: XX00980004 Product category PC9a Paints and coatings. Manufact"
+      }
+    },
+    {
+      "csvRow": 690,
+      "sku": "AP-000000704",
+      "name": "Allpro Spray Can Fire Engine Red",
+      "brand": "AllPro",
+      "variant": "ALLPRO Spray Enamel 11050-11068 - includes 11051 Fire Engine Red",
+      "documentType": "TDS",
+      "sourceType": "Manufacturer",
+      "sourceUrl": "https://www.allprocorp.com/Content/UserFiles/Documents/TechnicalBulletins/SeymourTB/PDFs%20of%20TDS/7000_11050-11068_SprayEnamel_TDS.pdf",
+      "file": "PDFs/TDS/allpro-ALLPRO-Spray-Enamel-11050-11068-TDS.pdf",
+      "output": "outputs/NewSteelesImages/PDFs/TDS/allpro-ALLPRO-Spray-Enamel-11050-11068-TDS.pdf",
+      "githubRawUrl": "https://raw.githubusercontent.com/kinggoff/NewSteelesImages/main/PDFs/TDS/allpro-ALLPRO-Spray-Enamel-11050-11068-TDS.pdf?raw=true",
+      "validation": {
+        "output": "outputs/NewSteelesImages/PDFs/TDS/allpro-ALLPRO-Spray-Enamel-11050-11068-TDS.pdf",
+        "documentType": "TDS",
+        "brand": "AllPro",
+        "product": "Allpro Spray Can Fire Engine Red",
+        "variant": "ALLPRO Spray Enamel 11050-11068 - includes 11051 Fire Engine Red",
+        "pages": 2,
+        "bytes": 149483,
+        "sha256": "000a34c9a7b1a8dc978350737e52278ccf82d11f84bd5b41aacbfcf190be4e18",
+        "typeMatch": true,
+        "brandMatch": true,
+        "codeMatch": true,
+        "textPreview": "ALLPRO® Corporation TAMPA, FL 33619 Spray Enamel AP7000-11050/11051/11052/11053/11054/11055/11056/11057/11058/11059 AP7000-11060/11061/11062/11063/11064/11065/11066/11067/11068 January, 2000 Description ALLPRO Spray Enamel is a high perform"
+      }
+    }
+  ]
+}
